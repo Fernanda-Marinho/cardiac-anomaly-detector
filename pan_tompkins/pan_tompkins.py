@@ -28,6 +28,8 @@ import os
 import sys
 
 import numpy as np
+import subprocess
+import re
 
 
 # ════════════════════════════════════════════════════════════════════
@@ -477,10 +479,53 @@ def main():
                    help="Max amostras a processar (padrão 65.000 = igual ao Verilog)")
     args = p.parse_args()
 
+    def run_download_csv(arg):
+        # call download_csv.py in repo root
+        repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+        script = os.path.join(repo_root, "download_csv.py")
+        if not os.path.exists(script):
+            sys.exit("download_csv.py not found in repository root")
+
+        # prepare command depending on arg
+        if arg == "all":
+            cmd = ["python3", script, "all"]
+            out_name = os.path.join(repo_root, "all_signals_combined.csv")
+        elif arg.isdigit():
+            cmd = ["python3", script, arg]
+            out_name = os.path.join(repo_root, f"{arg}_signals.csv")
+        else:
+            # treat as file id or url
+            cmd = ["python3", script, "file", "--file-id", arg]
+            out_name = os.path.join(repo_root, "file_signals.csv")
+
+        try:
+            subprocess.run(cmd, check=True, cwd=repo_root)
+        except subprocess.CalledProcessError as e:
+            sys.exit(f"download_csv.py failed: {e}")
+        return out_name
+
     if args.csv:
-        sig, fs_inf, nome = carregar_csv(args.csv, max_amostras=args.amostras)
-        fs = args.fs or fs_inf
-        nome = f"{os.path.basename(args.csv)} ({nome})"
+        # if args.csv is an existing local path, use it directly
+        if os.path.exists(args.csv):
+            sig, fs_inf, nome = carregar_csv(args.csv, max_amostras=args.amostras)
+            fs = args.fs or fs_inf
+            nome = f"{os.path.basename(args.csv)} ({nome})"
+        else:
+            # if args.csv looks like a number, 'all', or drive id/link, download it
+            is_drive_link = bool(re.search(r"drive\.google\.com|/d/", str(args.csv)))
+            is_id_like = bool(re.fullmatch(r"[A-Za-z0-9_-]{10,}", str(args.csv)))
+            if args.csv == "all" or args.csv.isdigit() or is_drive_link or is_id_like:
+                downloaded = run_download_csv(args.csv)
+                if not os.path.exists(downloaded):
+                    sys.exit(f"Downloaded file not found: {downloaded}")
+                sig, fs_inf, nome = carregar_csv(downloaded, max_amostras=args.amostras)
+                fs = args.fs or fs_inf
+                nome = f"{os.path.basename(downloaded)} ({nome})"
+            else:
+                # treat as path even if it doesn't exist locally
+                sig, fs_inf, nome = carregar_csv(args.csv, max_amostras=args.amostras)
+                fs = args.fs or fs_inf
+                nome = f"{os.path.basename(args.csv)} ({nome})"
     elif args.mat:
         sig, var = carregar_mat(args.mat, args.var)
         fs = args.fs
