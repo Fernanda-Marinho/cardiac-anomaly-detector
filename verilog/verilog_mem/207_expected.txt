@@ -1,0 +1,224 @@
+sample,symbol,description,valor_normalizado
+50,R,Right bundle branch block,255
+312,V,Premature ventricular contraction,26
+835,R,Right bundle branch block,255
+1078,V,Premature ventricular contraction,5
+1588,R,Right bundle branch block,255
+1821,V,Premature ventricular contraction,17
+2342,R,Right bundle branch block,255
+2593,V,Premature ventricular contraction,2
+3111,R,Right bundle branch block,255
+3357,V,Premature ventricular contraction,12
+3857,R,Right bundle branch block,255
+4092,V,Premature ventricular contraction,17
+4637,R,Right bundle branch block,255
+4889,V,Premature ventricular contraction,22
+5409,R,Right bundle branch block,255
+5648,V,Premature ventricular contraction,34
+6160,R,Right bundle branch block,255
+6408,V,Premature ventricular contraction,42
+6939,R,Right bundle branch block,255
+7191,V,Premature ventricular contraction,37
+7700,R,Right bundle branch block,255
+7937,V,Premature ventricular contraction,59
+8437,R,Right bundle branch block,255
+8694,V,Premature ventricular contraction,75
+9215,R,Right bundle branch block,251
+9463,V,Premature ventricular contraction,120
+9949,R,Right bundle branch block,255
+10196,V,Premature ventricular contraction,30
+10689,R,Right bundle branch block,255
+10939,V,Premature ventricular contraction,40
+11450,R,Right bundle branch block,245
+11699,V,Premature ventricular contraction,70
+12197,R,Right bundle branch block,249
+12436,V,Premature ventricular contraction,72
+12936,R,Right bundle branch block,255
+13200,V,Premature ventricular contraction,39
+13348,V,Premature ventricular contraction,224
+13717,L,Left bundle branch block,4
+13967,V,Premature ventricular contraction,209
+14125,V,Premature ventricular contraction,255
+14263,V,Premature ventricular contraction,255
+14522,L,Left bundle branch block,2
+14665,[,Left bracket,211
+14894,!,Unknown,63
+15018,!,Unknown,6
+15138,!,Unknown,26
+15258,!,Unknown,41
+15387,!,Unknown,67
+15519,!,Unknown,115
+15642,!,Unknown,37
+15759,!,Unknown,119
+15906,!,Unknown,54
+16015,!,Unknown,105
+16138,!,Unknown,109
+16262,!,Unknown,91
+16383,!,Unknown,70
+16496,!,Unknown,44
+16611,!,Unknown,35
+16710,!,Unknown,102
+16822,!,Unknown,32
+16936,!,Unknown,62
+17055,!,Unknown,67
+17218,!,Unknown,39
+17346,!,Unknown,87
+17509,!,Unknown,63
+17618,!,Unknown,100
+17730,!,Unknown,79
+17857,!,Unknown,40
+17976,!,Unknown,49
+18132,!,Unknown,56
+18256,!,Unknown,187
+18350,],Right bracket,138
+18825,R,Right bundle branch block,247
+19070,V,Premature ventricular contraction,24
+19579,R,Right bundle branch block,216
+19715,[,Left bracket,167
+19836,!,Unknown,0
+19964,!,Unknown,0
+20077,!,Unknown,0
+20183,!,Unknown,10
+20297,!,Unknown,14
+20402,!,Unknown,19
+20521,!,Unknown,42
+20640,!,Unknown,46
+20748,!,Unknown,75
+20851,!,Unknown,98
+20962,!,Unknown,103
+21092,!,Unknown,76
+21183,!,Unknown,0
+21315,!,Unknown,5
+21432,!,Unknown,15
+21608,!,Unknown,0
+21731,],Right bracket,189
+22117,R,Right bundle branch block,220
+22383,V,Premature ventricular contraction,0
+22513,V,Premature ventricular contraction,101
+22665,V,Premature ventricular contraction,255
+22883,L,Left bundle branch block,9
+23174,L,Left bundle branch block,0
+23502,L,Left bundle branch block,0
+23746,V,Premature ventricular contraction,255
+24177,R,Right bundle branch block,250
+24535,L,Left bundle branch block,0
+24866,L,Left bundle branch block,0
+25185,L,Left bundle branch block,0
+25496,L,Left bundle branch block,0
+25758,V,Premature ventricular contraction,255
+26164,L,Left bundle branch block,0
+26399,V,Premature ventricular contraction,236
+26810,R,Right bundle branch block,248
+27055,V,Premature ventricular contraction,255
+27458,R,Right bundle branch block,240
+27785,L,Left bundle branch block,0
+28039,V,Premature ventricular contraction,255
+28182,V,Premature ventricular contraction,255
+28717,R,Right bundle branch block,255
+28965,V,Premature ventricular contraction,255
+29115,V,Premature ventricular contraction,165
+29455,R,Right bundle branch block,249
+29847,L,Left bundle branch block,0
+30088,V,Premature ventricular contraction,255
+30567,R,Right bundle branch block,255
+30831,V,Premature ventricular contraction,255
+31261,R,Right bundle branch block,255
+31614,L,Left bundle branch block,0
+31944,L,Left bundle branch block,0
+32284,L,Left bundle branch block,0
+32637,L,Left bundle branch block,0
+32985,L,Left bundle branch block,0
+33339,L,Left bundle branch block,0
+33604,V,Premature ventricular contraction,255
+33996,R,Right bundle branch block,255
+34347,L,Left bundle branch block,0
+34708,L,Left bundle branch block,0
+35076,L,Left bundle branch block,0
+35420,L,Left bundle branch block,0
+35760,L,Left bundle branch block,0
+36105,L,Left bundle branch block,0
+36439,L,Left bundle branch block,0
+36792,L,Left bundle branch block,0
+37147,L,Left bundle branch block,0
+37500,L,Left bundle branch block,0
+37848,L,Left bundle branch block,0
+38182,L,Left bundle branch block,0
+38509,L,Left bundle branch block,0
+38867,L,Left bundle branch block,0
+39234,L,Left bundle branch block,0
+39575,L,Left bundle branch block,0
+39924,L,Left bundle branch block,0
+40264,L,Left bundle branch block,0
+40599,L,Left bundle branch block,0
+40951,L,Left bundle branch block,0
+41301,L,Left bundle branch block,0
+41654,L,Left bundle branch block,0
+42000,L,Left bundle branch block,0
+42331,L,Left bundle branch block,0
+42660,L,Left bundle branch block,0
+42985,L,Left bundle branch block,1
+43334,L,Left bundle branch block,7
+43685,L,Left bundle branch block,0
+44020,L,Left bundle branch block,2
+44354,L,Left bundle branch block,0
+44688,L,Left bundle branch block,0
+45009,L,Left bundle branch block,0
+45346,L,Left bundle branch block,0
+45687,L,Left bundle branch block,0
+46025,L,Left bundle branch block,55
+46289,V,Premature ventricular contraction,255
+46680,L,Left bundle branch block,12
+46903,V,Premature ventricular contraction,235
+47307,R,Right bundle branch block,219
+47596,V,Premature ventricular contraction,255
+47748,V,Premature ventricular contraction,255
+48019,L,Left bundle branch block,4
+48247,V,Premature ventricular contraction,240
+48669,R,Right bundle branch block,240
+48885,V,Premature ventricular contraction,2
+49331,R,Right bundle branch block,236
+49559,V,Premature ventricular contraction,28
+50025,R,Right bundle branch block,224
+50263,V,Premature ventricular contraction,33
+50724,R,Right bundle branch block,221
+50948,V,Premature ventricular contraction,52
+51383,R,Right bundle branch block,220
+51603,V,Premature ventricular contraction,41
+52089,R,Right bundle branch block,221
+52320,V,Premature ventricular contraction,23
+52785,R,Right bundle branch block,236
+53012,V,Premature ventricular contraction,25
+53471,R,Right bundle branch block,246
+53692,V,Premature ventricular contraction,28
+54160,R,Right bundle branch block,246
+54401,V,Premature ventricular contraction,27
+54868,R,Right bundle branch block,245
+55103,V,Premature ventricular contraction,45
+55558,R,Right bundle branch block,250
+55775,V,Premature ventricular contraction,43
+56266,R,Right bundle branch block,255
+56508,V,Premature ventricular contraction,42
+56974,R,Right bundle branch block,255
+57206,V,Premature ventricular contraction,9
+57666,R,Right bundle branch block,247
+57893,V,Premature ventricular contraction,16
+58370,R,Right bundle branch block,222
+58607,V,Premature ventricular contraction,0
+59089,R,Right bundle branch block,220
+59320,V,Premature ventricular contraction,0
+59785,R,Right bundle branch block,215
+60004,V,Premature ventricular contraction,0
+60491,R,Right bundle branch block,204
+60731,V,Premature ventricular contraction,0
+61217,R,Right bundle branch block,226
+61441,V,Premature ventricular contraction,0
+61911,R,Right bundle branch block,229
+62136,V,Premature ventricular contraction,0
+62601,R,Right bundle branch block,236
+62835,V,Premature ventricular contraction,0
+63324,R,Right bundle branch block,240
+63552,V,Premature ventricular contraction,0
+64032,R,Right bundle branch block,238
+64249,V,Premature ventricular contraction,0
+64729,R,Right bundle branch block,227
+64967,V,Premature ventricular contraction,0

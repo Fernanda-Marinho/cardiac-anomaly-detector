@@ -1,0 +1,220 @@
+sample,symbol,description,valor_normalizado
+83,~,Signal quality change,104
+351,N,Normal beat,255
+724,N,Normal beat,255
+1086,N,Normal beat,255
+1448,N,Normal beat,255
+1829,N,Normal beat,255
+2197,N,Normal beat,255
+2571,N,Normal beat,255
+2918,N,Normal beat,255
+3234,N,Normal beat,255
+3571,N,Normal beat,255
+3931,N,Normal beat,255
+4281,N,Normal beat,255
+4612,N,Normal beat,255
+4947,N,Normal beat,255
+5255,N,Normal beat,255
+5558,N,Normal beat,255
+5863,N,Normal beat,255
+6174,N,Normal beat,255
+6472,N,Normal beat,255
+6757,N,Normal beat,255
+7045,N,Normal beat,255
+7336,N,Normal beat,255
+7615,N,Normal beat,255
+7897,N,Normal beat,255
+8183,N,Normal beat,255
+8475,N,Normal beat,255
+8758,N,Normal beat,255
+9025,N,Normal beat,255
+9271,N,Normal beat,255
+9517,N,Normal beat,255
+9769,N,Normal beat,255
+10038,N,Normal beat,255
+10315,N,Normal beat,255
+10583,N,Normal beat,255
+10885,N,Normal beat,255
+11244,N,Normal beat,255
+11588,N,Normal beat,255
+11935,N,Normal beat,255
+12287,N,Normal beat,255
+12649,N,Normal beat,245
+13001,N,Normal beat,244
+13319,N,Normal beat,251
+13617,N,Normal beat,236
+13754,~,Signal quality change,76
+13918,N,Normal beat,236
+14227,N,Normal beat,224
+14564,N,Normal beat,228
+14903,N,Normal beat,224
+15231,N,Normal beat,216
+15561,N,Normal beat,219
+15900,N,Normal beat,224
+16245,N,Normal beat,216
+16605,N,Normal beat,213
+16998,N,Normal beat,210
+17354,N,Normal beat,210
+17701,N,Normal beat,213
+18026,N,Normal beat,218
+18333,N,Normal beat,209
+18644,N,Normal beat,209
+18964,N,Normal beat,234
+19275,N,Normal beat,243
+19579,N,Normal beat,235
+19869,N,Normal beat,226
+20136,N,Normal beat,226
+20406,N,Normal beat,224
+20690,N,Normal beat,233
+20989,N,Normal beat,240
+21300,N,Normal beat,234
+21637,N,Normal beat,229
+22008,N,Normal beat,247
+22364,N,Normal beat,241
+22494,~,Signal quality change,69
+22689,N,Normal beat,241
+23016,N,Normal beat,239
+23364,N,Normal beat,249
+23719,N,Normal beat,238
+24048,N,Normal beat,247
+24362,N,Normal beat,255
+24683,N,Normal beat,255
+25010,N,Normal beat,255
+25338,N,Normal beat,255
+25697,N,Normal beat,255
+26068,N,Normal beat,255
+26434,N,Normal beat,255
+26787,N,Normal beat,255
+27138,N,Normal beat,255
+27471,N,Normal beat,255
+27810,N,Normal beat,255
+28161,N,Normal beat,255
+28500,N,Normal beat,255
+28801,N,Normal beat,255
+29105,N,Normal beat,255
+29408,N,Normal beat,255
+29712,N,Normal beat,255
+30024,N,Normal beat,255
+30334,N,Normal beat,255
+30630,N,Normal beat,255
+30920,N,Normal beat,255
+31190,N,Normal beat,255
+31462,N,Normal beat,255
+31726,N,Normal beat,255
+32014,N,Normal beat,255
+32336,N,Normal beat,255
+32450,~,Signal quality change,136
+32667,N,Normal beat,255
+32867,V,Premature ventricular contraction,247
+33045,V,Premature ventricular contraction,255
+33476,N,Normal beat,255
+33653,V,Premature ventricular contraction,242
+33820,V,Premature ventricular contraction,255
+34305,N,Normal beat,255
+34666,N,Normal beat,255
+34858,V,Premature ventricular contraction,202
+35280,N,Normal beat,255
+35468,V,Premature ventricular contraction,215
+35638,V,Premature ventricular contraction,255
+36101,N,Normal beat,255
+36290,V,Premature ventricular contraction,192
+36757,N,Normal beat,255
+36951,V,Premature ventricular contraction,206
+37123,V,Premature ventricular contraction,248
+37581,N,Normal beat,255
+37913,N,Normal beat,255
+38092,V,Premature ventricular contraction,183
+38267,V,Premature ventricular contraction,235
+38755,N,Normal beat,255
+38939,V,Premature ventricular contraction,215
+39118,V,Premature ventricular contraction,246
+39590,N,Normal beat,255
+39903,N,Normal beat,255
+40085,V,Premature ventricular contraction,181
+40255,V,Premature ventricular contraction,242
+40714,N,Normal beat,255
+41033,N,Normal beat,255
+41222,V,Premature ventricular contraction,164
+41395,V,Premature ventricular contraction,254
+41837,N,Normal beat,255
+42003,V,Premature ventricular contraction,168
+42439,N,Normal beat,255
+42625,V,Premature ventricular contraction,217
+42798,V,Premature ventricular contraction,255
+43275,N,Normal beat,255
+43460,V,Premature ventricular contraction,204
+43906,N,Normal beat,255
+44084,V,Premature ventricular contraction,150
+44507,N,Normal beat,255
+44692,V,Premature ventricular contraction,193
+44867,V,Premature ventricular contraction,245
+45350,N,Normal beat,255
+45547,V,Premature ventricular contraction,0
+45976,N,Normal beat,255
+46156,V,Premature ventricular contraction,192
+46323,V,Premature ventricular contraction,255
+46777,N,Normal beat,255
+46956,V,Premature ventricular contraction,187
+47413,N,Normal beat,255
+47606,V,Premature ventricular contraction,183
+47780,V,Premature ventricular contraction,238
+48225,N,Normal beat,255
+48413,V,Premature ventricular contraction,0
+48568,V,Premature ventricular contraction,242
+49009,N,Normal beat,255
+49191,V,Premature ventricular contraction,174
+49374,V,Premature ventricular contraction,242
+49835,N,Normal beat,255
+50022,V,Premature ventricular contraction,194
+50424,N,Normal beat,255
+50607,V,Premature ventricular contraction,169
+50773,V,Premature ventricular contraction,255
+51212,N,Normal beat,255
+51400,V,Premature ventricular contraction,179
+51850,N,Normal beat,255
+52037,V,Premature ventricular contraction,158
+52211,V,Premature ventricular contraction,238
+52661,N,Normal beat,253
+52836,V,Premature ventricular contraction,169
+53275,N,Normal beat,228
+53578,N,Normal beat,211
+53873,N,Normal beat,208
+54074,V,Premature ventricular contraction,134
+54253,V,Premature ventricular contraction,255
+54716,N,Normal beat,222
+54888,V,Premature ventricular contraction,214
+55063,V,Premature ventricular contraction,228
+55559,N,Normal beat,233
+55747,V,Premature ventricular contraction,255
+56227,N,Normal beat,202
+56376,~,Signal quality change,84
+56548,N,Normal beat,190
+56842,N,Normal beat,208
+57174,N,Normal beat,191
+57495,N,Normal beat,186
+57684,V,Premature ventricular contraction,118
+57875,V,Premature ventricular contraction,234
+58345,N,Normal beat,196
+58534,V,Premature ventricular contraction,227
+58992,N,Normal beat,221
+59170,V,Premature ventricular contraction,166
+59332,V,Premature ventricular contraction,232
+59595,~,Signal quality change,88
+59769,N,Normal beat,212
+59954,V,Premature ventricular contraction,240
+60432,N,Normal beat,213
+60636,V,Premature ventricular contraction,255
+61082,N,Normal beat,210
+61277,V,Premature ventricular contraction,255
+61729,N,Normal beat,211
+62099,N,Normal beat,197
+62488,N,Normal beat,196
+62823,N,Normal beat,182
+63128,N,Normal beat,180
+63389,~,Signal quality change,66
+63499,N,Normal beat,197
+63691,V,Premature ventricular contraction,162
+63864,V,Premature ventricular contraction,236
+64035,V,Premature ventricular contraction,142
+64568,N,Normal beat,200
+64766,V,Premature ventricular contraction,245

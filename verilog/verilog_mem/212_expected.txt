@@ -1,0 +1,279 @@
+sample,symbol,description,valor_normalizado
+214,R,Right bundle branch block,255
+451,R,Right bundle branch block,255
+696,R,Right bundle branch block,251
+924,R,Right bundle branch block,221
+1168,R,Right bundle branch block,255
+1440,R,Right bundle branch block,249
+1707,R,Right bundle branch block,242
+1953,R,Right bundle branch block,220
+2191,R,Right bundle branch block,239
+2397,R,Right bundle branch block,255
+2604,R,Right bundle branch block,253
+2826,R,Right bundle branch block,208
+3049,R,Right bundle branch block,205
+3280,R,Right bundle branch block,255
+3548,R,Right bundle branch block,255
+3789,R,Right bundle branch block,251
+4030,R,Right bundle branch block,240
+4278,R,Right bundle branch block,255
+4516,R,Right bundle branch block,255
+4754,R,Right bundle branch block,250
+4976,R,Right bundle branch block,238
+5199,R,Right bundle branch block,255
+5438,R,Right bundle branch block,250
+5680,R,Right bundle branch block,224
+5917,R,Right bundle branch block,241
+6161,R,Right bundle branch block,255
+6398,R,Right bundle branch block,249
+6630,R,Right bundle branch block,238
+6854,R,Right bundle branch block,237
+7091,R,Right bundle branch block,255
+7333,R,Right bundle branch block,255
+7570,R,Right bundle branch block,243
+7813,R,Right bundle branch block,255
+8068,R,Right bundle branch block,255
+8331,R,Right bundle branch block,243
+8571,R,Right bundle branch block,255
+8806,R,Right bundle branch block,255
+9049,R,Right bundle branch block,253
+9280,R,Right bundle branch block,248
+9506,R,Right bundle branch block,255
+9741,R,Right bundle branch block,255
+9992,R,Right bundle branch block,241
+10232,R,Right bundle branch block,235
+10478,R,Right bundle branch block,255
+10716,R,Right bundle branch block,245
+10943,R,Right bundle branch block,253
+11171,R,Right bundle branch block,255
+11402,R,Right bundle branch block,248
+11637,R,Right bundle branch block,205
+11868,R,Right bundle branch block,211
+12097,R,Right bundle branch block,237
+12335,R,Right bundle branch block,231
+12574,R,Right bundle branch block,220
+12809,R,Right bundle branch block,253
+13044,R,Right bundle branch block,255
+13276,R,Right bundle branch block,253
+13499,R,Right bundle branch block,229
+13731,R,Right bundle branch block,255
+13972,R,Right bundle branch block,255
+14220,R,Right bundle branch block,228
+14467,R,Right bundle branch block,238
+14727,R,Right bundle branch block,255
+14981,R,Right bundle branch block,247
+15224,R,Right bundle branch block,225
+15458,R,Right bundle branch block,255
+15699,R,Right bundle branch block,250
+15940,R,Right bundle branch block,255
+16177,R,Right bundle branch block,245
+16416,R,Right bundle branch block,255
+16669,R,Right bundle branch block,255
+16925,R,Right bundle branch block,229
+17166,R,Right bundle branch block,245
+17415,R,Right bundle branch block,253
+17661,R,Right bundle branch block,240
+17899,R,Right bundle branch block,230
+18118,R,Right bundle branch block,217
+18346,R,Right bundle branch block,255
+18591,R,Right bundle branch block,255
+18837,R,Right bundle branch block,255
+19080,R,Right bundle branch block,255
+19302,R,Right bundle branch block,243
+19516,R,Right bundle branch block,253
+19730,R,Right bundle branch block,238
+19936,R,Right bundle branch block,245
+20150,R,Right bundle branch block,255
+20386,R,Right bundle branch block,255
+20629,R,Right bundle branch block,255
+20880,R,Right bundle branch block,255
+21121,R,Right bundle branch block,232
+21363,R,Right bundle branch block,255
+21603,R,Right bundle branch block,255
+21830,R,Right bundle branch block,245
+22048,R,Right bundle branch block,226
+22264,R,Right bundle branch block,255
+22499,R,Right bundle branch block,255
+22761,N,Normal beat,255
+23024,N,Normal beat,255
+23276,N,Normal beat,255
+23521,N,Normal beat,255
+23770,N,Normal beat,255
+24012,N,Normal beat,255
+24255,N,Normal beat,255
+24488,N,Normal beat,255
+24718,N,Normal beat,255
+24967,N,Normal beat,255
+25231,N,Normal beat,255
+25482,N,Normal beat,255
+25726,N,Normal beat,255
+25977,N,Normal beat,255
+26223,N,Normal beat,255
+26453,N,Normal beat,255
+26691,N,Normal beat,255
+26940,N,Normal beat,255
+27188,N,Normal beat,248
+27435,N,Normal beat,255
+27691,N,Normal beat,255
+27939,N,Normal beat,255
+28178,N,Normal beat,255
+28415,N,Normal beat,255
+28650,N,Normal beat,255
+28885,N,Normal beat,255
+29119,N,Normal beat,255
+29351,N,Normal beat,255
+29590,N,Normal beat,255
+29831,N,Normal beat,255
+30080,N,Normal beat,255
+30315,N,Normal beat,255
+30543,N,Normal beat,255
+30773,N,Normal beat,255
+30996,N,Normal beat,255
+31224,N,Normal beat,255
+31465,N,Normal beat,255
+31721,N,Normal beat,255
+31971,N,Normal beat,255
+32203,N,Normal beat,255
+32427,N,Normal beat,255
+32646,N,Normal beat,255
+32869,N,Normal beat,255
+33089,N,Normal beat,255
+33313,N,Normal beat,255
+33545,N,Normal beat,255
+33785,N,Normal beat,255
+34019,N,Normal beat,255
+34261,N,Normal beat,255
+34500,N,Normal beat,255
+34730,N,Normal beat,255
+34958,N,Normal beat,255
+35189,N,Normal beat,255
+35426,N,Normal beat,255
+35658,N,Normal beat,255
+35900,N,Normal beat,255
+36153,N,Normal beat,255
+36404,N,Normal beat,255
+36626,N,Normal beat,245
+36850,N,Normal beat,255
+37069,N,Normal beat,255
+37297,N,Normal beat,255
+37533,N,Normal beat,255
+37764,N,Normal beat,255
+38011,N,Normal beat,255
+38238,N,Normal beat,255
+38458,N,Normal beat,255
+38682,R,Right bundle branch block,255
+38907,R,Right bundle branch block,255
+39128,R,Right bundle branch block,206
+39349,R,Right bundle branch block,241
+39566,R,Right bundle branch block,255
+39807,R,Right bundle branch block,255
+40073,N,Normal beat,255
+40345,N,Normal beat,255
+40620,N,Normal beat,255
+40883,N,Normal beat,255
+41116,N,Normal beat,255
+41340,N,Normal beat,255
+41555,N,Normal beat,255
+41772,N,Normal beat,255
+42006,N,Normal beat,255
+42269,N,Normal beat,255
+42528,N,Normal beat,255
+42793,N,Normal beat,238
+43025,N,Normal beat,255
+43251,N,Normal beat,255
+43481,N,Normal beat,255
+43708,N,Normal beat,255
+43937,N,Normal beat,255
+44196,N,Normal beat,255
+44426,N,Normal beat,255
+44678,N,Normal beat,255
+44929,N,Normal beat,255
+45168,N,Normal beat,255
+45404,N,Normal beat,255
+45627,N,Normal beat,255
+45844,N,Normal beat,255
+46063,N,Normal beat,255
+46298,N,Normal beat,255
+46537,N,Normal beat,255
+46776,N,Normal beat,255
+47014,N,Normal beat,255
+47246,N,Normal beat,234
+47454,N,Normal beat,191
+47676,N,Normal beat,255
+47913,N,Normal beat,255
+48161,N,Normal beat,255
+48401,N,Normal beat,255
+48646,N,Normal beat,255
+48892,N,Normal beat,255
+49130,N,Normal beat,255
+49365,N,Normal beat,255
+49595,N,Normal beat,255
+49810,N,Normal beat,255
+50023,N,Normal beat,255
+50237,N,Normal beat,255
+50468,N,Normal beat,255
+50718,N,Normal beat,255
+50962,N,Normal beat,255
+51205,N,Normal beat,255
+51450,N,Normal beat,255
+51694,N,Normal beat,255
+51922,N,Normal beat,255
+52154,N,Normal beat,255
+52392,N,Normal beat,255
+52610,N,Normal beat,248
+52832,N,Normal beat,255
+53060,N,Normal beat,255
+53298,N,Normal beat,250
+53533,N,Normal beat,255
+53757,N,Normal beat,255
+53984,N,Normal beat,255
+54201,N,Normal beat,255
+54412,N,Normal beat,255
+54623,R,Right bundle branch block,253
+54844,R,Right bundle branch block,255
+55074,R,Right bundle branch block,255
+55303,R,Right bundle branch block,241
+55523,R,Right bundle branch block,255
+55743,R,Right bundle branch block,255
+55962,R,Right bundle branch block,236
+56175,R,Right bundle branch block,235
+56383,R,Right bundle branch block,255
+56585,R,Right bundle branch block,255
+56791,R,Right bundle branch block,255
+56987,R,Right bundle branch block,255
+57188,R,Right bundle branch block,255
+57397,R,Right bundle branch block,246
+57610,R,Right bundle branch block,255
+57834,R,Right bundle branch block,255
+58060,R,Right bundle branch block,255
+58279,R,Right bundle branch block,218
+58490,R,Right bundle branch block,218
+58696,R,Right bundle branch block,248
+58911,R,Right bundle branch block,225
+59134,R,Right bundle branch block,228
+59364,R,Right bundle branch block,215
+59590,R,Right bundle branch block,210
+59809,R,Right bundle branch block,237
+60035,R,Right bundle branch block,221
+60264,R,Right bundle branch block,227
+60481,R,Right bundle branch block,228
+60697,R,Right bundle branch block,218
+60909,R,Right bundle branch block,241
+61122,R,Right bundle branch block,255
+61342,R,Right bundle branch block,255
+61565,R,Right bundle branch block,245
+61796,R,Right bundle branch block,204
+62030,R,Right bundle branch block,224
+62265,R,Right bundle branch block,242
+62491,R,Right bundle branch block,225
+62711,R,Right bundle branch block,202
+62930,R,Right bundle branch block,208
+63150,R,Right bundle branch block,230
+63369,R,Right bundle branch block,251
+63598,R,Right bundle branch block,221
+63828,R,Right bundle branch block,235
+64058,R,Right bundle branch block,255
+64297,R,Right bundle branch block,255
+64527,R,Right bundle branch block,220
+64752,R,Right bundle branch block,251
+64975,R,Right bundle branch block,255
