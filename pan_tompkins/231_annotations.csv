@@ -1,0 +1,2012 @@
+sample,symbol,description
+57,+,Rhythm change
+180,R,Right bundle branch block
+527,R,Right bundle branch block
+847,R,Right bundle branch block
+1166,R,Right bundle branch block
+1512,R,Right bundle branch block
+1833,R,Right bundle branch block
+2083,"""",Comment annotation
+2460,R,Right bundle branch block
+2789,R,Right bundle branch block
+3088,R,Right bundle branch block
+3420,R,Right bundle branch block
+3754,R,Right bundle branch block
+4058,R,Right bundle branch block
+4386,R,Right bundle branch block
+4720,R,Right bundle branch block
+5035,R,Right bundle branch block
+5378,R,Right bundle branch block
+5740,R,Right bundle branch block
+6060,R,Right bundle branch block
+6415,R,Right bundle branch block
+6799,R,Right bundle branch block
+7122,R,Right bundle branch block
+7480,R,Right bundle branch block
+7827,R,Right bundle branch block
+8138,R,Right bundle branch block
+8478,R,Right bundle branch block
+8818,R,Right bundle branch block
+9137,R,Right bundle branch block
+9497,R,Right bundle branch block
+9853,R,Right bundle branch block
+10182,R,Right bundle branch block
+10538,R,Right bundle branch block
+10893,R,Right bundle branch block
+11224,R,Right bundle branch block
+11582,R,Right bundle branch block
+11917,R,Right bundle branch block
+12236,R,Right bundle branch block
+12589,R,Right bundle branch block
+12941,R,Right bundle branch block
+13261,R,Right bundle branch block
+13618,R,Right bundle branch block
+13949,R,Right bundle branch block
+14283,R,Right bundle branch block
+14626,R,Right bundle branch block
+14968,R,Right bundle branch block
+15288,R,Right bundle branch block
+15638,R,Right bundle branch block
+15977,R,Right bundle branch block
+16305,R,Right bundle branch block
+16651,R,Right bundle branch block
+17018,R,Right bundle branch block
+17353,R,Right bundle branch block
+17707,R,Right bundle branch block
+18049,R,Right bundle branch block
+18371,R,Right bundle branch block
+18715,R,Right bundle branch block
+19055,R,Right bundle branch block
+19366,R,Right bundle branch block
+19721,R,Right bundle branch block
+20054,R,Right bundle branch block
+20374,R,Right bundle branch block
+20730,R,Right bundle branch block
+21068,R,Right bundle branch block
+21383,R,Right bundle branch block
+21731,R,Right bundle branch block
+22060,R,Right bundle branch block
+22378,R,Right bundle branch block
+22726,R,Right bundle branch block
+23074,R,Right bundle branch block
+23396,R,Right bundle branch block
+23747,R,Right bundle branch block
+24084,R,Right bundle branch block
+24405,R,Right bundle branch block
+24769,R,Right bundle branch block
+25120,R,Right bundle branch block
+25446,R,Right bundle branch block
+25810,R,Right bundle branch block
+26157,R,Right bundle branch block
+26492,R,Right bundle branch block
+26841,R,Right bundle branch block
+27195,R,Right bundle branch block
+27546,R,Right bundle branch block
+27874,R,Right bundle branch block
+28205,R,Right bundle branch block
+28557,R,Right bundle branch block
+28888,R,Right bundle branch block
+29234,R,Right bundle branch block
+29593,R,Right bundle branch block
+29926,R,Right bundle branch block
+30280,R,Right bundle branch block
+30637,R,Right bundle branch block
+30975,R,Right bundle branch block
+31325,R,Right bundle branch block
+31692,R,Right bundle branch block
+32019,R,Right bundle branch block
+32360,R,Right bundle branch block
+32704,R,Right bundle branch block
+33027,R,Right bundle branch block
+33357,R,Right bundle branch block
+33712,R,Right bundle branch block
+34026,R,Right bundle branch block
+34275,"""",Comment annotation
+34652,N,Normal beat
+34976,R,Right bundle branch block
+35142,+,Rhythm change
+35220,"""",Comment annotation
+35587,N,Normal beat
+35853,"""",Comment annotation
+36208,N,Normal beat
+36474,"""",Comment annotation
+36840,N,Normal beat
+37090,"""",Comment annotation
+37444,N,Normal beat
+37713,"""",Comment annotation
+38056,N,Normal beat
+38298,"""",Comment annotation
+38654,N,Normal beat
+38919,"""",Comment annotation
+39264,N,Normal beat
+39509,"""",Comment annotation
+39863,N,Normal beat
+40096,"""",Comment annotation
+40458,N,Normal beat
+40707,"""",Comment annotation
+41059,N,Normal beat
+41291,"""",Comment annotation
+41648,N,Normal beat
+41892,"""",Comment annotation
+42221,R,Right bundle branch block
+42444,"""",Comment annotation
+42788,R,Right bundle branch block
+43024,"""",Comment annotation
+43357,R,Right bundle branch block
+43597,"""",Comment annotation
+43937,R,Right bundle branch block
+44177,"""",Comment annotation
+44526,R,Right bundle branch block
+44767,"""",Comment annotation
+45113,R,Right bundle branch block
+45342,"""",Comment annotation
+45692,R,Right bundle branch block
+45926,"""",Comment annotation
+46256,R,Right bundle branch block
+46490,"""",Comment annotation
+46817,R,Right bundle branch block
+47050,"""",Comment annotation
+47398,R,Right bundle branch block
+47658,"""",Comment annotation
+48009,R,Right bundle branch block
+48249,"""",Comment annotation
+48598,R,Right bundle branch block
+48834,"""",Comment annotation
+49184,R,Right bundle branch block
+49431,"""",Comment annotation
+49782,R,Right bundle branch block
+50031,"""",Comment annotation
+50372,R,Right bundle branch block
+50616,"""",Comment annotation
+50970,R,Right bundle branch block
+51207,"""",Comment annotation
+51559,R,Right bundle branch block
+51802,"""",Comment annotation
+52143,R,Right bundle branch block
+52315,x,Non-conducted P-wave
+52598,A,Atrial premature beat
+52995,R,Right bundle branch block
+53176,x,Non-conducted P-wave
+53239,V,Premature ventricular contraction
+53392,V,Premature ventricular contraction
+53625,+,Rhythm change
+53780,R,Right bundle branch block
+54109,R,Right bundle branch block
+54441,R,Right bundle branch block
+54771,R,Right bundle branch block
+55090,R,Right bundle branch block
+55426,R,Right bundle branch block
+55789,R,Right bundle branch block
+56118,R,Right bundle branch block
+56479,R,Right bundle branch block
+56844,R,Right bundle branch block
+57192,R,Right bundle branch block
+57568,R,Right bundle branch block
+57932,R,Right bundle branch block
+58262,R,Right bundle branch block
+58604,R,Right bundle branch block
+58936,R,Right bundle branch block
+59265,R,Right bundle branch block
+59606,R,Right bundle branch block
+59959,R,Right bundle branch block
+60294,R,Right bundle branch block
+60657,R,Right bundle branch block
+61029,R,Right bundle branch block
+61370,R,Right bundle branch block
+61748,R,Right bundle branch block
+62120,R,Right bundle branch block
+62478,R,Right bundle branch block
+62854,R,Right bundle branch block
+63230,R,Right bundle branch block
+63573,R,Right bundle branch block
+63939,R,Right bundle branch block
+64281,R,Right bundle branch block
+64621,R,Right bundle branch block
+65004,R,Right bundle branch block
+65351,R,Right bundle branch block
+65701,R,Right bundle branch block
+66056,R,Right bundle branch block
+66394,R,Right bundle branch block
+66731,R,Right bundle branch block
+67097,R,Right bundle branch block
+67453,R,Right bundle branch block
+67825,R,Right bundle branch block
+68199,R,Right bundle branch block
+68548,R,Right bundle branch block
+68893,R,Right bundle branch block
+69244,R,Right bundle branch block
+69585,R,Right bundle branch block
+69934,R,Right bundle branch block
+70283,R,Right bundle branch block
+70634,R,Right bundle branch block
+70984,R,Right bundle branch block
+71334,R,Right bundle branch block
+71695,R,Right bundle branch block
+72036,R,Right bundle branch block
+72387,R,Right bundle branch block
+72744,R,Right bundle branch block
+73083,R,Right bundle branch block
+73433,R,Right bundle branch block
+73793,R,Right bundle branch block
+74123,R,Right bundle branch block
+74487,R,Right bundle branch block
+74837,R,Right bundle branch block
+75177,R,Right bundle branch block
+75532,R,Right bundle branch block
+75898,R,Right bundle branch block
+76233,R,Right bundle branch block
+76592,R,Right bundle branch block
+76955,R,Right bundle branch block
+77294,R,Right bundle branch block
+77653,R,Right bundle branch block
+78011,R,Right bundle branch block
+78337,R,Right bundle branch block
+78680,R,Right bundle branch block
+79028,R,Right bundle branch block
+79345,R,Right bundle branch block
+79685,R,Right bundle branch block
+80032,R,Right bundle branch block
+80342,R,Right bundle branch block
+80671,R,Right bundle branch block
+81026,R,Right bundle branch block
+81344,R,Right bundle branch block
+81676,R,Right bundle branch block
+82037,R,Right bundle branch block
+82371,R,Right bundle branch block
+82690,R,Right bundle branch block
+83045,R,Right bundle branch block
+83376,R,Right bundle branch block
+83692,R,Right bundle branch block
+84042,R,Right bundle branch block
+84376,R,Right bundle branch block
+84685,R,Right bundle branch block
+85036,R,Right bundle branch block
+85367,R,Right bundle branch block
+85678,R,Right bundle branch block
+86009,R,Right bundle branch block
+86336,R,Right bundle branch block
+86644,R,Right bundle branch block
+86978,R,Right bundle branch block
+87324,R,Right bundle branch block
+87649,R,Right bundle branch block
+87991,R,Right bundle branch block
+88363,R,Right bundle branch block
+88714,R,Right bundle branch block
+89054,R,Right bundle branch block
+89411,R,Right bundle branch block
+89752,R,Right bundle branch block
+90083,R,Right bundle branch block
+90426,R,Right bundle branch block
+90758,R,Right bundle branch block
+91082,R,Right bundle branch block
+91423,R,Right bundle branch block
+91786,R,Right bundle branch block
+92113,R,Right bundle branch block
+92457,R,Right bundle branch block
+92816,R,Right bundle branch block
+93168,R,Right bundle branch block
+93508,R,Right bundle branch block
+93868,R,Right bundle branch block
+94192,R,Right bundle branch block
+94522,R,Right bundle branch block
+94867,R,Right bundle branch block
+95208,R,Right bundle branch block
+95527,R,Right bundle branch block
+95886,R,Right bundle branch block
+96207,R,Right bundle branch block
+96540,R,Right bundle branch block
+96886,R,Right bundle branch block
+97233,R,Right bundle branch block
+97557,R,Right bundle branch block
+97917,R,Right bundle branch block
+98261,R,Right bundle branch block
+98578,R,Right bundle branch block
+98923,R,Right bundle branch block
+99269,R,Right bundle branch block
+99597,R,Right bundle branch block
+99931,R,Right bundle branch block
+100285,R,Right bundle branch block
+100604,R,Right bundle branch block
+100945,R,Right bundle branch block
+101283,R,Right bundle branch block
+101596,R,Right bundle branch block
+101956,R,Right bundle branch block
+102308,R,Right bundle branch block
+102631,R,Right bundle branch block
+102985,R,Right bundle branch block
+103328,R,Right bundle branch block
+103649,R,Right bundle branch block
+103997,R,Right bundle branch block
+104330,R,Right bundle branch block
+104651,R,Right bundle branch block
+105012,R,Right bundle branch block
+105354,R,Right bundle branch block
+105683,R,Right bundle branch block
+106043,R,Right bundle branch block
+106389,R,Right bundle branch block
+106720,R,Right bundle branch block
+107085,R,Right bundle branch block
+107428,R,Right bundle branch block
+107764,R,Right bundle branch block
+108120,R,Right bundle branch block
+108462,R,Right bundle branch block
+108790,R,Right bundle branch block
+109140,R,Right bundle branch block
+109475,R,Right bundle branch block
+109808,R,Right bundle branch block
+110152,R,Right bundle branch block
+110490,R,Right bundle branch block
+110822,R,Right bundle branch block
+111172,R,Right bundle branch block
+111531,R,Right bundle branch block
+111895,R,Right bundle branch block
+112220,R,Right bundle branch block
+112568,R,Right bundle branch block
+112919,R,Right bundle branch block
+113248,R,Right bundle branch block
+113595,R,Right bundle branch block
+113947,R,Right bundle branch block
+114266,R,Right bundle branch block
+114617,R,Right bundle branch block
+114964,R,Right bundle branch block
+115286,R,Right bundle branch block
+115619,R,Right bundle branch block
+115962,R,Right bundle branch block
+116268,R,Right bundle branch block
+116604,R,Right bundle branch block
+116935,R,Right bundle branch block
+117253,R,Right bundle branch block
+117597,R,Right bundle branch block
+117967,R,Right bundle branch block
+118277,R,Right bundle branch block
+118625,R,Right bundle branch block
+118956,R,Right bundle branch block
+119218,"""",Comment annotation
+119586,N,Normal beat
+119920,R,Right bundle branch block
+120082,+,Rhythm change
+120168,"""",Comment annotation
+120528,N,Normal beat
+120788,"""",Comment annotation
+121158,N,Normal beat
+121420,"""",Comment annotation
+121792,N,Normal beat
+122041,"""",Comment annotation
+122399,N,Normal beat
+122660,"""",Comment annotation
+123028,N,Normal beat
+123280,"""",Comment annotation
+123617,R,Right bundle branch block
+123879,"""",Comment annotation
+124212,R,Right bundle branch block
+124458,"""",Comment annotation
+124796,R,Right bundle branch block
+125038,"""",Comment annotation
+125390,R,Right bundle branch block
+125638,"""",Comment annotation
+125983,R,Right bundle branch block
+126223,"""",Comment annotation
+126571,R,Right bundle branch block
+126811,"""",Comment annotation
+127169,R,Right bundle branch block
+127410,"""",Comment annotation
+127760,R,Right bundle branch block
+128007,"""",Comment annotation
+128357,R,Right bundle branch block
+128597,"""",Comment annotation
+128937,R,Right bundle branch block
+129192,"""",Comment annotation
+129534,R,Right bundle branch block
+129794,"""",Comment annotation
+130142,R,Right bundle branch block
+130393,"""",Comment annotation
+130741,R,Right bundle branch block
+130990,"""",Comment annotation
+131333,R,Right bundle branch block
+131559,"""",Comment annotation
+131917,R,Right bundle branch block
+132166,"""",Comment annotation
+132504,R,Right bundle branch block
+132737,"""",Comment annotation
+133098,R,Right bundle branch block
+133348,"""",Comment annotation
+133710,N,Normal beat
+133965,"""",Comment annotation
+134328,N,Normal beat
+134588,"""",Comment annotation
+134960,N,Normal beat
+135227,"""",Comment annotation
+135588,N,Normal beat
+135844,"""",Comment annotation
+136196,N,Normal beat
+136445,"""",Comment annotation
+136789,N,Normal beat
+137036,"""",Comment annotation
+137380,R,Right bundle branch block
+137608,"""",Comment annotation
+137958,R,Right bundle branch block
+138209,"""",Comment annotation
+138546,R,Right bundle branch block
+138788,"""",Comment annotation
+139135,R,Right bundle branch block
+139384,"""",Comment annotation
+139726,R,Right bundle branch block
+139981,"""",Comment annotation
+140324,R,Right bundle branch block
+140564,"""",Comment annotation
+140911,R,Right bundle branch block
+141164,"""",Comment annotation
+141497,R,Right bundle branch block
+141743,"""",Comment annotation
+142076,R,Right bundle branch block
+142312,"""",Comment annotation
+142650,R,Right bundle branch block
+142879,"""",Comment annotation
+143212,R,Right bundle branch block
+143442,"""",Comment annotation
+143785,R,Right bundle branch block
+144033,"""",Comment annotation
+144377,R,Right bundle branch block
+144624,"""",Comment annotation
+144962,R,Right bundle branch block
+145216,"""",Comment annotation
+145553,R,Right bundle branch block
+145798,"""",Comment annotation
+146154,N,Normal beat
+146390,"""",Comment annotation
+146739,N,Normal beat
+146971,"""",Comment annotation
+147328,N,Normal beat
+147577,"""",Comment annotation
+147947,N,Normal beat
+148192,"""",Comment annotation
+148541,N,Normal beat
+148799,"""",Comment annotation
+149156,N,Normal beat
+149398,"""",Comment annotation
+149750,N,Normal beat
+149994,"""",Comment annotation
+150328,N,Normal beat
+150578,"""",Comment annotation
+150922,N,Normal beat
+151166,"""",Comment annotation
+151508,N,Normal beat
+151768,"""",Comment annotation
+152128,N,Normal beat
+152376,"""",Comment annotation
+152722,N,Normal beat
+152976,"""",Comment annotation
+153335,N,Normal beat
+153584,"""",Comment annotation
+153947,N,Normal beat
+154182,"""",Comment annotation
+154535,N,Normal beat
+154785,"""",Comment annotation
+155139,N,Normal beat
+155375,"""",Comment annotation
+155715,N,Normal beat
+155957,"""",Comment annotation
+156290,N,Normal beat
+156527,"""",Comment annotation
+156869,N,Normal beat
+157120,"""",Comment annotation
+157455,N,Normal beat
+157704,"""",Comment annotation
+158055,N,Normal beat
+158288,"""",Comment annotation
+158630,N,Normal beat
+158868,"""",Comment annotation
+159212,N,Normal beat
+159436,"""",Comment annotation
+159779,N,Normal beat
+160022,"""",Comment annotation
+160365,N,Normal beat
+160612,"""",Comment annotation
+160959,N,Normal beat
+161198,"""",Comment annotation
+161534,N,Normal beat
+161788,"""",Comment annotation
+162132,N,Normal beat
+162360,"""",Comment annotation
+162704,N,Normal beat
+162953,"""",Comment annotation
+163301,N,Normal beat
+163537,"""",Comment annotation
+163891,N,Normal beat
+164141,"""",Comment annotation
+164490,N,Normal beat
+164737,"""",Comment annotation
+165111,N,Normal beat
+165355,"""",Comment annotation
+165723,N,Normal beat
+165977,"""",Comment annotation
+166321,N,Normal beat
+166582,"""",Comment annotation
+166941,N,Normal beat
+167203,"""",Comment annotation
+167553,N,Normal beat
+167797,"""",Comment annotation
+168169,N,Normal beat
+168421,"""",Comment annotation
+168782,N,Normal beat
+169055,"""",Comment annotation
+169424,N,Normal beat
+169676,"""",Comment annotation
+170054,N,Normal beat
+170313,"""",Comment annotation
+170678,N,Normal beat
+170951,"""",Comment annotation
+171323,N,Normal beat
+171567,"""",Comment annotation
+171936,N,Normal beat
+172183,"""",Comment annotation
+172530,N,Normal beat
+172761,"""",Comment annotation
+173129,N,Normal beat
+173372,"""",Comment annotation
+173722,N,Normal beat
+173981,"""",Comment annotation
+174329,N,Normal beat
+174577,"""",Comment annotation
+174937,N,Normal beat
+175199,"""",Comment annotation
+175543,N,Normal beat
+175794,"""",Comment annotation
+176150,N,Normal beat
+176394,"""",Comment annotation
+176737,N,Normal beat
+176971,"""",Comment annotation
+177321,N,Normal beat
+177555,"""",Comment annotation
+177918,N,Normal beat
+178161,"""",Comment annotation
+178506,N,Normal beat
+178749,"""",Comment annotation
+179114,N,Normal beat
+179361,"""",Comment annotation
+179708,N,Normal beat
+179950,"""",Comment annotation
+180291,N,Normal beat
+180548,"""",Comment annotation
+180887,N,Normal beat
+181133,"""",Comment annotation
+181481,N,Normal beat
+181748,"""",Comment annotation
+182112,N,Normal beat
+182356,"""",Comment annotation
+182720,N,Normal beat
+182981,"""",Comment annotation
+183344,N,Normal beat
+183583,"""",Comment annotation
+183946,N,Normal beat
+184201,"""",Comment annotation
+184557,N,Normal beat
+184806,"""",Comment annotation
+185166,N,Normal beat
+185416,"""",Comment annotation
+185792,N,Normal beat
+186033,"""",Comment annotation
+186385,N,Normal beat
+186643,"""",Comment annotation
+187010,N,Normal beat
+187265,"""",Comment annotation
+187630,N,Normal beat
+187889,"""",Comment annotation
+188246,N,Normal beat
+188492,"""",Comment annotation
+188855,N,Normal beat
+189102,"""",Comment annotation
+189437,N,Normal beat
+189679,"""",Comment annotation
+190038,N,Normal beat
+190278,"""",Comment annotation
+190637,N,Normal beat
+190881,"""",Comment annotation
+191243,N,Normal beat
+191494,"""",Comment annotation
+191860,N,Normal beat
+192097,"""",Comment annotation
+192440,N,Normal beat
+192688,"""",Comment annotation
+193043,N,Normal beat
+193283,"""",Comment annotation
+193620,N,Normal beat
+193874,"""",Comment annotation
+194227,N,Normal beat
+194455,"""",Comment annotation
+194800,N,Normal beat
+195036,"""",Comment annotation
+195385,N,Normal beat
+195608,"""",Comment annotation
+195959,N,Normal beat
+196204,"""",Comment annotation
+196542,N,Normal beat
+196777,"""",Comment annotation
+197141,N,Normal beat
+197386,"""",Comment annotation
+197748,N,Normal beat
+198001,"""",Comment annotation
+198348,N,Normal beat
+198586,"""",Comment annotation
+198938,N,Normal beat
+199191,"""",Comment annotation
+199529,N,Normal beat
+199774,"""",Comment annotation
+200117,N,Normal beat
+200346,"""",Comment annotation
+200688,N,Normal beat
+200919,"""",Comment annotation
+201263,N,Normal beat
+201510,"""",Comment annotation
+201877,N,Normal beat
+202121,"""",Comment annotation
+202337,+,Rhythm change
+202466,N,Normal beat
+202778,R,Right bundle branch block
+203082,R,Right bundle branch block
+203401,R,Right bundle branch block
+203759,R,Right bundle branch block
+204097,R,Right bundle branch block
+204451,R,Right bundle branch block
+204824,R,Right bundle branch block
+205179,R,Right bundle branch block
+205515,R,Right bundle branch block
+205886,R,Right bundle branch block
+206224,R,Right bundle branch block
+206546,R,Right bundle branch block
+206875,R,Right bundle branch block
+207202,R,Right bundle branch block
+207510,R,Right bundle branch block
+207849,R,Right bundle branch block
+208172,R,Right bundle branch block
+208473,R,Right bundle branch block
+208803,R,Right bundle branch block
+209149,R,Right bundle branch block
+209462,R,Right bundle branch block
+209802,R,Right bundle branch block
+210145,R,Right bundle branch block
+210459,R,Right bundle branch block
+210799,R,Right bundle branch block
+211144,R,Right bundle branch block
+211462,R,Right bundle branch block
+211795,R,Right bundle branch block
+212146,R,Right bundle branch block
+212489,R,Right bundle branch block
+212820,R,Right bundle branch block
+213206,R,Right bundle branch block
+213569,R,Right bundle branch block
+213922,R,Right bundle branch block
+214290,R,Right bundle branch block
+214653,R,Right bundle branch block
+215020,R,Right bundle branch block
+215397,R,Right bundle branch block
+215762,R,Right bundle branch block
+216106,R,Right bundle branch block
+216446,R,Right bundle branch block
+216793,R,Right bundle branch block
+217130,R,Right bundle branch block
+217489,R,Right bundle branch block
+217859,R,Right bundle branch block
+218203,R,Right bundle branch block
+218573,R,Right bundle branch block
+218946,R,Right bundle branch block
+219307,R,Right bundle branch block
+219670,R,Right bundle branch block
+220031,R,Right bundle branch block
+220365,R,Right bundle branch block
+220719,R,Right bundle branch block
+221073,R,Right bundle branch block
+221401,R,Right bundle branch block
+221755,R,Right bundle branch block
+222104,R,Right bundle branch block
+222426,R,Right bundle branch block
+222780,R,Right bundle branch block
+223139,R,Right bundle branch block
+223462,R,Right bundle branch block
+223820,R,Right bundle branch block
+224158,R,Right bundle branch block
+224477,R,Right bundle branch block
+224822,R,Right bundle branch block
+225157,R,Right bundle branch block
+225471,R,Right bundle branch block
+225825,R,Right bundle branch block
+226174,R,Right bundle branch block
+226503,R,Right bundle branch block
+226836,R,Right bundle branch block
+227184,R,Right bundle branch block
+227520,R,Right bundle branch block
+227846,R,Right bundle branch block
+228180,R,Right bundle branch block
+228497,R,Right bundle branch block
+228803,R,Right bundle branch block
+229130,R,Right bundle branch block
+229461,R,Right bundle branch block
+229793,R,Right bundle branch block
+230115,R,Right bundle branch block
+230482,R,Right bundle branch block
+230833,R,Right bundle branch block
+231164,R,Right bundle branch block
+231543,R,Right bundle branch block
+231928,R,Right bundle branch block
+232261,R,Right bundle branch block
+232614,R,Right bundle branch block
+232972,R,Right bundle branch block
+233298,R,Right bundle branch block
+233650,R,Right bundle branch block
+234011,R,Right bundle branch block
+234330,R,Right bundle branch block
+234676,R,Right bundle branch block
+235029,R,Right bundle branch block
+235345,R,Right bundle branch block
+235690,R,Right bundle branch block
+236036,R,Right bundle branch block
+236343,R,Right bundle branch block
+236678,R,Right bundle branch block
+237027,R,Right bundle branch block
+237349,R,Right bundle branch block
+237669,R,Right bundle branch block
+237997,R,Right bundle branch block
+238316,R,Right bundle branch block
+238629,R,Right bundle branch block
+238964,R,Right bundle branch block
+239298,R,Right bundle branch block
+239631,R,Right bundle branch block
+239955,R,Right bundle branch block
+240322,R,Right bundle branch block
+240676,R,Right bundle branch block
+241005,R,Right bundle branch block
+241358,R,Right bundle branch block
+241717,R,Right bundle branch block
+242047,R,Right bundle branch block
+242398,R,Right bundle branch block
+242753,R,Right bundle branch block
+243086,R,Right bundle branch block
+243446,R,Right bundle branch block
+243804,R,Right bundle branch block
+244128,R,Right bundle branch block
+244475,R,Right bundle branch block
+244816,R,Right bundle branch block
+245137,R,Right bundle branch block
+245461,R,Right bundle branch block
+245809,R,Right bundle branch block
+246139,R,Right bundle branch block
+246460,R,Right bundle branch block
+246806,R,Right bundle branch block
+247152,R,Right bundle branch block
+247468,R,Right bundle branch block
+247818,R,Right bundle branch block
+248155,R,Right bundle branch block
+248479,R,Right bundle branch block
+248814,R,Right bundle branch block
+249156,R,Right bundle branch block
+249469,R,Right bundle branch block
+249810,R,Right bundle branch block
+250148,R,Right bundle branch block
+250470,R,Right bundle branch block
+250807,R,Right bundle branch block
+251159,R,Right bundle branch block
+251475,R,Right bundle branch block
+251802,R,Right bundle branch block
+252139,R,Right bundle branch block
+252483,R,Right bundle branch block
+252805,R,Right bundle branch block
+253168,R,Right bundle branch block
+253518,R,Right bundle branch block
+253854,R,Right bundle branch block
+254192,R,Right bundle branch block
+254542,R,Right bundle branch block
+254873,R,Right bundle branch block
+255216,R,Right bundle branch block
+255557,R,Right bundle branch block
+255887,R,Right bundle branch block
+256228,R,Right bundle branch block
+256558,R,Right bundle branch block
+256822,"""",Comment annotation
+257202,N,Normal beat
+257519,R,Right bundle branch block
+257838,R,Right bundle branch block
+258168,R,Right bundle branch block
+258506,R,Right bundle branch block
+258833,R,Right bundle branch block
+259193,R,Right bundle branch block
+259550,R,Right bundle branch block
+259891,R,Right bundle branch block
+260237,R,Right bundle branch block
+260591,R,Right bundle branch block
+260935,R,Right bundle branch block
+261274,R,Right bundle branch block
+261625,R,Right bundle branch block
+261962,R,Right bundle branch block
+262284,R,Right bundle branch block
+262627,R,Right bundle branch block
+262958,R,Right bundle branch block
+263271,R,Right bundle branch block
+263624,R,Right bundle branch block
+263965,R,Right bundle branch block
+264273,R,Right bundle branch block
+264619,R,Right bundle branch block
+264972,R,Right bundle branch block
+265306,R,Right bundle branch block
+265649,R,Right bundle branch block
+266000,R,Right bundle branch block
+266341,R,Right bundle branch block
+266682,R,Right bundle branch block
+267047,R,Right bundle branch block
+267402,R,Right bundle branch block
+267749,R,Right bundle branch block
+268107,R,Right bundle branch block
+268450,R,Right bundle branch block
+268788,R,Right bundle branch block
+269130,R,Right bundle branch block
+269465,R,Right bundle branch block
+269783,R,Right bundle branch block
+270112,R,Right bundle branch block
+270439,R,Right bundle branch block
+270755,R,Right bundle branch block
+271083,R,Right bundle branch block
+271405,R,Right bundle branch block
+271722,R,Right bundle branch block
+272051,R,Right bundle branch block
+272389,R,Right bundle branch block
+272711,R,Right bundle branch block
+273082,R,Right bundle branch block
+273436,R,Right bundle branch block
+273783,R,Right bundle branch block
+274132,R,Right bundle branch block
+274483,R,Right bundle branch block
+274814,R,Right bundle branch block
+275162,R,Right bundle branch block
+275485,R,Right bundle branch block
+275803,R,Right bundle branch block
+276129,R,Right bundle branch block
+276465,R,Right bundle branch block
+276784,R,Right bundle branch block
+277148,R,Right bundle branch block
+277511,R,Right bundle branch block
+277864,R,Right bundle branch block
+278222,R,Right bundle branch block
+278591,R,Right bundle branch block
+278951,R,Right bundle branch block
+279281,R,Right bundle branch block
+279629,R,Right bundle branch block
+279988,R,Right bundle branch block
+280320,R,Right bundle branch block
+280663,R,Right bundle branch block
+281011,R,Right bundle branch block
+281342,R,Right bundle branch block
+281679,R,Right bundle branch block
+282014,R,Right bundle branch block
+282346,R,Right bundle branch block
+282673,R,Right bundle branch block
+283035,R,Right bundle branch block
+283387,R,Right bundle branch block
+283729,R,Right bundle branch block
+284078,R,Right bundle branch block
+284427,R,Right bundle branch block
+284761,R,Right bundle branch block
+285111,R,Right bundle branch block
+285453,R,Right bundle branch block
+285784,R,Right bundle branch block
+286108,R,Right bundle branch block
+286447,R,Right bundle branch block
+286771,R,Right bundle branch block
+287105,R,Right bundle branch block
+287442,R,Right bundle branch block
+287766,R,Right bundle branch block
+287941,+,Rhythm change
+288016,"""",Comment annotation
+288381,N,Normal beat
+288648,"""",Comment annotation
+288998,N,Normal beat
+289257,"""",Comment annotation
+289634,N,Normal beat
+289892,"""",Comment annotation
+290248,N,Normal beat
+290514,"""",Comment annotation
+290882,N,Normal beat
+291130,"""",Comment annotation
+291486,N,Normal beat
+291738,"""",Comment annotation
+292078,R,Right bundle branch block
+292311,"""",Comment annotation
+292654,R,Right bundle branch block
+292893,"""",Comment annotation
+293228,R,Right bundle branch block
+293481,"""",Comment annotation
+293815,R,Right bundle branch block
+294041,"""",Comment annotation
+294384,R,Right bundle branch block
+294640,"""",Comment annotation
+294987,R,Right bundle branch block
+295223,"""",Comment annotation
+295575,R,Right bundle branch block
+295819,"""",Comment annotation
+296157,R,Right bundle branch block
+296395,"""",Comment annotation
+296740,R,Right bundle branch block
+296978,"""",Comment annotation
+297320,R,Right bundle branch block
+297575,"""",Comment annotation
+297915,R,Right bundle branch block
+298160,"""",Comment annotation
+298517,R,Right bundle branch block
+298773,"""",Comment annotation
+299105,R,Right bundle branch block
+299344,"""",Comment annotation
+299695,R,Right bundle branch block
+299924,"""",Comment annotation
+300268,R,Right bundle branch block
+300499,"""",Comment annotation
+300839,R,Right bundle branch block
+301079,"""",Comment annotation
+301417,R,Right bundle branch block
+301656,"""",Comment annotation
+301988,R,Right bundle branch block
+302237,"""",Comment annotation
+302591,R,Right bundle branch block
+302837,"""",Comment annotation
+303179,R,Right bundle branch block
+303447,"""",Comment annotation
+303816,N,Normal beat
+304066,"""",Comment annotation
+304426,N,Normal beat
+304684,"""",Comment annotation
+305036,N,Normal beat
+305281,"""",Comment annotation
+305636,N,Normal beat
+305872,"""",Comment annotation
+306215,N,Normal beat
+306462,"""",Comment annotation
+306815,N,Normal beat
+307055,"""",Comment annotation
+307395,N,Normal beat
+307646,"""",Comment annotation
+307984,N,Normal beat
+308227,"""",Comment annotation
+308569,N,Normal beat
+308825,"""",Comment annotation
+309174,N,Normal beat
+309438,"""",Comment annotation
+309796,N,Normal beat
+310033,"""",Comment annotation
+310384,N,Normal beat
+310638,"""",Comment annotation
+311002,N,Normal beat
+311248,"""",Comment annotation
+311612,N,Normal beat
+311861,"""",Comment annotation
+312229,N,Normal beat
+312471,"""",Comment annotation
+312841,N,Normal beat
+313094,"""",Comment annotation
+313460,N,Normal beat
+313721,"""",Comment annotation
+314067,N,Normal beat
+314304,"""",Comment annotation
+314666,N,Normal beat
+314900,"""",Comment annotation
+315238,N,Normal beat
+315499,"""",Comment annotation
+315835,N,Normal beat
+316072,"""",Comment annotation
+316429,N,Normal beat
+316685,"""",Comment annotation
+317033,N,Normal beat
+317276,"""",Comment annotation
+317640,N,Normal beat
+317892,"""",Comment annotation
+318252,N,Normal beat
+318506,"""",Comment annotation
+318864,N,Normal beat
+319093,"""",Comment annotation
+319461,N,Normal beat
+319711,"""",Comment annotation
+320054,N,Normal beat
+320302,"""",Comment annotation
+320667,N,Normal beat
+320922,"""",Comment annotation
+321285,N,Normal beat
+321539,"""",Comment annotation
+321884,N,Normal beat
+322131,"""",Comment annotation
+322490,N,Normal beat
+322745,"""",Comment annotation
+323087,N,Normal beat
+323346,"""",Comment annotation
+323713,N,Normal beat
+323958,"""",Comment annotation
+324327,N,Normal beat
+324585,"""",Comment annotation
+324937,N,Normal beat
+325198,"""",Comment annotation
+325556,N,Normal beat
+325797,"""",Comment annotation
+326143,N,Normal beat
+326392,"""",Comment annotation
+326746,N,Normal beat
+326995,"""",Comment annotation
+327341,N,Normal beat
+327593,"""",Comment annotation
+327938,N,Normal beat
+328189,"""",Comment annotation
+328541,N,Normal beat
+328779,"""",Comment annotation
+329132,N,Normal beat
+329397,"""",Comment annotation
+329744,N,Normal beat
+329986,"""",Comment annotation
+330341,N,Normal beat
+330589,"""",Comment annotation
+330942,N,Normal beat
+331197,"""",Comment annotation
+331555,N,Normal beat
+331807,"""",Comment annotation
+332154,N,Normal beat
+332402,"""",Comment annotation
+332749,N,Normal beat
+332995,"""",Comment annotation
+333351,N,Normal beat
+333589,"""",Comment annotation
+333932,N,Normal beat
+334179,"""",Comment annotation
+334532,N,Normal beat
+334774,"""",Comment annotation
+335116,N,Normal beat
+335375,"""",Comment annotation
+335737,N,Normal beat
+335974,"""",Comment annotation
+336336,N,Normal beat
+336593,"""",Comment annotation
+336943,N,Normal beat
+337201,"""",Comment annotation
+337571,N,Normal beat
+337816,"""",Comment annotation
+338172,N,Normal beat
+338430,"""",Comment annotation
+338797,N,Normal beat
+339033,"""",Comment annotation
+339404,N,Normal beat
+339662,"""",Comment annotation
+340015,N,Normal beat
+340262,"""",Comment annotation
+340614,N,Normal beat
+340861,"""",Comment annotation
+341196,N,Normal beat
+341449,"""",Comment annotation
+341787,N,Normal beat
+342040,"""",Comment annotation
+342388,N,Normal beat
+342644,"""",Comment annotation
+342991,N,Normal beat
+343254,"""",Comment annotation
+343619,N,Normal beat
+343864,"""",Comment annotation
+344215,N,Normal beat
+344475,"""",Comment annotation
+344830,N,Normal beat
+345068,"""",Comment annotation
+345431,N,Normal beat
+345675,"""",Comment annotation
+346020,N,Normal beat
+346252,"""",Comment annotation
+346606,N,Normal beat
+346857,"""",Comment annotation
+347210,N,Normal beat
+347468,"""",Comment annotation
+347817,N,Normal beat
+348058,"""",Comment annotation
+348420,N,Normal beat
+348674,"""",Comment annotation
+349025,N,Normal beat
+349285,"""",Comment annotation
+349631,N,Normal beat
+349879,"""",Comment annotation
+350244,N,Normal beat
+350486,"""",Comment annotation
+350832,N,Normal beat
+351070,"""",Comment annotation
+351430,N,Normal beat
+351673,"""",Comment annotation
+352005,N,Normal beat
+352234,"""",Comment annotation
+352585,N,Normal beat
+352829,"""",Comment annotation
+353174,N,Normal beat
+353420,"""",Comment annotation
+353758,N,Normal beat
+354005,"""",Comment annotation
+354360,N,Normal beat
+354597,"""",Comment annotation
+354940,N,Normal beat
+355199,"""",Comment annotation
+355549,N,Normal beat
+355781,"""",Comment annotation
+356126,N,Normal beat
+356368,"""",Comment annotation
+356708,N,Normal beat
+356943,"""",Comment annotation
+357299,N,Normal beat
+357544,"""",Comment annotation
+357880,N,Normal beat
+358130,"""",Comment annotation
+358489,N,Normal beat
+358736,"""",Comment annotation
+359089,N,Normal beat
+359358,"""",Comment annotation
+359720,N,Normal beat
+359971,"""",Comment annotation
+360340,N,Normal beat
+360611,"""",Comment annotation
+360965,N,Normal beat
+361226,"""",Comment annotation
+361583,N,Normal beat
+361822,"""",Comment annotation
+362172,N,Normal beat
+362421,"""",Comment annotation
+362762,N,Normal beat
+362999,"""",Comment annotation
+363356,N,Normal beat
+363604,"""",Comment annotation
+363960,N,Normal beat
+364192,"""",Comment annotation
+364553,N,Normal beat
+364799,"""",Comment annotation
+365159,N,Normal beat
+365411,"""",Comment annotation
+365751,N,Normal beat
+366001,"""",Comment annotation
+366352,N,Normal beat
+366599,"""",Comment annotation
+366948,N,Normal beat
+367197,"""",Comment annotation
+367542,N,Normal beat
+367795,"""",Comment annotation
+368145,N,Normal beat
+368404,"""",Comment annotation
+368752,N,Normal beat
+368993,"""",Comment annotation
+369361,N,Normal beat
+369616,"""",Comment annotation
+369968,N,Normal beat
+370224,"""",Comment annotation
+370587,N,Normal beat
+370848,"""",Comment annotation
+371228,N,Normal beat
+371484,"""",Comment annotation
+371838,N,Normal beat
+372088,"""",Comment annotation
+372443,N,Normal beat
+372679,"""",Comment annotation
+373023,N,Normal beat
+373272,"""",Comment annotation
+373609,N,Normal beat
+373854,"""",Comment annotation
+374209,N,Normal beat
+374460,"""",Comment annotation
+374824,N,Normal beat
+375095,"""",Comment annotation
+375459,N,Normal beat
+375703,"""",Comment annotation
+375925,+,Rhythm change
+376064,N,Normal beat
+376379,R,Right bundle branch block
+376677,R,Right bundle branch block
+377028,R,Right bundle branch block
+377370,R,Right bundle branch block
+377689,R,Right bundle branch block
+378070,R,Right bundle branch block
+378455,R,Right bundle branch block
+378817,R,Right bundle branch block
+379216,R,Right bundle branch block
+379578,R,Right bundle branch block
+379932,R,Right bundle branch block
+380300,R,Right bundle branch block
+380645,R,Right bundle branch block
+380990,R,Right bundle branch block
+381350,R,Right bundle branch block
+381694,R,Right bundle branch block
+382027,R,Right bundle branch block
+382367,R,Right bundle branch block
+382705,R,Right bundle branch block
+383040,R,Right bundle branch block
+383379,R,Right bundle branch block
+383723,R,Right bundle branch block
+384042,R,Right bundle branch block
+384400,R,Right bundle branch block
+384754,R,Right bundle branch block
+385099,R,Right bundle branch block
+385448,R,Right bundle branch block
+385799,R,Right bundle branch block
+386130,R,Right bundle branch block
+386492,R,Right bundle branch block
+386850,R,Right bundle branch block
+387195,R,Right bundle branch block
+387549,R,Right bundle branch block
+387898,R,Right bundle branch block
+388225,R,Right bundle branch block
+388562,R,Right bundle branch block
+388889,R,Right bundle branch block
+389207,R,Right bundle branch block
+389528,R,Right bundle branch block
+389858,R,Right bundle branch block
+390180,R,Right bundle branch block
+390531,R,Right bundle branch block
+390901,R,Right bundle branch block
+391247,R,Right bundle branch block
+391601,R,Right bundle branch block
+391968,R,Right bundle branch block
+392312,R,Right bundle branch block
+392660,R,Right bundle branch block
+393029,R,Right bundle branch block
+393361,R,Right bundle branch block
+393709,R,Right bundle branch block
+394071,R,Right bundle branch block
+394412,R,Right bundle branch block
+394770,R,Right bundle branch block
+395150,R,Right bundle branch block
+395487,R,Right bundle branch block
+395832,R,Right bundle branch block
+396170,R,Right bundle branch block
+396485,R,Right bundle branch block
+396820,R,Right bundle branch block
+397164,R,Right bundle branch block
+397474,R,Right bundle branch block
+397822,R,Right bundle branch block
+398184,R,Right bundle branch block
+398511,R,Right bundle branch block
+398863,R,Right bundle branch block
+399244,R,Right bundle branch block
+399591,R,Right bundle branch block
+399928,R,Right bundle branch block
+400279,R,Right bundle branch block
+400623,R,Right bundle branch block
+400961,R,Right bundle branch block
+401311,R,Right bundle branch block
+401669,R,Right bundle branch block
+402005,R,Right bundle branch block
+402376,R,Right bundle branch block
+402733,R,Right bundle branch block
+403076,R,Right bundle branch block
+403413,R,Right bundle branch block
+403744,R,Right bundle branch block
+404067,R,Right bundle branch block
+404406,R,Right bundle branch block
+404746,R,Right bundle branch block
+405063,R,Right bundle branch block
+405388,R,Right bundle branch block
+405725,R,Right bundle branch block
+406050,R,Right bundle branch block
+406385,R,Right bundle branch block
+406755,R,Right bundle branch block
+407106,R,Right bundle branch block
+407430,R,Right bundle branch block
+407777,R,Right bundle branch block
+408124,R,Right bundle branch block
+408435,R,Right bundle branch block
+408785,R,Right bundle branch block
+409128,R,Right bundle branch block
+409441,R,Right bundle branch block
+409752,R,Right bundle branch block
+410082,R,Right bundle branch block
+410400,R,Right bundle branch block
+410727,R,Right bundle branch block
+411074,R,Right bundle branch block
+411430,R,Right bundle branch block
+411766,R,Right bundle branch block
+412143,R,Right bundle branch block
+412494,R,Right bundle branch block
+412844,R,Right bundle branch block
+413195,R,Right bundle branch block
+413544,R,Right bundle branch block
+413874,R,Right bundle branch block
+414224,R,Right bundle branch block
+414573,R,Right bundle branch block
+414914,R,Right bundle branch block
+415265,R,Right bundle branch block
+415613,R,Right bundle branch block
+415944,R,Right bundle branch block
+416291,R,Right bundle branch block
+416633,R,Right bundle branch block
+416967,R,Right bundle branch block
+417307,R,Right bundle branch block
+417658,R,Right bundle branch block
+418007,R,Right bundle branch block
+418333,R,Right bundle branch block
+418672,R,Right bundle branch block
+419030,R,Right bundle branch block
+419346,R,Right bundle branch block
+419703,R,Right bundle branch block
+420088,R,Right bundle branch block
+420425,R,Right bundle branch block
+420817,R,Right bundle branch block
+421189,R,Right bundle branch block
+421531,R,Right bundle branch block
+421870,R,Right bundle branch block
+422209,R,Right bundle branch block
+422526,R,Right bundle branch block
+422890,R,Right bundle branch block
+423254,R,Right bundle branch block
+423594,R,Right bundle branch block
+423969,R,Right bundle branch block
+424333,R,Right bundle branch block
+424676,R,Right bundle branch block
+425045,R,Right bundle branch block
+425390,R,Right bundle branch block
+425720,R,Right bundle branch block
+426061,R,Right bundle branch block
+426390,R,Right bundle branch block
+426728,R,Right bundle branch block
+427067,R,Right bundle branch block
+427402,R,Right bundle branch block
+427762,R,Right bundle branch block
+428116,R,Right bundle branch block
+428457,R,Right bundle branch block
+428828,R,Right bundle branch block
+429178,R,Right bundle branch block
+429506,R,Right bundle branch block
+429870,R,Right bundle branch block
+430234,R,Right bundle branch block
+430581,R,Right bundle branch block
+430972,R,Right bundle branch block
+431347,R,Right bundle branch block
+431705,R,Right bundle branch block
+432067,R,Right bundle branch block
+432411,R,Right bundle branch block
+432750,R,Right bundle branch block
+433065,R,Right bundle branch block
+433387,R,Right bundle branch block
+433692,R,Right bundle branch block
+433855,+,Rhythm change
+433946,"""",Comment annotation
+434287,R,Right bundle branch block
+434534,"""",Comment annotation
+434894,R,Right bundle branch block
+435127,"""",Comment annotation
+435475,R,Right bundle branch block
+435717,"""",Comment annotation
+436069,R,Right bundle branch block
+436311,"""",Comment annotation
+436666,R,Right bundle branch block
+436917,"""",Comment annotation
+437262,R,Right bundle branch block
+437514,"""",Comment annotation
+437877,R,Right bundle branch block
+438126,"""",Comment annotation
+438484,R,Right bundle branch block
+438724,"""",Comment annotation
+439083,R,Right bundle branch block
+439338,"""",Comment annotation
+439689,R,Right bundle branch block
+439940,"""",Comment annotation
+440275,R,Right bundle branch block
+440543,"""",Comment annotation
+440900,R,Right bundle branch block
+441130,"""",Comment annotation
+441481,R,Right bundle branch block
+441729,"""",Comment annotation
+442095,R,Right bundle branch block
+442337,"""",Comment annotation
+442689,R,Right bundle branch block
+442931,"""",Comment annotation
+443280,R,Right bundle branch block
+443525,"""",Comment annotation
+443870,R,Right bundle branch block
+444107,"""",Comment annotation
+444438,R,Right bundle branch block
+444683,"""",Comment annotation
+445020,R,Right bundle branch block
+445260,"""",Comment annotation
+445603,R,Right bundle branch block
+445850,"""",Comment annotation
+446187,R,Right bundle branch block
+446422,"""",Comment annotation
+446770,R,Right bundle branch block
+447011,"""",Comment annotation
+447349,R,Right bundle branch block
+447599,"""",Comment annotation
+447958,R,Right bundle branch block
+448216,"""",Comment annotation
+448425,+,Rhythm change
+448583,R,Right bundle branch block
+448891,R,Right bundle branch block
+449200,R,Right bundle branch block
+449567,R,Right bundle branch block
+449942,R,Right bundle branch block
+450300,R,Right bundle branch block
+450728,R,Right bundle branch block
+451121,R,Right bundle branch block
+451490,R,Right bundle branch block
+451859,R,Right bundle branch block
+452198,R,Right bundle branch block
+452553,R,Right bundle branch block
+452904,R,Right bundle branch block
+453250,R,Right bundle branch block
+453579,R,Right bundle branch block
+453905,R,Right bundle branch block
+454224,R,Right bundle branch block
+454575,R,Right bundle branch block
+454916,R,Right bundle branch block
+455251,R,Right bundle branch block
+455616,R,Right bundle branch block
+455974,R,Right bundle branch block
+456313,R,Right bundle branch block
+456672,R,Right bundle branch block
+457008,R,Right bundle branch block
+457331,R,Right bundle branch block
+457682,R,Right bundle branch block
+458000,R,Right bundle branch block
+458325,R,Right bundle branch block
+458645,R,Right bundle branch block
+458808,+,Rhythm change
+458878,"""",Comment annotation
+459236,R,Right bundle branch block
+459476,"""",Comment annotation
+459830,R,Right bundle branch block
+460069,"""",Comment annotation
+460417,R,Right bundle branch block
+460667,"""",Comment annotation
+461002,R,Right bundle branch block
+461245,"""",Comment annotation
+461595,R,Right bundle branch block
+461832,"""",Comment annotation
+462176,R,Right bundle branch block
+462424,"""",Comment annotation
+462762,R,Right bundle branch block
+463002,"""",Comment annotation
+463354,R,Right bundle branch block
+463604,"""",Comment annotation
+463956,R,Right bundle branch block
+464207,"""",Comment annotation
+464563,R,Right bundle branch block
+464816,"""",Comment annotation
+465164,R,Right bundle branch block
+465418,"""",Comment annotation
+465774,R,Right bundle branch block
+466011,"""",Comment annotation
+466372,R,Right bundle branch block
+466613,"""",Comment annotation
+466941,R,Right bundle branch block
+467176,"""",Comment annotation
+467520,R,Right bundle branch block
+467759,"""",Comment annotation
+468106,R,Right bundle branch block
+468360,"""",Comment annotation
+468709,R,Right bundle branch block
+468960,"""",Comment annotation
+469323,N,Normal beat
+469591,"""",Comment annotation
+469943,N,Normal beat
+470220,"""",Comment annotation
+470592,N,Normal beat
+470844,"""",Comment annotation
+471207,N,Normal beat
+471473,"""",Comment annotation
+471838,N,Normal beat
+472080,"""",Comment annotation
+472446,N,Normal beat
+472692,"""",Comment annotation
+473043,N,Normal beat
+473278,"""",Comment annotation
+473635,N,Normal beat
+473875,"""",Comment annotation
+474222,N,Normal beat
+474465,"""",Comment annotation
+474808,N,Normal beat
+475054,"""",Comment annotation
+475414,N,Normal beat
+475657,"""",Comment annotation
+476006,N,Normal beat
+476257,"""",Comment annotation
+476611,N,Normal beat
+476846,"""",Comment annotation
+477208,N,Normal beat
+477459,"""",Comment annotation
+477801,N,Normal beat
+478040,"""",Comment annotation
+478411,N,Normal beat
+478646,"""",Comment annotation
+479012,N,Normal beat
+479272,"""",Comment annotation
+479630,N,Normal beat
+479864,"""",Comment annotation
+480237,N,Normal beat
+480488,"""",Comment annotation
+480849,N,Normal beat
+481122,"""",Comment annotation
+481486,N,Normal beat
+481735,"""",Comment annotation
+482086,N,Normal beat
+482349,"""",Comment annotation
+482710,N,Normal beat
+482949,"""",Comment annotation
+483309,N,Normal beat
+483585,"""",Comment annotation
+483928,N,Normal beat
+484178,"""",Comment annotation
+484534,N,Normal beat
+484778,"""",Comment annotation
+485139,N,Normal beat
+485393,"""",Comment annotation
+485739,N,Normal beat
+485986,"""",Comment annotation
+486341,N,Normal beat
+486576,"""",Comment annotation
+486920,N,Normal beat
+487166,"""",Comment annotation
+487508,N,Normal beat
+487734,"""",Comment annotation
+488089,N,Normal beat
+488330,"""",Comment annotation
+488673,N,Normal beat
+488926,"""",Comment annotation
+489286,N,Normal beat
+489546,"""",Comment annotation
+489905,N,Normal beat
+490166,"""",Comment annotation
+490522,N,Normal beat
+490769,"""",Comment annotation
+491140,N,Normal beat
+491407,"""",Comment annotation
+491758,N,Normal beat
+492007,"""",Comment annotation
+492377,N,Normal beat
+492627,"""",Comment annotation
+492987,N,Normal beat
+493248,"""",Comment annotation
+493594,N,Normal beat
+493840,"""",Comment annotation
+494213,N,Normal beat
+494461,"""",Comment annotation
+494820,N,Normal beat
+495063,"""",Comment annotation
+495414,N,Normal beat
+495658,"""",Comment annotation
+496012,N,Normal beat
+496249,"""",Comment annotation
+496593,N,Normal beat
+496840,"""",Comment annotation
+497203,N,Normal beat
+497458,"""",Comment annotation
+497804,N,Normal beat
+498077,"""",Comment annotation
+498437,N,Normal beat
+498700,"""",Comment annotation
+499064,N,Normal beat
+499326,"""",Comment annotation
+499685,N,Normal beat
+499949,"""",Comment annotation
+500311,N,Normal beat
+500535,"""",Comment annotation
+500894,N,Normal beat
+501155,"""",Comment annotation
+501505,N,Normal beat
+501738,"""",Comment annotation
+502099,N,Normal beat
+502350,"""",Comment annotation
+502689,N,Normal beat
+502931,"""",Comment annotation
+503280,N,Normal beat
+503523,"""",Comment annotation
+503872,N,Normal beat
+504112,"""",Comment annotation
+504469,N,Normal beat
+504726,"""",Comment annotation
+505086,N,Normal beat
+505345,"""",Comment annotation
+505702,N,Normal beat
+505962,"""",Comment annotation
+506321,N,Normal beat
+506581,"""",Comment annotation
+506954,N,Normal beat
+507209,"""",Comment annotation
+507445,+,Rhythm change
+507577,N,Normal beat
+507901,R,Right bundle branch block
+508210,R,Right bundle branch block
+508531,R,Right bundle branch block
+508878,R,Right bundle branch block
+509207,R,Right bundle branch block
+509536,R,Right bundle branch block
+509886,R,Right bundle branch block
+510214,R,Right bundle branch block
+510562,R,Right bundle branch block
+510934,R,Right bundle branch block
+511276,R,Right bundle branch block
+511633,R,Right bundle branch block
+512002,R,Right bundle branch block
+512344,R,Right bundle branch block
+512705,R,Right bundle branch block
+513073,R,Right bundle branch block
+513410,R,Right bundle branch block
+513758,R,Right bundle branch block
+514109,R,Right bundle branch block
+514432,R,Right bundle branch block
+514785,R,Right bundle branch block
+515143,R,Right bundle branch block
+515478,R,Right bundle branch block
+515837,R,Right bundle branch block
+516198,R,Right bundle branch block
+516545,R,Right bundle branch block
+516904,R,Right bundle branch block
+517274,R,Right bundle branch block
+517621,R,Right bundle branch block
+517993,R,Right bundle branch block
+518350,R,Right bundle branch block
+518713,R,Right bundle branch block
+519062,R,Right bundle branch block
+519409,R,Right bundle branch block
+519779,R,Right bundle branch block
+520117,R,Right bundle branch block
+520478,R,Right bundle branch block
+520833,R,Right bundle branch block
+521191,R,Right bundle branch block
+521554,R,Right bundle branch block
+521909,R,Right bundle branch block
+522270,R,Right bundle branch block
+522635,R,Right bundle branch block
+522994,R,Right bundle branch block
+523356,R,Right bundle branch block
+523729,R,Right bundle branch block
+524078,R,Right bundle branch block
+524432,R,Right bundle branch block
+524792,R,Right bundle branch block
+525136,R,Right bundle branch block
+525509,R,Right bundle branch block
+525890,R,Right bundle branch block
+526233,R,Right bundle branch block
+526598,R,Right bundle branch block
+526974,R,Right bundle branch block
+527326,R,Right bundle branch block
+527691,R,Right bundle branch block
+528042,R,Right bundle branch block
+528377,R,Right bundle branch block
+528740,R,Right bundle branch block
+529104,R,Right bundle branch block
+529435,R,Right bundle branch block
+529800,R,Right bundle branch block
+530149,R,Right bundle branch block
+530479,R,Right bundle branch block
+530826,R,Right bundle branch block
+531169,R,Right bundle branch block
+531484,R,Right bundle branch block
+531834,R,Right bundle branch block
+532174,R,Right bundle branch block
+532490,R,Right bundle branch block
+532848,R,Right bundle branch block
+533195,R,Right bundle branch block
+533517,R,Right bundle branch block
+533869,R,Right bundle branch block
+534212,R,Right bundle branch block
+534539,R,Right bundle branch block
+534895,R,Right bundle branch block
+535236,R,Right bundle branch block
+535565,R,Right bundle branch block
+535934,R,Right bundle branch block
+536285,R,Right bundle branch block
+536613,R,Right bundle branch block
+536976,R,Right bundle branch block
+537316,R,Right bundle branch block
+537655,R,Right bundle branch block
+537999,R,Right bundle branch block
+538375,R,Right bundle branch block
+538726,R,Right bundle branch block
+539080,R,Right bundle branch block
+539444,R,Right bundle branch block
+539801,R,Right bundle branch block
+540146,R,Right bundle branch block
+540522,R,Right bundle branch block
+540876,R,Right bundle branch block
+541254,R,Right bundle branch block
+541646,R,Right bundle branch block
+542002,R,Right bundle branch block
+542365,R,Right bundle branch block
+542740,R,Right bundle branch block
+543088,R,Right bundle branch block
+543454,R,Right bundle branch block
+543806,R,Right bundle branch block
+544136,R,Right bundle branch block
+544495,R,Right bundle branch block
+544860,R,Right bundle branch block
+545203,R,Right bundle branch block
+545589,R,Right bundle branch block
+545959,R,Right bundle branch block
+546300,R,Right bundle branch block
+546676,R,Right bundle branch block
+547014,R,Right bundle branch block
+547353,R,Right bundle branch block
+547716,R,Right bundle branch block
+548054,R,Right bundle branch block
+548388,R,Right bundle branch block
+548742,R,Right bundle branch block
+549083,R,Right bundle branch block
+549436,R,Right bundle branch block
+549809,R,Right bundle branch block
+550185,R,Right bundle branch block
+550535,R,Right bundle branch block
+550915,R,Right bundle branch block
+551300,R,Right bundle branch block
+551652,R,Right bundle branch block
+552025,R,Right bundle branch block
+552395,R,Right bundle branch block
+552737,R,Right bundle branch block
+553094,R,Right bundle branch block
+553450,R,Right bundle branch block
+553777,R,Right bundle branch block
+554123,R,Right bundle branch block
+554474,R,Right bundle branch block
+554817,R,Right bundle branch block
+555161,R,Right bundle branch block
+555532,R,Right bundle branch block
+555864,R,Right bundle branch block
+556192,R,Right bundle branch block
+556529,R,Right bundle branch block
+556844,R,Right bundle branch block
+557185,R,Right bundle branch block
+557556,R,Right bundle branch block
+557877,R,Right bundle branch block
+558244,R,Right bundle branch block
+558624,R,Right bundle branch block
+558960,R,Right bundle branch block
+559333,R,Right bundle branch block
+559669,R,Right bundle branch block
+559997,R,Right bundle branch block
+560317,R,Right bundle branch block
+560671,R,Right bundle branch block
+560987,R,Right bundle branch block
+561345,R,Right bundle branch block
+561694,R,Right bundle branch block
+562019,R,Right bundle branch block
+562389,R,Right bundle branch block
+562769,R,Right bundle branch block
+563100,R,Right bundle branch block
+563491,R,Right bundle branch block
+563848,R,Right bundle branch block
+564187,R,Right bundle branch block
+564563,R,Right bundle branch block
+564907,R,Right bundle branch block
+565249,R,Right bundle branch block
+565589,R,Right bundle branch block
+565911,R,Right bundle branch block
+566233,R,Right bundle branch block
+566581,R,Right bundle branch block
+566917,R,Right bundle branch block
+567259,R,Right bundle branch block
+567621,R,Right bundle branch block
+567973,R,Right bundle branch block
+568306,R,Right bundle branch block
+568686,R,Right bundle branch block
+569038,R,Right bundle branch block
+569387,R,Right bundle branch block
+569745,R,Right bundle branch block
+570091,R,Right bundle branch block
+570432,R,Right bundle branch block
+570780,R,Right bundle branch block
+571136,R,Right bundle branch block
+571467,R,Right bundle branch block
+571804,R,Right bundle branch block
+572144,R,Right bundle branch block
+572466,R,Right bundle branch block
+572812,R,Right bundle branch block
+573168,R,Right bundle branch block
+573489,R,Right bundle branch block
+573843,R,Right bundle branch block
+574192,R,Right bundle branch block
+574529,R,Right bundle branch block
+574878,R,Right bundle branch block
+575238,R,Right bundle branch block
+575572,R,Right bundle branch block
+575930,R,Right bundle branch block
+576308,R,Right bundle branch block
+576649,R,Right bundle branch block
+577008,R,Right bundle branch block
+577368,R,Right bundle branch block
+577692,R,Right bundle branch block
+578028,R,Right bundle branch block
+578353,R,Right bundle branch block
+578606,"""",Comment annotation
+578987,N,Normal beat
+579311,R,Right bundle branch block
+579611,R,Right bundle branch block
+579951,R,Right bundle branch block
+580299,R,Right bundle branch block
+580617,R,Right bundle branch block
+580979,R,Right bundle branch block
+581353,R,Right bundle branch block
+581694,R,Right bundle branch block
+582051,R,Right bundle branch block
+582417,R,Right bundle branch block
+582749,R,Right bundle branch block
+583113,R,Right bundle branch block
+583457,R,Right bundle branch block
+583791,R,Right bundle branch block
+584160,R,Right bundle branch block
+584515,R,Right bundle branch block
+584838,R,Right bundle branch block
+585185,R,Right bundle branch block
+585514,R,Right bundle branch block
+585830,R,Right bundle branch block
+586171,R,Right bundle branch block
+586512,R,Right bundle branch block
+586834,R,Right bundle branch block
+587195,R,Right bundle branch block
+587541,R,Right bundle branch block
+587875,R,Right bundle branch block
+588250,R,Right bundle branch block
+588598,R,Right bundle branch block
+588945,R,Right bundle branch block
+589299,R,Right bundle branch block
+589649,R,Right bundle branch block
+589980,R,Right bundle branch block
+590345,R,Right bundle branch block
+590689,R,Right bundle branch block
+591029,R,Right bundle branch block
+591372,R,Right bundle branch block
+591710,R,Right bundle branch block
+592040,R,Right bundle branch block
+592373,R,Right bundle branch block
+592713,R,Right bundle branch block
+593044,R,Right bundle branch block
+593392,R,Right bundle branch block
+593748,R,Right bundle branch block
+594082,R,Right bundle branch block
+594427,R,Right bundle branch block
+594790,R,Right bundle branch block
+595130,R,Right bundle branch block
+595458,R,Right bundle branch block
+595827,R,Right bundle branch block
+596196,R,Right bundle branch block
+596534,R,Right bundle branch block
+596912,R,Right bundle branch block
+597272,R,Right bundle branch block
+597607,R,Right bundle branch block
+597989,R,Right bundle branch block
+598340,R,Right bundle branch block
+598673,R,Right bundle branch block
+599023,R,Right bundle branch block
+599348,R,Right bundle branch block
+599672,R,Right bundle branch block
+600021,R,Right bundle branch block
+600364,R,Right bundle branch block
+600714,R,Right bundle branch block
+601059,R,Right bundle branch block
+601414,R,Right bundle branch block
+601753,R,Right bundle branch block
+602101,R,Right bundle branch block
+602458,R,Right bundle branch block
+602806,R,Right bundle branch block
+603157,R,Right bundle branch block
+603501,R,Right bundle branch block
+603848,R,Right bundle branch block
+604196,R,Right bundle branch block
+604532,R,Right bundle branch block
+604875,R,Right bundle branch block
+605208,R,Right bundle branch block
+605542,R,Right bundle branch block
+605874,R,Right bundle branch block
+606208,R,Right bundle branch block
+606562,R,Right bundle branch block
+606903,R,Right bundle branch block
+607249,R,Right bundle branch block
+607607,R,Right bundle branch block
+607946,R,Right bundle branch block
+608301,R,Right bundle branch block
+608668,R,Right bundle branch block
+609005,R,Right bundle branch block
+609344,R,Right bundle branch block
+609687,R,Right bundle branch block
+610033,R,Right bundle branch block
+610366,R,Right bundle branch block
+610725,R,Right bundle branch block
+611073,R,Right bundle branch block
+611404,R,Right bundle branch block
+611761,R,Right bundle branch block
+612120,R,Right bundle branch block
+612453,R,Right bundle branch block
+612814,R,Right bundle branch block
+613154,R,Right bundle branch block
+613488,R,Right bundle branch block
+613849,R,Right bundle branch block
+614204,R,Right bundle branch block
+614562,R,Right bundle branch block
+614924,R,Right bundle branch block
+615302,R,Right bundle branch block
+615663,R,Right bundle branch block
+616030,R,Right bundle branch block
+616393,R,Right bundle branch block
+616741,R,Right bundle branch block
+617089,R,Right bundle branch block
+617436,R,Right bundle branch block
+617781,R,Right bundle branch block
+618123,R,Right bundle branch block
+618480,R,Right bundle branch block
+618817,R,Right bundle branch block
+619150,R,Right bundle branch block
+619500,R,Right bundle branch block
+619838,R,Right bundle branch block
+620181,R,Right bundle branch block
+620554,R,Right bundle branch block
+620887,R,Right bundle branch block
+621239,R,Right bundle branch block
+621603,R,Right bundle branch block
+621947,R,Right bundle branch block
+622301,R,Right bundle branch block
+622668,R,Right bundle branch block
+623007,R,Right bundle branch block
+623348,R,Right bundle branch block
+623704,R,Right bundle branch block
+624049,R,Right bundle branch block
+624391,R,Right bundle branch block
+624746,R,Right bundle branch block
+625097,R,Right bundle branch block
+625432,R,Right bundle branch block
+625787,R,Right bundle branch block
+626128,R,Right bundle branch block
+626466,R,Right bundle branch block
+626801,R,Right bundle branch block
+627136,R,Right bundle branch block
+627465,R,Right bundle branch block
+627805,R,Right bundle branch block
+628156,R,Right bundle branch block
+628490,R,Right bundle branch block
+628822,R,Right bundle branch block
+629175,R,Right bundle branch block
+629549,R,Right bundle branch block
+629886,R,Right bundle branch block
+630251,R,Right bundle branch block
+630604,R,Right bundle branch block
+630928,R,Right bundle branch block
+631281,R,Right bundle branch block
+631632,R,Right bundle branch block
+631950,R,Right bundle branch block
+632297,R,Right bundle branch block
+632622,R,Right bundle branch block
+632878,"""",Comment annotation
+633251,N,Normal beat
+633581,R,Right bundle branch block
+633890,R,Right bundle branch block
+634242,R,Right bundle branch block
+634586,R,Right bundle branch block
+634907,R,Right bundle branch block
+635261,R,Right bundle branch block
+635623,R,Right bundle branch block
+635962,R,Right bundle branch block
+636346,R,Right bundle branch block
+636708,R,Right bundle branch block
+637058,R,Right bundle branch block
+637432,R,Right bundle branch block
+637787,R,Right bundle branch block
+638134,R,Right bundle branch block
+638493,R,Right bundle branch block
+638825,R,Right bundle branch block
+639161,R,Right bundle branch block
+639513,R,Right bundle branch block
+639853,R,Right bundle branch block
+640204,R,Right bundle branch block
+640560,R,Right bundle branch block
+640922,R,Right bundle branch block
+641265,R,Right bundle branch block
+641629,R,Right bundle branch block
+641990,R,Right bundle branch block
+642344,R,Right bundle branch block
+642707,R,Right bundle branch block
+643074,R,Right bundle branch block
+643424,R,Right bundle branch block
+643775,R,Right bundle branch block
+644141,R,Right bundle branch block
+644480,R,Right bundle branch block
+644833,R,Right bundle branch block
+645174,R,Right bundle branch block
+645514,R,Right bundle branch block
+645838,R,Right bundle branch block
+646167,R,Right bundle branch block
+646431,"""",Comment annotation
+646801,N,Normal beat
+647128,R,Right bundle branch block
+647439,R,Right bundle branch block
+647777,R,Right bundle branch block
+648124,R,Right bundle branch block
+648456,R,Right bundle branch block
+648811,R,Right bundle branch block
+649142,R,Right bundle branch block
+649501,R,Right bundle branch block
+649862,R,Right bundle branch block

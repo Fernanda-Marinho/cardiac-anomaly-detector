@@ -1,0 +1,3053 @@
+sample,symbol,description
+84,+,Rhythm change
+189,N,Normal beat
+425,N,Normal beat
+659,N,Normal beat
+889,N,Normal beat
+1113,N,Normal beat
+1336,N,Normal beat
+1553,N,Normal beat
+1773,N,Normal beat
+1999,N,Normal beat
+2236,N,Normal beat
+2476,N,Normal beat
+2705,N,Normal beat
+2934,N,Normal beat
+3164,N,Normal beat
+3389,N,Normal beat
+3618,N,Normal beat
+3844,N,Normal beat
+4060,N,Normal beat
+4292,N,Normal beat
+4528,N,Normal beat
+4767,N,Normal beat
+5009,N,Normal beat
+5246,N,Normal beat
+5479,N,Normal beat
+5701,N,Normal beat
+5927,N,Normal beat
+6145,N,Normal beat
+6375,N,Normal beat
+6620,N,Normal beat
+6864,N,Normal beat
+7105,N,Normal beat
+7340,N,Normal beat
+7570,N,Normal beat
+7802,N,Normal beat
+8039,N,Normal beat
+8261,N,Normal beat
+8492,N,Normal beat
+8726,N,Normal beat
+8966,N,Normal beat
+9203,N,Normal beat
+9430,N,Normal beat
+9666,N,Normal beat
+9905,N,Normal beat
+10137,N,Normal beat
+10373,N,Normal beat
+10599,N,Normal beat
+10843,N,Normal beat
+11099,N,Normal beat
+11352,N,Normal beat
+11594,N,Normal beat
+11829,N,Normal beat
+12066,N,Normal beat
+12302,N,Normal beat
+12528,N,Normal beat
+12757,N,Normal beat
+13005,N,Normal beat
+13246,N,Normal beat
+13487,N,Normal beat
+13719,N,Normal beat
+13952,N,Normal beat
+14186,N,Normal beat
+14412,N,Normal beat
+14638,N,Normal beat
+14848,N,Normal beat
+15075,N,Normal beat
+15316,N,Normal beat
+15552,N,Normal beat
+15780,N,Normal beat
+16018,N,Normal beat
+16246,N,Normal beat
+16472,N,Normal beat
+16690,N,Normal beat
+16910,N,Normal beat
+17145,N,Normal beat
+17380,N,Normal beat
+17617,N,Normal beat
+17847,N,Normal beat
+18075,N,Normal beat
+18302,N,Normal beat
+18522,N,Normal beat
+18748,N,Normal beat
+18973,N,Normal beat
+19148,A,Atrial premature beat
+19404,N,Normal beat
+19639,N,Normal beat
+19873,N,Normal beat
+20107,N,Normal beat
+20334,N,Normal beat
+20558,N,Normal beat
+20780,N,Normal beat
+20996,N,Normal beat
+21211,N,Normal beat
+21432,N,Normal beat
+21666,N,Normal beat
+21911,N,Normal beat
+22158,N,Normal beat
+22388,N,Normal beat
+22617,N,Normal beat
+22838,N,Normal beat
+23064,N,Normal beat
+23291,N,Normal beat
+23502,N,Normal beat
+23730,N,Normal beat
+23958,N,Normal beat
+24169,N,Normal beat
+24417,N,Normal beat
+24641,N,Normal beat
+24871,N,Normal beat
+25096,N,Normal beat
+25313,N,Normal beat
+25496,A,Atrial premature beat
+25736,N,Normal beat
+25968,N,Normal beat
+26207,N,Normal beat
+26443,N,Normal beat
+26671,N,Normal beat
+26891,N,Normal beat
+27116,N,Normal beat
+27338,N,Normal beat
+27553,N,Normal beat
+27762,N,Normal beat
+27985,N,Normal beat
+28218,N,Normal beat
+28451,N,Normal beat
+28678,N,Normal beat
+28902,N,Normal beat
+29131,N,Normal beat
+29357,N,Normal beat
+29574,N,Normal beat
+29784,N,Normal beat
+29999,N,Normal beat
+30223,N,Normal beat
+30457,N,Normal beat
+30691,N,Normal beat
+30922,N,Normal beat
+31154,N,Normal beat
+31383,N,Normal beat
+31611,N,Normal beat
+31834,N,Normal beat
+32057,N,Normal beat
+32300,N,Normal beat
+32545,N,Normal beat
+32788,N,Normal beat
+33028,N,Normal beat
+33260,N,Normal beat
+33493,N,Normal beat
+33720,N,Normal beat
+33920,N,Normal beat
+34170,N,Normal beat
+34389,N,Normal beat
+34621,N,Normal beat
+34856,N,Normal beat
+35097,N,Normal beat
+35332,N,Normal beat
+35558,N,Normal beat
+35782,N,Normal beat
+36001,N,Normal beat
+36170,A,Atrial premature beat
+36407,N,Normal beat
+36641,N,Normal beat
+36877,N,Normal beat
+37116,N,Normal beat
+37341,N,Normal beat
+37572,N,Normal beat
+37794,N,Normal beat
+38016,N,Normal beat
+38243,N,Normal beat
+38461,N,Normal beat
+38675,N,Normal beat
+38897,N,Normal beat
+39129,N,Normal beat
+39364,N,Normal beat
+39586,N,Normal beat
+39811,N,Normal beat
+40039,N,Normal beat
+40258,N,Normal beat
+40477,N,Normal beat
+40684,N,Normal beat
+40907,N,Normal beat
+41142,N,Normal beat
+41377,N,Normal beat
+41610,N,Normal beat
+41833,N,Normal beat
+42057,N,Normal beat
+42276,N,Normal beat
+42451,A,Atrial premature beat
+42709,N,Normal beat
+42931,N,Normal beat
+43171,N,Normal beat
+43415,N,Normal beat
+43642,N,Normal beat
+43887,N,Normal beat
+44122,N,Normal beat
+44357,N,Normal beat
+44581,N,Normal beat
+44803,N,Normal beat
+45014,N,Normal beat
+45238,N,Normal beat
+45467,N,Normal beat
+45702,N,Normal beat
+45936,N,Normal beat
+46165,N,Normal beat
+46387,N,Normal beat
+46607,N,Normal beat
+46827,N,Normal beat
+47050,N,Normal beat
+47269,N,Normal beat
+47498,N,Normal beat
+47738,N,Normal beat
+47968,N,Normal beat
+48198,N,Normal beat
+48427,N,Normal beat
+48656,N,Normal beat
+48883,N,Normal beat
+49110,N,Normal beat
+49324,N,Normal beat
+49552,N,Normal beat
+49781,N,Normal beat
+50017,N,Normal beat
+50258,N,Normal beat
+50486,N,Normal beat
+50715,N,Normal beat
+50936,N,Normal beat
+51161,N,Normal beat
+51385,N,Normal beat
+51597,N,Normal beat
+51835,N,Normal beat
+52080,N,Normal beat
+52318,N,Normal beat
+52553,N,Normal beat
+52779,N,Normal beat
+53006,N,Normal beat
+53231,N,Normal beat
+53410,A,Atrial premature beat
+53650,N,Normal beat
+53870,N,Normal beat
+54094,N,Normal beat
+54184,|,Isolated QRS-like artifact
+54320,N,Normal beat
+54547,N,Normal beat
+54772,N,Normal beat
+55000,N,Normal beat
+55228,N,Normal beat
+55447,N,Normal beat
+55667,N,Normal beat
+55876,N,Normal beat
+56106,N,Normal beat
+56218,|,Isolated QRS-like artifact
+56346,N,Normal beat
+56577,N,Normal beat
+56745,A,Atrial premature beat
+56985,N,Normal beat
+57214,N,Normal beat
+57435,N,Normal beat
+57651,N,Normal beat
+57863,N,Normal beat
+58087,N,Normal beat
+58317,N,Normal beat
+58550,N,Normal beat
+58782,N,Normal beat
+59011,N,Normal beat
+59237,N,Normal beat
+59467,N,Normal beat
+59689,N,Normal beat
+59909,N,Normal beat
+60120,N,Normal beat
+60344,N,Normal beat
+60580,N,Normal beat
+60817,N,Normal beat
+61055,N,Normal beat
+61290,N,Normal beat
+61515,N,Normal beat
+61739,N,Normal beat
+61962,N,Normal beat
+62192,N,Normal beat
+62422,N,Normal beat
+62662,N,Normal beat
+62907,N,Normal beat
+63148,N,Normal beat
+63384,N,Normal beat
+63622,N,Normal beat
+63860,N,Normal beat
+64096,N,Normal beat
+64330,N,Normal beat
+64548,N,Normal beat
+64782,N,Normal beat
+65018,N,Normal beat
+65256,N,Normal beat
+65499,N,Normal beat
+65728,N,Normal beat
+65955,N,Normal beat
+66174,N,Normal beat
+66396,N,Normal beat
+66613,N,Normal beat
+66840,N,Normal beat
+67080,N,Normal beat
+67324,N,Normal beat
+67554,N,Normal beat
+67781,N,Normal beat
+68010,N,Normal beat
+68240,N,Normal beat
+68469,N,Normal beat
+68690,N,Normal beat
+68908,N,Normal beat
+69135,N,Normal beat
+69367,N,Normal beat
+69556,A,Atrial premature beat
+69816,N,Normal beat
+70045,N,Normal beat
+70277,N,Normal beat
+70496,N,Normal beat
+70712,N,Normal beat
+70920,N,Normal beat
+71147,N,Normal beat
+71392,N,Normal beat
+71635,N,Normal beat
+71876,N,Normal beat
+72104,N,Normal beat
+72338,N,Normal beat
+72569,N,Normal beat
+72792,N,Normal beat
+73021,N,Normal beat
+73246,N,Normal beat
+73478,N,Normal beat
+73717,N,Normal beat
+73949,N,Normal beat
+74181,N,Normal beat
+74413,N,Normal beat
+74641,N,Normal beat
+74870,N,Normal beat
+75088,N,Normal beat
+75298,N,Normal beat
+75531,N,Normal beat
+75767,N,Normal beat
+76007,N,Normal beat
+76250,N,Normal beat
+76481,N,Normal beat
+76716,N,Normal beat
+76938,N,Normal beat
+77163,N,Normal beat
+77392,N,Normal beat
+77612,N,Normal beat
+77847,N,Normal beat
+78078,N,Normal beat
+78313,N,Normal beat
+78546,N,Normal beat
+78769,N,Normal beat
+78993,N,Normal beat
+79215,N,Normal beat
+79426,N,Normal beat
+79633,N,Normal beat
+79848,N,Normal beat
+80075,N,Normal beat
+80305,N,Normal beat
+80531,N,Normal beat
+80747,N,Normal beat
+80963,N,Normal beat
+81175,N,Normal beat
+81387,N,Normal beat
+81602,N,Normal beat
+81808,N,Normal beat
+82030,N,Normal beat
+82265,N,Normal beat
+82492,N,Normal beat
+82718,N,Normal beat
+82932,N,Normal beat
+83150,N,Normal beat
+83369,N,Normal beat
+83582,N,Normal beat
+83793,N,Normal beat
+83992,N,Normal beat
+84213,N,Normal beat
+84441,N,Normal beat
+84663,N,Normal beat
+84891,N,Normal beat
+85112,N,Normal beat
+85335,N,Normal beat
+85547,N,Normal beat
+85748,N,Normal beat
+85970,N,Normal beat
+86182,N,Normal beat
+86413,N,Normal beat
+86643,N,Normal beat
+86875,N,Normal beat
+87092,N,Normal beat
+87309,N,Normal beat
+87530,N,Normal beat
+87744,N,Normal beat
+87962,N,Normal beat
+88180,N,Normal beat
+88393,N,Normal beat
+88618,N,Normal beat
+88843,N,Normal beat
+89069,N,Normal beat
+89298,N,Normal beat
+89436,~,Signal quality change
+89521,N,Normal beat
+89736,N,Normal beat
+89950,N,Normal beat
+90162,N,Normal beat
+90365,N,Normal beat
+90577,N,Normal beat
+90793,N,Normal beat
+91018,N,Normal beat
+91239,N,Normal beat
+91451,N,Normal beat
+91660,N,Normal beat
+91867,N,Normal beat
+92073,N,Normal beat
+92278,N,Normal beat
+92487,N,Normal beat
+92683,N,Normal beat
+92894,N,Normal beat
+93045,A,Atrial premature beat
+93285,N,Normal beat
+93502,N,Normal beat
+93705,N,Normal beat
+93785,~,Signal quality change
+93914,N,Normal beat
+94118,N,Normal beat
+94325,N,Normal beat
+94525,N,Normal beat
+94717,N,Normal beat
+94916,N,Normal beat
+95088,A,Atrial premature beat
+95331,N,Normal beat
+95549,N,Normal beat
+95753,N,Normal beat
+95957,N,Normal beat
+96121,A,Atrial premature beat
+96344,N,Normal beat
+96540,N,Normal beat
+96733,N,Normal beat
+96925,N,Normal beat
+97127,N,Normal beat
+97339,N,Normal beat
+97544,N,Normal beat
+97752,N,Normal beat
+97949,N,Normal beat
+98147,N,Normal beat
+98349,N,Normal beat
+98552,N,Normal beat
+98746,N,Normal beat
+98940,N,Normal beat
+99121,N,Normal beat
+99324,N,Normal beat
+99531,N,Normal beat
+99737,N,Normal beat
+99941,N,Normal beat
+100142,N,Normal beat
+100347,N,Normal beat
+100542,N,Normal beat
+100738,N,Normal beat
+100927,N,Normal beat
+101117,N,Normal beat
+101306,N,Normal beat
+101510,N,Normal beat
+101711,N,Normal beat
+101915,N,Normal beat
+102112,N,Normal beat
+102308,N,Normal beat
+102500,N,Normal beat
+102697,N,Normal beat
+102885,N,Normal beat
+103078,N,Normal beat
+103269,N,Normal beat
+103455,N,Normal beat
+103651,N,Normal beat
+103844,N,Normal beat
+104050,N,Normal beat
+104255,N,Normal beat
+104457,N,Normal beat
+104658,N,Normal beat
+104853,N,Normal beat
+105045,N,Normal beat
+105233,N,Normal beat
+105425,N,Normal beat
+105611,N,Normal beat
+105807,N,Normal beat
+106011,N,Normal beat
+106216,N,Normal beat
+106425,N,Normal beat
+106618,N,Normal beat
+106815,N,Normal beat
+107007,N,Normal beat
+107198,N,Normal beat
+107341,A,Atrial premature beat
+107546,N,Normal beat
+107737,N,Normal beat
+107942,N,Normal beat
+108142,N,Normal beat
+108342,N,Normal beat
+108537,N,Normal beat
+108741,N,Normal beat
+108933,N,Normal beat
+109131,N,Normal beat
+109322,N,Normal beat
+109514,N,Normal beat
+109702,N,Normal beat
+109881,N,Normal beat
+110021,A,Atrial premature beat
+110231,N,Normal beat
+110444,N,Normal beat
+110657,N,Normal beat
+110853,N,Normal beat
+111045,N,Normal beat
+111236,N,Normal beat
+111428,N,Normal beat
+111619,N,Normal beat
+111807,N,Normal beat
+111990,N,Normal beat
+112185,N,Normal beat
+112390,N,Normal beat
+112541,A,Atrial premature beat
+112749,N,Normal beat
+112954,N,Normal beat
+113149,N,Normal beat
+113347,N,Normal beat
+113545,N,Normal beat
+113736,N,Normal beat
+113929,N,Normal beat
+114112,N,Normal beat
+114298,N,Normal beat
+114495,N,Normal beat
+114700,N,Normal beat
+114901,N,Normal beat
+115107,N,Normal beat
+115305,N,Normal beat
+115507,N,Normal beat
+115704,N,Normal beat
+115900,N,Normal beat
+116090,N,Normal beat
+116281,N,Normal beat
+116484,N,Normal beat
+116692,N,Normal beat
+116902,N,Normal beat
+117108,N,Normal beat
+117317,N,Normal beat
+117517,N,Normal beat
+117722,N,Normal beat
+117921,N,Normal beat
+118090,A,Atrial premature beat
+118322,N,Normal beat
+118516,N,Normal beat
+118719,N,Normal beat
+118927,N,Normal beat
+119138,N,Normal beat
+119351,N,Normal beat
+119565,N,Normal beat
+119770,N,Normal beat
+119976,N,Normal beat
+120168,N,Normal beat
+120364,N,Normal beat
+120565,N,Normal beat
+120759,N,Normal beat
+120969,N,Normal beat
+121177,N,Normal beat
+121392,N,Normal beat
+121597,N,Normal beat
+121796,N,Normal beat
+121992,N,Normal beat
+122188,N,Normal beat
+122251,~,Signal quality change
+122332,A,Atrial premature beat
+122569,N,Normal beat
+122761,N,Normal beat
+122954,N,Normal beat
+123150,N,Normal beat
+123361,N,Normal beat
+123568,N,Normal beat
+123771,N,Normal beat
+123972,N,Normal beat
+124130,A,Atrial premature beat
+124365,N,Normal beat
+124561,N,Normal beat
+124756,N,Normal beat
+124942,N,Normal beat
+125086,A,Atrial premature beat
+125303,N,Normal beat
+125518,N,Normal beat
+125723,N,Normal beat
+125928,N,Normal beat
+126077,A,Atrial premature beat
+126284,N,Normal beat
+126485,N,Normal beat
+126683,N,Normal beat
+126873,N,Normal beat
+127067,N,Normal beat
+127260,N,Normal beat
+127467,N,Normal beat
+127671,N,Normal beat
+127845,N,Normal beat
+128068,N,Normal beat
+128268,N,Normal beat
+128471,N,Normal beat
+128670,N,Normal beat
+128805,A,Atrial premature beat
+129033,N,Normal beat
+129224,N,Normal beat
+129409,N,Normal beat
+129612,N,Normal beat
+129814,N,Normal beat
+130026,N,Normal beat
+130235,N,Normal beat
+130437,N,Normal beat
+130594,A,Atrial premature beat
+130820,N,Normal beat
+131014,N,Normal beat
+131206,N,Normal beat
+131397,N,Normal beat
+131595,N,Normal beat
+131797,N,Normal beat
+132006,N,Normal beat
+132203,N,Normal beat
+132406,N,Normal beat
+132600,N,Normal beat
+132797,N,Normal beat
+132957,A,Atrial premature beat
+133181,N,Normal beat
+133379,N,Normal beat
+133567,N,Normal beat
+133762,N,Normal beat
+133963,N,Normal beat
+134170,N,Normal beat
+134380,N,Normal beat
+134579,N,Normal beat
+134787,N,Normal beat
+134991,N,Normal beat
+135183,N,Normal beat
+135378,N,Normal beat
+135537,A,Atrial premature beat
+135752,N,Normal beat
+135952,N,Normal beat
+136160,N,Normal beat
+136370,N,Normal beat
+136576,N,Normal beat
+136780,N,Normal beat
+136977,N,Normal beat
+137171,N,Normal beat
+137366,N,Normal beat
+137566,N,Normal beat
+137758,N,Normal beat
+137906,A,Atrial premature beat
+138129,N,Normal beat
+138331,N,Normal beat
+138535,N,Normal beat
+138740,N,Normal beat
+138888,A,Atrial premature beat
+139102,N,Normal beat
+139306,N,Normal beat
+139508,N,Normal beat
+139699,N,Normal beat
+139890,N,Normal beat
+140069,N,Normal beat
+140263,N,Normal beat
+140459,N,Normal beat
+140673,N,Normal beat
+140872,N,Normal beat
+141075,N,Normal beat
+141262,N,Normal beat
+141428,A,Atrial premature beat
+141643,N,Normal beat
+141837,N,Normal beat
+142030,N,Normal beat
+142126,~,Signal quality change
+142217,N,Normal beat
+142373,A,Atrial premature beat
+142608,N,Normal beat
+142820,N,Normal beat
+143024,N,Normal beat
+143226,N,Normal beat
+143428,N,Normal beat
+143638,N,Normal beat
+143835,N,Normal beat
+144019,N,Normal beat
+144225,N,Normal beat
+144414,N,Normal beat
+144615,N,Normal beat
+144824,N,Normal beat
+145031,N,Normal beat
+145244,N,Normal beat
+145456,N,Normal beat
+145658,N,Normal beat
+145860,N,Normal beat
+146059,N,Normal beat
+146260,N,Normal beat
+146464,N,Normal beat
+146666,N,Normal beat
+146879,N,Normal beat
+147104,N,Normal beat
+147319,N,Normal beat
+147537,N,Normal beat
+147753,N,Normal beat
+147966,N,Normal beat
+148123,A,Atrial premature beat
+148380,N,Normal beat
+148600,N,Normal beat
+148804,N,Normal beat
+149021,N,Normal beat
+149238,N,Normal beat
+149464,N,Normal beat
+149692,N,Normal beat
+149905,N,Normal beat
+150122,N,Normal beat
+150285,A,Atrial premature beat
+150528,N,Normal beat
+150741,N,Normal beat
+150940,N,Normal beat
+151162,N,Normal beat
+151387,N,Normal beat
+151617,N,Normal beat
+151724,+,Rhythm change
+151769,A,Atrial premature beat
+151902,A,Atrial premature beat
+152034,A,Atrial premature beat
+152165,A,Atrial premature beat
+152301,A,Atrial premature beat
+152435,A,Atrial premature beat
+152569,A,Atrial premature beat
+152703,A,Atrial premature beat
+152835,A,Atrial premature beat
+152967,A,Atrial premature beat
+153097,A,Atrial premature beat
+153229,A,Atrial premature beat
+153369,A,Atrial premature beat
+153510,A,Atrial premature beat
+153652,A,Atrial premature beat
+153797,A,Atrial premature beat
+153934,A,Atrial premature beat
+154072,A,Atrial premature beat
+154205,A,Atrial premature beat
+154347,+,Rhythm change
+154425,N,Normal beat
+154644,N,Normal beat
+154852,N,Normal beat
+155054,N,Normal beat
+155250,N,Normal beat
+155466,N,Normal beat
+155694,N,Normal beat
+155853,A,Atrial premature beat
+155984,A,Atrial premature beat
+156201,N,Normal beat
+156421,N,Normal beat
+156638,N,Normal beat
+156853,N,Normal beat
+157073,N,Normal beat
+157293,N,Normal beat
+157513,N,Normal beat
+157741,N,Normal beat
+157981,N,Normal beat
+158222,N,Normal beat
+158458,N,Normal beat
+158695,N,Normal beat
+158923,N,Normal beat
+159125,N,Normal beat
+159368,N,Normal beat
+159581,N,Normal beat
+159815,N,Normal beat
+160053,N,Normal beat
+160291,N,Normal beat
+160532,N,Normal beat
+160755,N,Normal beat
+160980,N,Normal beat
+161204,N,Normal beat
+161432,N,Normal beat
+161657,N,Normal beat
+161882,N,Normal beat
+162118,N,Normal beat
+162345,N,Normal beat
+162595,N,Normal beat
+162828,N,Normal beat
+163063,N,Normal beat
+163299,N,Normal beat
+163534,N,Normal beat
+163759,N,Normal beat
+163980,N,Normal beat
+164214,N,Normal beat
+164462,N,Normal beat
+164712,N,Normal beat
+164950,N,Normal beat
+165184,N,Normal beat
+165415,N,Normal beat
+165643,N,Normal beat
+165870,N,Normal beat
+166092,N,Normal beat
+166330,N,Normal beat
+166576,N,Normal beat
+166816,N,Normal beat
+167048,N,Normal beat
+167278,N,Normal beat
+167516,N,Normal beat
+167706,A,Atrial premature beat
+167976,N,Normal beat
+168196,N,Normal beat
+168436,N,Normal beat
+168677,N,Normal beat
+168915,N,Normal beat
+169157,N,Normal beat
+169388,N,Normal beat
+169616,N,Normal beat
+169850,N,Normal beat
+170076,N,Normal beat
+170295,N,Normal beat
+170531,N,Normal beat
+170781,N,Normal beat
+171027,N,Normal beat
+171259,N,Normal beat
+171488,N,Normal beat
+171723,N,Normal beat
+171948,N,Normal beat
+172175,N,Normal beat
+172404,N,Normal beat
+172624,N,Normal beat
+172861,N,Normal beat
+173098,N,Normal beat
+173340,N,Normal beat
+173578,N,Normal beat
+173812,N,Normal beat
+173984,A,Atrial premature beat
+174247,N,Normal beat
+174482,N,Normal beat
+174699,N,Normal beat
+174929,N,Normal beat
+175169,N,Normal beat
+175407,N,Normal beat
+175643,N,Normal beat
+175873,N,Normal beat
+176099,N,Normal beat
+176282,A,Atrial premature beat
+176545,N,Normal beat
+176774,N,Normal beat
+176999,N,Normal beat
+177225,N,Normal beat
+177465,N,Normal beat
+177701,N,Normal beat
+177928,N,Normal beat
+178159,N,Normal beat
+178387,N,Normal beat
+178619,N,Normal beat
+178845,N,Normal beat
+179062,N,Normal beat
+179299,N,Normal beat
+179546,N,Normal beat
+179792,N,Normal beat
+180029,N,Normal beat
+180257,N,Normal beat
+180483,N,Normal beat
+180704,N,Normal beat
+180896,N,Normal beat
+181136,N,Normal beat
+181364,N,Normal beat
+181598,N,Normal beat
+181826,N,Normal beat
+182054,N,Normal beat
+182279,N,Normal beat
+182515,N,Normal beat
+182684,A,Atrial premature beat
+182825,A,Atrial premature beat
+183030,N,Normal beat
+183300,N,Normal beat
+183540,N,Normal beat
+183781,N,Normal beat
+184015,N,Normal beat
+184252,N,Normal beat
+184479,N,Normal beat
+184704,N,Normal beat
+184927,N,Normal beat
+185144,N,Normal beat
+185361,N,Normal beat
+185555,A,Atrial premature beat
+185811,N,Normal beat
+186050,N,Normal beat
+186283,N,Normal beat
+186513,N,Normal beat
+186717,A,Atrial premature beat
+186970,N,Normal beat
+187201,N,Normal beat
+187430,N,Normal beat
+187654,N,Normal beat
+187833,A,Atrial premature beat
+188116,N,Normal beat
+188353,N,Normal beat
+188595,N,Normal beat
+188829,N,Normal beat
+189057,N,Normal beat
+189280,N,Normal beat
+189504,N,Normal beat
+189726,N,Normal beat
+189946,N,Normal beat
+190182,N,Normal beat
+190423,N,Normal beat
+190664,N,Normal beat
+190890,N,Normal beat
+191117,N,Normal beat
+191343,N,Normal beat
+191570,N,Normal beat
+191803,N,Normal beat
+192027,N,Normal beat
+192264,N,Normal beat
+192503,N,Normal beat
+192743,N,Normal beat
+192983,N,Normal beat
+193218,N,Normal beat
+193452,N,Normal beat
+193685,N,Normal beat
+193913,N,Normal beat
+194128,N,Normal beat
+194358,N,Normal beat
+194605,N,Normal beat
+194849,N,Normal beat
+195083,N,Normal beat
+195315,N,Normal beat
+195546,N,Normal beat
+195753,N,Normal beat
+195991,N,Normal beat
+196216,N,Normal beat
+196440,N,Normal beat
+196676,N,Normal beat
+196914,N,Normal beat
+197150,N,Normal beat
+197377,N,Normal beat
+197609,N,Normal beat
+197842,N,Normal beat
+198067,N,Normal beat
+198289,N,Normal beat
+198503,N,Normal beat
+198736,N,Normal beat
+198952,A,Atrial premature beat
+199218,N,Normal beat
+199460,N,Normal beat
+199699,N,Normal beat
+199932,N,Normal beat
+200042,+,Rhythm change
+200081,A,Atrial premature beat
+200210,A,Atrial premature beat
+200350,A,Atrial premature beat
+200506,A,Atrial premature beat
+200704,A,Atrial premature beat
+200873,A,Atrial premature beat
+201014,A,Atrial premature beat
+201159,A,Atrial premature beat
+201299,A,Atrial premature beat
+201440,A,Atrial premature beat
+201582,A,Atrial premature beat
+201715,A,Atrial premature beat
+201855,A,Atrial premature beat
+201987,A,Atrial premature beat
+202125,A,Atrial premature beat
+202262,A,Atrial premature beat
+202397,A,Atrial premature beat
+202536,A,Atrial premature beat
+202672,A,Atrial premature beat
+202799,A,Atrial premature beat
+202936,A,Atrial premature beat
+203072,A,Atrial premature beat
+203209,A,Atrial premature beat
+203350,A,Atrial premature beat
+203492,A,Atrial premature beat
+203633,A,Atrial premature beat
+203778,A,Atrial premature beat
+203914,A,Atrial premature beat
+204053,A,Atrial premature beat
+204190,A,Atrial premature beat
+204320,A,Atrial premature beat
+204452,A,Atrial premature beat
+204583,A,Atrial premature beat
+204711,A,Atrial premature beat
+204841,A,Atrial premature beat
+204962,A,Atrial premature beat
+205097,A,Atrial premature beat
+205235,A,Atrial premature beat
+205375,A,Atrial premature beat
+205519,A,Atrial premature beat
+205659,A,Atrial premature beat
+205797,A,Atrial premature beat
+205936,A,Atrial premature beat
+206068,A,Atrial premature beat
+206200,A,Atrial premature beat
+206334,A,Atrial premature beat
+206468,A,Atrial premature beat
+206602,A,Atrial premature beat
+206735,A,Atrial premature beat
+206865,A,Atrial premature beat
+206995,A,Atrial premature beat
+207123,A,Atrial premature beat
+207256,A,Atrial premature beat
+207395,A,Atrial premature beat
+207536,A,Atrial premature beat
+207674,A,Atrial premature beat
+207816,A,Atrial premature beat
+207949,A,Atrial premature beat
+208086,A,Atrial premature beat
+208222,A,Atrial premature beat
+208358,A,Atrial premature beat
+208497,A,Atrial premature beat
+208630,A,Atrial premature beat
+208763,A,Atrial premature beat
+208896,A,Atrial premature beat
+209031,A,Atrial premature beat
+209159,A,Atrial premature beat
+209285,A,Atrial premature beat
+209420,A,Atrial premature beat
+209561,A,Atrial premature beat
+209705,A,Atrial premature beat
+209844,A,Atrial premature beat
+209990,A,Atrial premature beat
+210180,A,Atrial premature beat
+210347,+,Rhythm change
+210399,N,Normal beat
+210612,N,Normal beat
+210831,N,Normal beat
+211041,N,Normal beat
+211261,N,Normal beat
+211484,N,Normal beat
+211722,N,Normal beat
+211968,N,Normal beat
+212214,N,Normal beat
+212462,N,Normal beat
+212712,N,Normal beat
+212949,N,Normal beat
+213186,N,Normal beat
+213413,N,Normal beat
+213629,N,Normal beat
+213802,A,Atrial premature beat
+214084,N,Normal beat
+214328,N,Normal beat
+214567,N,Normal beat
+214790,N,Normal beat
+215016,N,Normal beat
+215235,N,Normal beat
+215455,N,Normal beat
+215675,N,Normal beat
+215793,+,Rhythm change
+215830,A,Atrial premature beat
+215964,A,Atrial premature beat
+216106,A,Atrial premature beat
+216244,A,Atrial premature beat
+216379,A,Atrial premature beat
+216519,A,Atrial premature beat
+216658,A,Atrial premature beat
+216796,A,Atrial premature beat
+216934,A,Atrial premature beat
+217072,A,Atrial premature beat
+217212,A,Atrial premature beat
+217349,A,Atrial premature beat
+217486,A,Atrial premature beat
+217626,A,Atrial premature beat
+217760,A,Atrial premature beat
+217890,A,Atrial premature beat
+218028,A,Atrial premature beat
+218167,A,Atrial premature beat
+218307,A,Atrial premature beat
+218448,A,Atrial premature beat
+218584,A,Atrial premature beat
+218726,A,Atrial premature beat
+218863,A,Atrial premature beat
+218995,A,Atrial premature beat
+219135,A,Atrial premature beat
+219269,A,Atrial premature beat
+219405,A,Atrial premature beat
+219538,A,Atrial premature beat
+219668,A,Atrial premature beat
+219801,A,Atrial premature beat
+219930,A,Atrial premature beat
+220051,A,Atrial premature beat
+220186,A,Atrial premature beat
+220323,A,Atrial premature beat
+220462,A,Atrial premature beat
+220606,A,Atrial premature beat
+220744,A,Atrial premature beat
+220883,A,Atrial premature beat
+221024,A,Atrial premature beat
+221153,A,Atrial premature beat
+221282,A,Atrial premature beat
+221413,A,Atrial premature beat
+221545,A,Atrial premature beat
+221679,A,Atrial premature beat
+221812,A,Atrial premature beat
+221941,A,Atrial premature beat
+222071,A,Atrial premature beat
+222193,A,Atrial premature beat
+222321,A,Atrial premature beat
+222463,A,Atrial premature beat
+222597,A,Atrial premature beat
+222735,A,Atrial premature beat
+222878,A,Atrial premature beat
+223013,A,Atrial premature beat
+223152,A,Atrial premature beat
+223290,A,Atrial premature beat
+223428,A,Atrial premature beat
+223570,A,Atrial premature beat
+223746,N,Normal beat
+223855,+,Rhythm change
+223942,N,Normal beat
+224137,N,Normal beat
+224324,N,Normal beat
+224524,N,Normal beat
+224743,N,Normal beat
+224971,N,Normal beat
+225215,N,Normal beat
+225454,N,Normal beat
+225700,N,Normal beat
+225954,N,Normal beat
+226201,N,Normal beat
+226446,N,Normal beat
+226693,N,Normal beat
+226943,N,Normal beat
+227194,N,Normal beat
+227441,N,Normal beat
+227685,N,Normal beat
+227923,N,Normal beat
+228150,N,Normal beat
+228370,N,Normal beat
+228596,N,Normal beat
+228814,N,Normal beat
+229045,N,Normal beat
+229283,N,Normal beat
+229457,A,Atrial premature beat
+229737,N,Normal beat
+229964,N,Normal beat
+230187,N,Normal beat
+230405,N,Normal beat
+230624,N,Normal beat
+230839,N,Normal beat
+231065,N,Normal beat
+231299,N,Normal beat
+231525,N,Normal beat
+231751,N,Normal beat
+231979,N,Normal beat
+232198,N,Normal beat
+232423,N,Normal beat
+232606,A,Atrial premature beat
+232856,N,Normal beat
+233070,N,Normal beat
+233292,N,Normal beat
+233525,N,Normal beat
+233740,N,Normal beat
+233991,N,Normal beat
+234212,N,Normal beat
+234431,N,Normal beat
+234648,N,Normal beat
+234817,A,Atrial premature beat
+235061,N,Normal beat
+235282,N,Normal beat
+235520,N,Normal beat
+235761,N,Normal beat
+235994,N,Normal beat
+236222,N,Normal beat
+236444,N,Normal beat
+236670,N,Normal beat
+236894,N,Normal beat
+237112,N,Normal beat
+237325,N,Normal beat
+237548,N,Normal beat
+237782,N,Normal beat
+237997,N,Normal beat
+238247,N,Normal beat
+238474,N,Normal beat
+238707,N,Normal beat
+238925,N,Normal beat
+239108,A,Atrial premature beat
+239355,N,Normal beat
+239573,N,Normal beat
+239808,N,Normal beat
+240039,N,Normal beat
+240232,A,Atrial premature beat
+240490,N,Normal beat
+240712,N,Normal beat
+240941,N,Normal beat
+241162,N,Normal beat
+241385,N,Normal beat
+241599,N,Normal beat
+241812,N,Normal beat
+242038,N,Normal beat
+242259,N,Normal beat
+242482,N,Normal beat
+242705,N,Normal beat
+242927,N,Normal beat
+243141,N,Normal beat
+243354,N,Normal beat
+243567,N,Normal beat
+243773,N,Normal beat
+243992,N,Normal beat
+244217,N,Normal beat
+244448,N,Normal beat
+244684,N,Normal beat
+244907,N,Normal beat
+245128,N,Normal beat
+245344,N,Normal beat
+245566,N,Normal beat
+245791,N,Normal beat
+246002,N,Normal beat
+246229,N,Normal beat
+246441,N,Normal beat
+246687,N,Normal beat
+246918,N,Normal beat
+247137,N,Normal beat
+247363,N,Normal beat
+247586,N,Normal beat
+247802,N,Normal beat
+248020,N,Normal beat
+248229,N,Normal beat
+248457,N,Normal beat
+248694,N,Normal beat
+248930,N,Normal beat
+249160,N,Normal beat
+249377,N,Normal beat
+249597,N,Normal beat
+249820,N,Normal beat
+250035,N,Normal beat
+250247,N,Normal beat
+250469,N,Normal beat
+250703,N,Normal beat
+250933,N,Normal beat
+251158,N,Normal beat
+251380,N,Normal beat
+251608,N,Normal beat
+251836,N,Normal beat
+252052,N,Normal beat
+252271,N,Normal beat
+252482,N,Normal beat
+252697,N,Normal beat
+252940,N,Normal beat
+253171,N,Normal beat
+253406,N,Normal beat
+253633,N,Normal beat
+253856,N,Normal beat
+254077,N,Normal beat
+254290,N,Normal beat
+254509,N,Normal beat
+254687,A,Atrial premature beat
+254949,N,Normal beat
+255188,N,Normal beat
+255413,N,Normal beat
+255638,N,Normal beat
+255828,A,Atrial premature beat
+256073,N,Normal beat
+256296,N,Normal beat
+256517,N,Normal beat
+256731,N,Normal beat
+256896,A,Atrial premature beat
+257152,N,Normal beat
+257390,N,Normal beat
+257629,N,Normal beat
+257861,N,Normal beat
+258083,N,Normal beat
+258308,N,Normal beat
+258525,N,Normal beat
+258742,N,Normal beat
+258955,N,Normal beat
+259181,N,Normal beat
+259417,N,Normal beat
+259652,N,Normal beat
+259881,N,Normal beat
+260106,N,Normal beat
+260330,N,Normal beat
+260554,N,Normal beat
+260784,N,Normal beat
+261006,N,Normal beat
+261225,N,Normal beat
+261455,N,Normal beat
+261694,N,Normal beat
+261933,N,Normal beat
+262160,N,Normal beat
+262389,N,Normal beat
+262620,N,Normal beat
+262845,N,Normal beat
+263046,N,Normal beat
+263279,N,Normal beat
+263514,N,Normal beat
+263755,N,Normal beat
+263994,N,Normal beat
+264111,+,Rhythm change
+264161,A,Atrial premature beat
+264307,A,Atrial premature beat
+264502,A,Atrial premature beat
+264672,A,Atrial premature beat
+264806,A,Atrial premature beat
+264945,A,Atrial premature beat
+265076,A,Atrial premature beat
+265211,A,Atrial premature beat
+265344,A,Atrial premature beat
+265473,A,Atrial premature beat
+265615,A,Atrial premature beat
+265758,A,Atrial premature beat
+265900,A,Atrial premature beat
+266045,A,Atrial premature beat
+266188,A,Atrial premature beat
+266328,A,Atrial premature beat
+266467,A,Atrial premature beat
+266606,A,Atrial premature beat
+266747,A,Atrial premature beat
+266891,A,Atrial premature beat
+267025,A,Atrial premature beat
+267158,A,Atrial premature beat
+267292,A,Atrial premature beat
+267423,A,Atrial premature beat
+267547,A,Atrial premature beat
+267680,A,Atrial premature beat
+267817,A,Atrial premature beat
+267956,A,Atrial premature beat
+268092,A,Atrial premature beat
+268229,A,Atrial premature beat
+268371,A,Atrial premature beat
+268508,A,Atrial premature beat
+268644,A,Atrial premature beat
+268780,A,Atrial premature beat
+268911,A,Atrial premature beat
+269043,A,Atrial premature beat
+269174,A,Atrial premature beat
+269302,A,Atrial premature beat
+269432,A,Atrial premature beat
+269558,A,Atrial premature beat
+269683,+,Rhythm change
+269758,N,Normal beat
+269970,N,Normal beat
+270181,N,Normal beat
+270387,N,Normal beat
+270588,N,Normal beat
+270788,N,Normal beat
+270875,~,Signal quality change
+270989,N,Normal beat
+271185,N,Normal beat
+271385,N,Normal beat
+271583,N,Normal beat
+271791,N,Normal beat
+271916,A,Atrial premature beat
+272187,N,Normal beat
+272412,N,Normal beat
+272650,N,Normal beat
+272889,N,Normal beat
+273112,N,Normal beat
+273338,N,Normal beat
+273552,N,Normal beat
+273769,N,Normal beat
+273985,N,Normal beat
+274191,N,Normal beat
+274421,N,Normal beat
+274650,N,Normal beat
+274876,N,Normal beat
+275093,N,Normal beat
+275306,N,Normal beat
+275515,N,Normal beat
+275709,N,Normal beat
+275936,N,Normal beat
+276143,N,Normal beat
+276346,N,Normal beat
+276553,N,Normal beat
+276767,N,Normal beat
+276986,N,Normal beat
+277199,N,Normal beat
+277408,N,Normal beat
+277617,N,Normal beat
+277829,N,Normal beat
+278030,N,Normal beat
+278231,N,Normal beat
+278424,N,Normal beat
+278638,N,Normal beat
+278863,N,Normal beat
+279079,N,Normal beat
+279232,A,Atrial premature beat
+279480,N,Normal beat
+279693,N,Normal beat
+279900,N,Normal beat
+280111,N,Normal beat
+280272,A,Atrial premature beat
+280502,N,Normal beat
+280726,N,Normal beat
+280961,N,Normal beat
+281035,~,Signal quality change
+281202,N,Normal beat
+281437,N,Normal beat
+281669,N,Normal beat
+281910,N,Normal beat
+282126,V,Premature ventricular contraction
+282364,N,Normal beat
+282588,N,Normal beat
+282807,N,Normal beat
+283042,N,Normal beat
+283274,N,Normal beat
+283507,N,Normal beat
+283741,N,Normal beat
+283969,N,Normal beat
+284196,N,Normal beat
+284415,N,Normal beat
+284640,N,Normal beat
+284859,N,Normal beat
+285014,A,Atrial premature beat
+285226,N,Normal beat
+285337,+,Rhythm change
+285400,A,Atrial premature beat
+285547,A,Atrial premature beat
+285693,A,Atrial premature beat
+285835,A,Atrial premature beat
+285972,A,Atrial premature beat
+286111,A,Atrial premature beat
+286249,A,Atrial premature beat
+286391,A,Atrial premature beat
+286525,A,Atrial premature beat
+286660,A,Atrial premature beat
+286794,A,Atrial premature beat
+286922,A,Atrial premature beat
+287048,A,Atrial premature beat
+287182,A,Atrial premature beat
+287317,A,Atrial premature beat
+287458,A,Atrial premature beat
+287599,A,Atrial premature beat
+287744,A,Atrial premature beat
+287893,A,Atrial premature beat
+288034,A,Atrial premature beat
+288167,A,Atrial premature beat
+288305,A,Atrial premature beat
+288430,A,Atrial premature beat
+288557,A,Atrial premature beat
+288688,A,Atrial premature beat
+288832,+,Rhythm change
+288899,N,Normal beat
+289140,N,Normal beat
+289353,N,Normal beat
+289571,N,Normal beat
+289793,N,Normal beat
+289999,N,Normal beat
+290219,N,Normal beat
+290428,N,Normal beat
+290646,N,Normal beat
+290871,N,Normal beat
+290978,~,Signal quality change
+291042,A,Atrial premature beat
+291303,N,Normal beat
+291397,|,Isolated QRS-like artifact
+291525,N,Normal beat
+291762,N,Normal beat
+291841,|,Isolated QRS-like artifact
+291999,N,Normal beat
+292076,|,Isolated QRS-like artifact
+292228,N,Normal beat
+292458,N,Normal beat
+292689,N,Normal beat
+292912,N,Normal beat
+293122,N,Normal beat
+293353,N,Normal beat
+293571,N,Normal beat
+293807,N,Normal beat
+294044,N,Normal beat
+294222,A,Atrial premature beat
+294495,N,Normal beat
+294727,N,Normal beat
+294955,N,Normal beat
+295170,N,Normal beat
+295394,N,Normal beat
+295609,N,Normal beat
+295837,N,Normal beat
+296066,N,Normal beat
+296214,~,Signal quality change
+296295,N,Normal beat
+296525,N,Normal beat
+296755,N,Normal beat
+296982,N,Normal beat
+297202,N,Normal beat
+297424,N,Normal beat
+297646,N,Normal beat
+297858,N,Normal beat
+298089,N,Normal beat
+298327,N,Normal beat
+298568,N,Normal beat
+298807,N,Normal beat
+299032,N,Normal beat
+299262,N,Normal beat
+299483,N,Normal beat
+299709,N,Normal beat
+299935,N,Normal beat
+300163,N,Normal beat
+300401,N,Normal beat
+300638,N,Normal beat
+300877,N,Normal beat
+301109,N,Normal beat
+301341,N,Normal beat
+301570,N,Normal beat
+301779,N,Normal beat
+302026,N,Normal beat
+302248,N,Normal beat
+302487,N,Normal beat
+302735,N,Normal beat
+302980,N,Normal beat
+303215,N,Normal beat
+303447,N,Normal beat
+303678,N,Normal beat
+303887,A,Atrial premature beat
+304147,N,Normal beat
+304375,N,Normal beat
+304611,N,Normal beat
+304852,N,Normal beat
+305083,N,Normal beat
+305156,~,Signal quality change
+305312,N,Normal beat
+305530,N,Normal beat
+305759,N,Normal beat
+305991,N,Normal beat
+306213,N,Normal beat
+306427,N,Normal beat
+306652,N,Normal beat
+306883,N,Normal beat
+307104,N,Normal beat
+307347,N,Normal beat
+307577,N,Normal beat
+307810,N,Normal beat
+308031,N,Normal beat
+308206,A,Atrial premature beat
+308458,N,Normal beat
+308675,N,Normal beat
+308907,N,Normal beat
+309140,N,Normal beat
+309371,N,Normal beat
+309593,N,Normal beat
+309711,~,Signal quality change
+309810,N,Normal beat
+310033,N,Normal beat
+310250,N,Normal beat
+310402,A,Atrial premature beat
+310606,N,Normal beat
+310721,+,Rhythm change
+310766,A,Atrial premature beat
+310902,A,Atrial premature beat
+311040,A,Atrial premature beat
+311181,A,Atrial premature beat
+311319,A,Atrial premature beat
+311455,A,Atrial premature beat
+311594,A,Atrial premature beat
+311737,A,Atrial premature beat
+311877,A,Atrial premature beat
+312019,A,Atrial premature beat
+312153,A,Atrial premature beat
+312293,A,Atrial premature beat
+312430,A,Atrial premature beat
+312562,A,Atrial premature beat
+312753,N,Normal beat
+312955,+,Rhythm change
+313003,N,Normal beat
+313224,N,Normal beat
+313451,N,Normal beat
+313674,N,Normal beat
+313895,N,Normal beat
+314100,N,Normal beat
+314311,N,Normal beat
+314517,N,Normal beat
+314725,N,Normal beat
+314937,N,Normal beat
+315140,N,Normal beat
+315360,N,Normal beat
+315581,N,Normal beat
+315664,|,Isolated QRS-like artifact
+315808,N,Normal beat
+316030,N,Normal beat
+316248,N,Normal beat
+316468,N,Normal beat
+316685,N,Normal beat
+316904,N,Normal beat
+317099,N,Normal beat
+317317,N,Normal beat
+317533,N,Normal beat
+317762,N,Normal beat
+317985,N,Normal beat
+318223,N,Normal beat
+318446,N,Normal beat
+318664,N,Normal beat
+318884,N,Normal beat
+319087,N,Normal beat
+319318,N,Normal beat
+319535,N,Normal beat
+319765,N,Normal beat
+319993,N,Normal beat
+320171,A,Atrial premature beat
+320433,N,Normal beat
+320654,N,Normal beat
+320879,N,Normal beat
+321063,N,Normal beat
+321311,N,Normal beat
+321524,N,Normal beat
+321735,N,Normal beat
+321959,N,Normal beat
+322192,N,Normal beat
+322419,N,Normal beat
+322644,N,Normal beat
+322871,N,Normal beat
+323088,N,Normal beat
+323305,N,Normal beat
+323519,N,Normal beat
+323731,N,Normal beat
+323942,N,Normal beat
+324183,N,Normal beat
+324416,N,Normal beat
+324638,N,Normal beat
+324857,N,Normal beat
+325053,N,Normal beat
+325286,N,Normal beat
+325505,N,Normal beat
+325716,N,Normal beat
+325920,N,Normal beat
+326134,N,Normal beat
+326357,N,Normal beat
+326575,N,Normal beat
+326795,N,Normal beat
+327015,N,Normal beat
+327226,N,Normal beat
+327438,N,Normal beat
+327641,N,Normal beat
+327851,N,Normal beat
+328055,N,Normal beat
+328268,N,Normal beat
+328495,N,Normal beat
+328727,N,Normal beat
+328957,N,Normal beat
+329180,N,Normal beat
+329401,N,Normal beat
+329619,N,Normal beat
+329848,N,Normal beat
+330075,N,Normal beat
+330288,N,Normal beat
+330520,N,Normal beat
+330706,A,Atrial premature beat
+330980,N,Normal beat
+331219,N,Normal beat
+331454,N,Normal beat
+331682,N,Normal beat
+331908,N,Normal beat
+332129,N,Normal beat
+332344,N,Normal beat
+332566,N,Normal beat
+332746,A,Atrial premature beat
+333031,N,Normal beat
+333267,N,Normal beat
+333493,N,Normal beat
+333713,N,Normal beat
+333935,N,Normal beat
+334157,N,Normal beat
+334372,N,Normal beat
+334585,N,Normal beat
+334800,N,Normal beat
+335045,N,Normal beat
+335274,N,Normal beat
+335502,N,Normal beat
+335725,N,Normal beat
+335955,N,Normal beat
+336180,N,Normal beat
+336405,N,Normal beat
+336623,N,Normal beat
+336840,N,Normal beat
+337080,N,Normal beat
+337317,N,Normal beat
+337555,N,Normal beat
+337785,N,Normal beat
+338013,N,Normal beat
+338238,N,Normal beat
+338452,N,Normal beat
+338626,A,Atrial premature beat
+338870,N,Normal beat
+339103,N,Normal beat
+339339,N,Normal beat
+339570,N,Normal beat
+339801,N,Normal beat
+340025,N,Normal beat
+340249,N,Normal beat
+340471,N,Normal beat
+340694,N,Normal beat
+340916,N,Normal beat
+341125,N,Normal beat
+341351,N,Normal beat
+341584,N,Normal beat
+341823,N,Normal beat
+342063,N,Normal beat
+342289,N,Normal beat
+342503,N,Normal beat
+342741,N,Normal beat
+342964,N,Normal beat
+343183,N,Normal beat
+343414,N,Normal beat
+343600,A,Atrial premature beat
+343896,N,Normal beat
+344141,N,Normal beat
+344379,N,Normal beat
+344609,N,Normal beat
+344844,N,Normal beat
+345084,N,Normal beat
+345309,N,Normal beat
+345540,N,Normal beat
+345779,N,Normal beat
+346019,N,Normal beat
+346256,N,Normal beat
+346459,N,Normal beat
+346704,N,Normal beat
+346934,N,Normal beat
+347156,N,Normal beat
+347384,N,Normal beat
+347532,A,Atrial premature beat
+347806,N,Normal beat
+348064,N,Normal beat
+348306,N,Normal beat
+348491,A,Atrial premature beat
+348743,N,Normal beat
+348977,N,Normal beat
+349210,N,Normal beat
+349432,N,Normal beat
+349649,N,Normal beat
+349886,N,Normal beat
+350126,N,Normal beat
+350373,N,Normal beat
+350612,N,Normal beat
+350849,N,Normal beat
+351093,N,Normal beat
+351291,N,Normal beat
+351551,N,Normal beat
+351775,N,Normal beat
+352006,N,Normal beat
+352247,N,Normal beat
+352489,N,Normal beat
+352732,N,Normal beat
+352974,N,Normal beat
+353208,N,Normal beat
+353441,N,Normal beat
+353667,N,Normal beat
+353892,N,Normal beat
+354118,N,Normal beat
+354352,N,Normal beat
+354590,N,Normal beat
+354820,N,Normal beat
+355049,N,Normal beat
+355276,N,Normal beat
+355493,N,Normal beat
+355685,A,Atrial premature beat
+355935,N,Normal beat
+356150,N,Normal beat
+356382,N,Normal beat
+356619,N,Normal beat
+356865,N,Normal beat
+357113,N,Normal beat
+357344,N,Normal beat
+357582,N,Normal beat
+357811,N,Normal beat
+358043,N,Normal beat
+358270,N,Normal beat
+358498,N,Normal beat
+358756,N,Normal beat
+359011,N,Normal beat
+359256,N,Normal beat
+359463,A,Atrial premature beat
+359724,N,Normal beat
+359966,N,Normal beat
+360209,N,Normal beat
+360432,N,Normal beat
+360609,A,Atrial premature beat
+360879,N,Normal beat
+361130,N,Normal beat
+361369,N,Normal beat
+361600,N,Normal beat
+361834,N,Normal beat
+362064,N,Normal beat
+362285,N,Normal beat
+362505,N,Normal beat
+362722,N,Normal beat
+362958,N,Normal beat
+363200,N,Normal beat
+363434,N,Normal beat
+363669,N,Normal beat
+363894,N,Normal beat
+364119,N,Normal beat
+364347,N,Normal beat
+364575,N,Normal beat
+364794,N,Normal beat
+365031,N,Normal beat
+365270,N,Normal beat
+365513,N,Normal beat
+365754,N,Normal beat
+365995,N,Normal beat
+366236,N,Normal beat
+366467,N,Normal beat
+366688,N,Normal beat
+366883,A,Atrial premature beat
+367131,N,Normal beat
+367366,N,Normal beat
+367609,N,Normal beat
+367847,N,Normal beat
+368046,A,Atrial premature beat
+368300,N,Normal beat
+368527,N,Normal beat
+368752,N,Normal beat
+368980,N,Normal beat
+369187,N,Normal beat
+369430,N,Normal beat
+369667,N,Normal beat
+369904,N,Normal beat
+370135,N,Normal beat
+370361,N,Normal beat
+370592,N,Normal beat
+370814,N,Normal beat
+371037,N,Normal beat
+371247,N,Normal beat
+371467,N,Normal beat
+371694,N,Normal beat
+371932,N,Normal beat
+372171,N,Normal beat
+372397,N,Normal beat
+372621,N,Normal beat
+372842,N,Normal beat
+373061,N,Normal beat
+373282,N,Normal beat
+373496,N,Normal beat
+373728,N,Normal beat
+373805,~,Signal quality change
+373967,N,Normal beat
+374196,N,Normal beat
+374425,N,Normal beat
+374643,N,Normal beat
+374867,N,Normal beat
+375089,N,Normal beat
+375303,N,Normal beat
+375520,N,Normal beat
+375725,N,Normal beat
+375949,N,Normal beat
+376181,N,Normal beat
+376410,N,Normal beat
+376642,N,Normal beat
+376865,N,Normal beat
+377087,N,Normal beat
+377309,N,Normal beat
+377523,N,Normal beat
+377742,N,Normal beat
+377974,N,Normal beat
+378212,N,Normal beat
+378450,N,Normal beat
+378678,N,Normal beat
+378904,N,Normal beat
+379129,N,Normal beat
+379352,N,Normal beat
+379577,N,Normal beat
+379777,A,Atrial premature beat
+380012,N,Normal beat
+380244,N,Normal beat
+380478,N,Normal beat
+380709,N,Normal beat
+380936,N,Normal beat
+381171,N,Normal beat
+381400,N,Normal beat
+381626,N,Normal beat
+381844,N,Normal beat
+382057,N,Normal beat
+382286,N,Normal beat
+382519,N,Normal beat
+382754,N,Normal beat
+382990,N,Normal beat
+383210,N,Normal beat
+383432,N,Normal beat
+383645,N,Normal beat
+383866,N,Normal beat
+384089,N,Normal beat
+384298,N,Normal beat
+384522,N,Normal beat
+384748,N,Normal beat
+384978,N,Normal beat
+385208,N,Normal beat
+385427,N,Normal beat
+385655,N,Normal beat
+385880,N,Normal beat
+386047,A,Atrial premature beat
+386288,N,Normal beat
+386505,N,Normal beat
+386735,N,Normal beat
+386973,N,Normal beat
+387211,N,Normal beat
+387442,N,Normal beat
+387666,N,Normal beat
+387889,N,Normal beat
+388109,N,Normal beat
+388330,N,Normal beat
+388545,N,Normal beat
+388774,N,Normal beat
+389015,N,Normal beat
+389250,N,Normal beat
+389483,N,Normal beat
+389708,N,Normal beat
+389937,N,Normal beat
+390164,N,Normal beat
+390381,N,Normal beat
+390600,N,Normal beat
+390810,N,Normal beat
+391034,N,Normal beat
+391266,N,Normal beat
+391494,N,Normal beat
+391728,N,Normal beat
+391955,N,Normal beat
+392176,N,Normal beat
+392388,N,Normal beat
+392611,N,Normal beat
+392824,N,Normal beat
+393076,N,Normal beat
+393321,N,Normal beat
+393561,N,Normal beat
+393788,N,Normal beat
+394011,N,Normal beat
+394243,N,Normal beat
+394466,N,Normal beat
+394689,N,Normal beat
+394910,N,Normal beat
+395124,N,Normal beat
+395325,N,Normal beat
+395572,N,Normal beat
+395804,N,Normal beat
+396036,N,Normal beat
+396258,N,Normal beat
+396418,A,Atrial premature beat
+396567,~,Signal quality change
+396673,N,Normal beat
+396893,N,Normal beat
+397106,N,Normal beat
+397320,N,Normal beat
+397546,N,Normal beat
+397782,N,Normal beat
+398017,N,Normal beat
+398241,N,Normal beat
+398465,N,Normal beat
+398683,N,Normal beat
+398903,N,Normal beat
+399125,N,Normal beat
+399336,N,Normal beat
+399561,N,Normal beat
+399786,N,Normal beat
+400021,N,Normal beat
+400258,N,Normal beat
+400481,N,Normal beat
+400713,N,Normal beat
+400942,N,Normal beat
+401169,N,Normal beat
+401391,N,Normal beat
+401604,N,Normal beat
+401837,N,Normal beat
+402080,N,Normal beat
+402319,N,Normal beat
+402553,N,Normal beat
+402775,N,Normal beat
+402954,A,Atrial premature beat
+403213,N,Normal beat
+403437,N,Normal beat
+403655,N,Normal beat
+403856,N,Normal beat
+404113,N,Normal beat
+404350,N,Normal beat
+404585,N,Normal beat
+404813,N,Normal beat
+405016,N,Normal beat
+405277,N,Normal beat
+405502,N,Normal beat
+405722,N,Normal beat
+405938,N,Normal beat
+406169,N,Normal beat
+406404,N,Normal beat
+406637,N,Normal beat
+406867,N,Normal beat
+407074,N,Normal beat
+407313,N,Normal beat
+407532,N,Normal beat
+407751,N,Normal beat
+407967,N,Normal beat
+408195,N,Normal beat
+408426,N,Normal beat
+408663,N,Normal beat
+408894,N,Normal beat
+409118,N,Normal beat
+409349,N,Normal beat
+409577,N,Normal beat
+409804,N,Normal beat
+410032,N,Normal beat
+410235,A,Atrial premature beat
+410482,N,Normal beat
+410715,N,Normal beat
+410954,N,Normal beat
+411195,N,Normal beat
+411420,N,Normal beat
+411647,N,Normal beat
+411870,N,Normal beat
+412093,N,Normal beat
+412309,N,Normal beat
+412536,N,Normal beat
+412777,N,Normal beat
+413021,N,Normal beat
+413254,N,Normal beat
+413481,N,Normal beat
+413709,N,Normal beat
+413939,N,Normal beat
+414113,A,Atrial premature beat
+414368,N,Normal beat
+414593,N,Normal beat
+414821,N,Normal beat
+415052,N,Normal beat
+415289,N,Normal beat
+415520,N,Normal beat
+415747,N,Normal beat
+415974,N,Normal beat
+416193,N,Normal beat
+416359,A,Atrial premature beat
+416607,N,Normal beat
+416838,N,Normal beat
+417079,N,Normal beat
+417315,N,Normal beat
+417548,N,Normal beat
+417768,N,Normal beat
+417996,N,Normal beat
+418221,N,Normal beat
+418439,N,Normal beat
+418663,N,Normal beat
+418887,N,Normal beat
+419119,N,Normal beat
+419357,N,Normal beat
+419594,N,Normal beat
+419831,N,Normal beat
+420067,N,Normal beat
+420295,N,Normal beat
+420525,N,Normal beat
+420744,N,Normal beat
+420960,N,Normal beat
+421192,N,Normal beat
+421427,N,Normal beat
+421669,N,Normal beat
+421907,N,Normal beat
+422134,N,Normal beat
+422364,N,Normal beat
+422583,N,Normal beat
+422806,N,Normal beat
+422974,A,Atrial premature beat
+423229,N,Normal beat
+423465,N,Normal beat
+423698,N,Normal beat
+423935,N,Normal beat
+424169,N,Normal beat
+424394,N,Normal beat
+424626,N,Normal beat
+424840,N,Normal beat
+425079,N,Normal beat
+425294,N,Normal beat
+425521,N,Normal beat
+425698,A,Atrial premature beat
+425971,N,Normal beat
+426220,N,Normal beat
+426451,N,Normal beat
+426677,N,Normal beat
+426900,N,Normal beat
+427121,N,Normal beat
+427343,N,Normal beat
+427565,N,Normal beat
+427784,N,Normal beat
+428039,N,Normal beat
+428276,N,Normal beat
+428507,N,Normal beat
+428700,A,Atrial premature beat
+428960,N,Normal beat
+429193,N,Normal beat
+429414,N,Normal beat
+429627,N,Normal beat
+429855,N,Normal beat
+430086,N,Normal beat
+430320,N,Normal beat
+430554,N,Normal beat
+430781,N,Normal beat
+431013,N,Normal beat
+431232,N,Normal beat
+431455,N,Normal beat
+431672,N,Normal beat
+431889,N,Normal beat
+432127,N,Normal beat
+432363,N,Normal beat
+432602,N,Normal beat
+432776,A,Atrial premature beat
+433026,N,Normal beat
+433262,N,Normal beat
+433484,N,Normal beat
+433710,N,Normal beat
+433930,N,Normal beat
+434160,N,Normal beat
+434396,N,Normal beat
+434625,N,Normal beat
+434864,N,Normal beat
+435098,N,Normal beat
+435326,N,Normal beat
+435550,N,Normal beat
+435756,N,Normal beat
+435990,N,Normal beat
+436209,N,Normal beat
+436440,N,Normal beat
+436654,A,Atrial premature beat
+436917,N,Normal beat
+437150,N,Normal beat
+437384,N,Normal beat
+437610,N,Normal beat
+437836,N,Normal beat
+438063,N,Normal beat
+438282,N,Normal beat
+438516,N,Normal beat
+438748,N,Normal beat
+438971,N,Normal beat
+439224,N,Normal beat
+439449,N,Normal beat
+439602,~,Signal quality change
+439682,N,Normal beat
+439911,N,Normal beat
+440141,N,Normal beat
+440361,N,Normal beat
+440583,N,Normal beat
+440820,N,Normal beat
+441006,A,Atrial premature beat
+441286,N,Normal beat
+441519,N,Normal beat
+441745,N,Normal beat
+441967,N,Normal beat
+442187,N,Normal beat
+442403,N,Normal beat
+442621,N,Normal beat
+442851,N,Normal beat
+443029,A,Atrial premature beat
+443302,N,Normal beat
+443540,N,Normal beat
+443764,N,Normal beat
+443992,N,Normal beat
+444222,N,Normal beat
+444443,N,Normal beat
+444661,N,Normal beat
+444873,N,Normal beat
+445102,N,Normal beat
+445341,N,Normal beat
+445571,N,Normal beat
+445795,N,Normal beat
+446031,N,Normal beat
+446249,N,Normal beat
+446467,N,Normal beat
+446680,N,Normal beat
+446893,N,Normal beat
+447125,N,Normal beat
+447353,N,Normal beat
+447589,N,Normal beat
+447816,N,Normal beat
+448040,N,Normal beat
+448269,N,Normal beat
+448489,N,Normal beat
+448680,N,Normal beat
+448930,N,Normal beat
+449144,N,Normal beat
+449374,N,Normal beat
+449558,~,Signal quality change
+449605,N,Normal beat
+449836,N,Normal beat
+450070,N,Normal beat
+450296,N,Normal beat
+450520,N,Normal beat
+450735,N,Normal beat
+450953,N,Normal beat
+451164,N,Normal beat
+451383,N,Normal beat
+451614,N,Normal beat
+451849,N,Normal beat
+452082,N,Normal beat
+452307,N,Normal beat
+452529,N,Normal beat
+452749,N,Normal beat
+452974,N,Normal beat
+453197,N,Normal beat
+453408,N,Normal beat
+453600,N,Normal beat
+453857,N,Normal beat
+454087,N,Normal beat
+454319,N,Normal beat
+454544,N,Normal beat
+454771,N,Normal beat
+454996,N,Normal beat
+455215,N,Normal beat
+455434,N,Normal beat
+455647,N,Normal beat
+455878,N,Normal beat
+456119,N,Normal beat
+456353,N,Normal beat
+456584,N,Normal beat
+456805,N,Normal beat
+457030,N,Normal beat
+457250,N,Normal beat
+457476,N,Normal beat
+457690,N,Normal beat
+457923,N,Normal beat
+458156,N,Normal beat
+458389,N,Normal beat
+458618,N,Normal beat
+458847,N,Normal beat
+459081,N,Normal beat
+459300,N,Normal beat
+459521,N,Normal beat
+459736,N,Normal beat
+459947,N,Normal beat
+460179,N,Normal beat
+460407,N,Normal beat
+460640,N,Normal beat
+460871,N,Normal beat
+461026,A,Atrial premature beat
+461260,N,Normal beat
+461482,N,Normal beat
+461696,N,Normal beat
+461913,N,Normal beat
+462129,N,Normal beat
+462354,N,Normal beat
+462583,N,Normal beat
+462811,N,Normal beat
+463039,N,Normal beat
+463266,N,Normal beat
+463491,N,Normal beat
+463716,N,Normal beat
+463944,N,Normal beat
+464157,N,Normal beat
+464387,N,Normal beat
+464620,N,Normal beat
+464865,N,Normal beat
+465061,A,Atrial premature beat
+465328,N,Normal beat
+465566,N,Normal beat
+465789,N,Normal beat
+466011,N,Normal beat
+466237,N,Normal beat
+466453,N,Normal beat
+466689,N,Normal beat
+466931,N,Normal beat
+467146,N,Normal beat
+467393,N,Normal beat
+467615,N,Normal beat
+467840,N,Normal beat
+468067,N,Normal beat
+468288,N,Normal beat
+468506,N,Normal beat
+468733,N,Normal beat
+468972,N,Normal beat
+469217,N,Normal beat
+469450,N,Normal beat
+469626,A,Atrial premature beat
+469904,N,Normal beat
+470133,N,Normal beat
+470359,N,Normal beat
+470578,N,Normal beat
+470800,N,Normal beat
+471040,N,Normal beat
+471277,N,Normal beat
+471516,N,Normal beat
+471740,N,Normal beat
+471965,N,Normal beat
+472195,N,Normal beat
+472417,N,Normal beat
+472644,N,Normal beat
+472865,N,Normal beat
+473100,N,Normal beat
+473344,N,Normal beat
+473579,N,Normal beat
+473818,N,Normal beat
+474058,N,Normal beat
+474256,A,Atrial premature beat
+474508,N,Normal beat
+474732,N,Normal beat
+474951,N,Normal beat
+475184,N,Normal beat
+475417,N,Normal beat
+475660,N,Normal beat
+475904,N,Normal beat
+476133,N,Normal beat
+476364,N,Normal beat
+476589,N,Normal beat
+476814,N,Normal beat
+477043,N,Normal beat
+477263,N,Normal beat
+477489,N,Normal beat
+477727,N,Normal beat
+477960,N,Normal beat
+478193,N,Normal beat
+478418,N,Normal beat
+478613,N,Normal beat
+478867,N,Normal beat
+479095,N,Normal beat
+479312,N,Normal beat
+479483,A,Atrial premature beat
+479758,N,Normal beat
+480006,N,Normal beat
+480247,N,Normal beat
+480472,N,Normal beat
+480700,N,Normal beat
+480924,N,Normal beat
+481147,N,Normal beat
+481366,N,Normal beat
+481586,N,Normal beat
+481821,N,Normal beat
+482058,N,Normal beat
+482289,N,Normal beat
+482517,N,Normal beat
+482743,N,Normal beat
+482971,N,Normal beat
+483198,N,Normal beat
+483421,N,Normal beat
+483636,N,Normal beat
+483863,N,Normal beat
+484102,N,Normal beat
+484343,N,Normal beat
+484583,N,Normal beat
+484815,N,Normal beat
+485053,N,Normal beat
+485284,N,Normal beat
+485510,N,Normal beat
+485724,N,Normal beat
+485960,N,Normal beat
+486204,N,Normal beat
+486442,N,Normal beat
+486681,N,Normal beat
+486909,N,Normal beat
+487139,N,Normal beat
+487365,N,Normal beat
+487589,N,Normal beat
+487820,N,Normal beat
+488044,N,Normal beat
+488278,N,Normal beat
+488519,N,Normal beat
+488759,N,Normal beat
+488999,N,Normal beat
+489236,N,Normal beat
+489468,N,Normal beat
+489692,N,Normal beat
+489916,N,Normal beat
+490134,N,Normal beat
+490364,N,Normal beat
+490607,N,Normal beat
+490848,N,Normal beat
+491089,N,Normal beat
+491320,N,Normal beat
+491546,N,Normal beat
+491752,N,Normal beat
+492010,N,Normal beat
+492233,N,Normal beat
+492466,N,Normal beat
+492704,N,Normal beat
+492944,N,Normal beat
+493183,N,Normal beat
+493410,N,Normal beat
+493648,N,Normal beat
+493880,N,Normal beat
+494101,N,Normal beat
+494326,N,Normal beat
+494542,N,Normal beat
+494776,N,Normal beat
+495022,N,Normal beat
+495264,N,Normal beat
+495497,N,Normal beat
+495721,N,Normal beat
+495949,N,Normal beat
+496180,N,Normal beat
+496400,N,Normal beat
+496617,N,Normal beat
+496856,N,Normal beat
+497094,N,Normal beat
+497329,N,Normal beat
+497560,N,Normal beat
+497787,N,Normal beat
+498019,N,Normal beat
+498243,N,Normal beat
+498466,N,Normal beat
+498678,N,Normal beat
+498898,N,Normal beat
+499132,N,Normal beat
+499366,N,Normal beat
+499604,N,Normal beat
+499838,N,Normal beat
+500062,N,Normal beat
+500289,N,Normal beat
+500509,N,Normal beat
+500732,N,Normal beat
+500951,N,Normal beat
+501183,N,Normal beat
+501418,N,Normal beat
+501649,N,Normal beat
+501882,N,Normal beat
+502109,N,Normal beat
+502290,A,Atrial premature beat
+502549,N,Normal beat
+502776,N,Normal beat
+502993,N,Normal beat
+503211,N,Normal beat
+503386,A,Atrial premature beat
+503648,N,Normal beat
+503894,N,Normal beat
+504131,N,Normal beat
+504359,N,Normal beat
+504586,N,Normal beat
+504811,N,Normal beat
+505033,N,Normal beat
+505248,N,Normal beat
+505483,N,Normal beat
+505722,N,Normal beat
+505962,N,Normal beat
+506200,N,Normal beat
+506377,A,Atrial premature beat
+506635,N,Normal beat
+506872,N,Normal beat
+507106,N,Normal beat
+507326,N,Normal beat
+507498,A,Atrial premature beat
+507753,N,Normal beat
+507995,N,Normal beat
+508234,N,Normal beat
+508407,A,Atrial premature beat
+508665,N,Normal beat
+508906,N,Normal beat
+509131,N,Normal beat
+509353,N,Normal beat
+509569,N,Normal beat
+509805,N,Normal beat
+510050,N,Normal beat
+510287,N,Normal beat
+510526,N,Normal beat
+510751,N,Normal beat
+510974,N,Normal beat
+511200,N,Normal beat
+511424,N,Normal beat
+511643,N,Normal beat
+511871,N,Normal beat
+512105,N,Normal beat
+512346,N,Normal beat
+512578,N,Normal beat
+512807,N,Normal beat
+513039,N,Normal beat
+513261,N,Normal beat
+513486,N,Normal beat
+513704,N,Normal beat
+513919,N,Normal beat
+514154,N,Normal beat
+514390,N,Normal beat
+514633,N,Normal beat
+514875,N,Normal beat
+515103,N,Normal beat
+515331,N,Normal beat
+515554,N,Normal beat
+515782,N,Normal beat
+516005,N,Normal beat
+516233,N,Normal beat
+516473,N,Normal beat
+516707,N,Normal beat
+516943,N,Normal beat
+517174,N,Normal beat
+517399,N,Normal beat
+517628,N,Normal beat
+517856,N,Normal beat
+518079,N,Normal beat
+518295,N,Normal beat
+518525,N,Normal beat
+518766,N,Normal beat
+519012,N,Normal beat
+519249,N,Normal beat
+519484,N,Normal beat
+519710,N,Normal beat
+519939,N,Normal beat
+520169,N,Normal beat
+520385,N,Normal beat
+520602,N,Normal beat
+520865,N,Normal beat
+521102,N,Normal beat
+521339,N,Normal beat
+521563,N,Normal beat
+521792,N,Normal beat
+522022,N,Normal beat
+522245,N,Normal beat
+522463,N,Normal beat
+522685,N,Normal beat
+522916,N,Normal beat
+523158,N,Normal beat
+523392,N,Normal beat
+523625,N,Normal beat
+523857,N,Normal beat
+524082,N,Normal beat
+524307,N,Normal beat
+524524,N,Normal beat
+524740,N,Normal beat
+524978,N,Normal beat
+525215,N,Normal beat
+525453,N,Normal beat
+525681,N,Normal beat
+525906,N,Normal beat
+526132,N,Normal beat
+526350,N,Normal beat
+526578,N,Normal beat
+526793,N,Normal beat
+526991,A,Atrial premature beat
+527247,N,Normal beat
+527483,N,Normal beat
+527719,N,Normal beat
+527949,N,Normal beat
+528182,N,Normal beat
+528408,N,Normal beat
+528628,N,Normal beat
+528848,N,Normal beat
+529063,N,Normal beat
+529295,N,Normal beat
+529535,N,Normal beat
+529772,N,Normal beat
+530008,N,Normal beat
+530232,N,Normal beat
+530456,N,Normal beat
+530678,N,Normal beat
+530883,N,Normal beat
+531120,N,Normal beat
+531348,N,Normal beat
+531583,N,Normal beat
+531821,N,Normal beat
+532055,N,Normal beat
+532280,N,Normal beat
+532512,N,Normal beat
+532741,N,Normal beat
+532970,N,Normal beat
+533190,N,Normal beat
+533405,N,Normal beat
+533640,N,Normal beat
+533884,N,Normal beat
+534125,N,Normal beat
+534360,N,Normal beat
+534585,N,Normal beat
+534808,N,Normal beat
+535022,N,Normal beat
+535248,N,Normal beat
+535463,N,Normal beat
+535690,N,Normal beat
+535928,N,Normal beat
+536162,N,Normal beat
+536393,N,Normal beat
+536613,N,Normal beat
+536842,N,Normal beat
+537072,N,Normal beat
+537293,N,Normal beat
+537515,N,Normal beat
+537731,N,Normal beat
+537959,N,Normal beat
+538196,N,Normal beat
+538434,N,Normal beat
+538667,N,Normal beat
+538897,N,Normal beat
+539120,N,Normal beat
+539345,N,Normal beat
+539568,N,Normal beat
+539787,N,Normal beat
+540026,N,Normal beat
+540266,N,Normal beat
+540506,N,Normal beat
+540741,N,Normal beat
+540937,A,Atrial premature beat
+541195,N,Normal beat
+541426,N,Normal beat
+541650,N,Normal beat
+541876,N,Normal beat
+542039,A,Atrial premature beat
+542312,N,Normal beat
+542555,N,Normal beat
+542799,N,Normal beat
+543036,N,Normal beat
+543264,N,Normal beat
+543490,N,Normal beat
+543713,N,Normal beat
+543934,N,Normal beat
+544150,N,Normal beat
+544385,N,Normal beat
+544625,N,Normal beat
+544863,N,Normal beat
+545095,N,Normal beat
+545323,N,Normal beat
+545552,N,Normal beat
+545731,A,Atrial premature beat
+545987,N,Normal beat
+546213,N,Normal beat
+546443,N,Normal beat
+546680,N,Normal beat
+546920,N,Normal beat
+547161,N,Normal beat
+547396,N,Normal beat
+547631,N,Normal beat
+547866,N,Normal beat
+548094,N,Normal beat
+548316,N,Normal beat
+548533,N,Normal beat
+548777,N,Normal beat
+549025,N,Normal beat
+549264,N,Normal beat
+549499,N,Normal beat
+549687,A,Atrial premature beat
+549952,N,Normal beat
+550182,N,Normal beat
+550412,N,Normal beat
+550562,A,Atrial premature beat
+550778,N,Normal beat
+550895,+,Rhythm change
+550950,A,Atrial premature beat
+551102,A,Atrial premature beat
+551251,A,Atrial premature beat
+551399,A,Atrial premature beat
+551547,A,Atrial premature beat
+551701,A,Atrial premature beat
+551843,+,Rhythm change
+551918,N,Normal beat
+552209,N,Normal beat
+552442,N,Normal beat
+552661,N,Normal beat
+552877,N,Normal beat
+553111,N,Normal beat
+553344,N,Normal beat
+553576,N,Normal beat
+553808,N,Normal beat
+554030,N,Normal beat
+554253,N,Normal beat
+554468,N,Normal beat
+554692,N,Normal beat
+554913,N,Normal beat
+555143,N,Normal beat
+555338,A,Atrial premature beat
+555609,N,Normal beat
+555850,N,Normal beat
+556084,N,Normal beat
+556314,N,Normal beat
+556545,N,Normal beat
+556777,N,Normal beat
+556997,N,Normal beat
+557177,A,Atrial premature beat
+557444,N,Normal beat
+557687,N,Normal beat
+557931,N,Normal beat
+558163,N,Normal beat
+558393,N,Normal beat
+558614,N,Normal beat
+558839,N,Normal beat
+559050,N,Normal beat
+559276,N,Normal beat
+559513,N,Normal beat
+559758,N,Normal beat
+559996,N,Normal beat
+560180,A,Atrial premature beat
+560440,N,Normal beat
+560672,N,Normal beat
+560899,N,Normal beat
+561094,A,Atrial premature beat
+561336,N,Normal beat
+561561,N,Normal beat
+561798,N,Normal beat
+562041,N,Normal beat
+562280,N,Normal beat
+562518,N,Normal beat
+562753,N,Normal beat
+562984,N,Normal beat
+563217,N,Normal beat
+563440,N,Normal beat
+563663,N,Normal beat
+563910,N,Normal beat
+564153,N,Normal beat
+564395,N,Normal beat
+564623,N,Normal beat
+564853,N,Normal beat
+565087,N,Normal beat
+565267,A,Atrial premature beat
+565527,N,Normal beat
+565752,N,Normal beat
+565984,N,Normal beat
+566153,A,Atrial premature beat
+566417,N,Normal beat
+566662,N,Normal beat
+566895,N,Normal beat
+567126,N,Normal beat
+567354,N,Normal beat
+567576,N,Normal beat
+567797,N,Normal beat
+568018,N,Normal beat
+568236,N,Normal beat
+568494,N,Normal beat
+568733,N,Normal beat
+568967,N,Normal beat
+569199,N,Normal beat
+569423,N,Normal beat
+569646,N,Normal beat
+569878,N,Normal beat
+570099,N,Normal beat
+570333,N,Normal beat
+570567,N,Normal beat
+570805,N,Normal beat
+571043,N,Normal beat
+571268,N,Normal beat
+571503,N,Normal beat
+571736,N,Normal beat
+571960,N,Normal beat
+572173,N,Normal beat
+572400,N,Normal beat
+572636,N,Normal beat
+572862,N,Normal beat
+573113,N,Normal beat
+573341,N,Normal beat
+573565,N,Normal beat
+573789,N,Normal beat
+574014,N,Normal beat
+574236,N,Normal beat
+574457,N,Normal beat
+574692,N,Normal beat
+574873,A,Atrial premature beat
+575155,N,Normal beat
+575393,N,Normal beat
+575622,N,Normal beat
+575856,N,Normal beat
+575971,~,Signal quality change
+576085,N,Normal beat
+576310,N,Normal beat
+576521,N,Normal beat
+576754,N,Normal beat
+576953,N,Normal beat
+577214,N,Normal beat
+577450,N,Normal beat
+577676,N,Normal beat
+577841,A,Atrial premature beat
+578066,N,Normal beat
+578287,N,Normal beat
+578500,N,Normal beat
+578709,N,Normal beat
+578937,N,Normal beat
+579164,N,Normal beat
+579396,N,Normal beat
+579622,N,Normal beat
+579837,N,Normal beat
+580059,N,Normal beat
+580274,N,Normal beat
+580490,N,Normal beat
+580706,N,Normal beat
+580913,N,Normal beat
+581138,N,Normal beat
+581362,N,Normal beat
+581566,N,Normal beat
+581649,|,Isolated QRS-like artifact
+581818,N,Normal beat
+582043,N,Normal beat
+582263,N,Normal beat
+582475,N,Normal beat
+582652,A,Atrial premature beat
+582894,N,Normal beat
+583105,N,Normal beat
+583335,N,Normal beat
+583568,N,Normal beat
+583797,N,Normal beat
+584021,N,Normal beat
+584238,N,Normal beat
+584455,N,Normal beat
+584672,N,Normal beat
+584890,N,Normal beat
+585097,N,Normal beat
+585315,N,Normal beat
+585538,N,Normal beat
+585765,N,Normal beat
+585998,N,Normal beat
+586220,N,Normal beat
+586446,N,Normal beat
+586669,N,Normal beat
+586867,N,Normal beat
+587102,N,Normal beat
+587308,N,Normal beat
+587535,N,Normal beat
+587773,N,Normal beat
+587979,N,Normal beat
+588237,N,Normal beat
+588460,N,Normal beat
+588686,N,Normal beat
+588907,N,Normal beat
+589121,N,Normal beat
+589340,N,Normal beat
+589555,N,Normal beat
+589782,N,Normal beat
+590009,N,Normal beat
+590236,N,Normal beat
+590462,N,Normal beat
+590682,N,Normal beat
+590883,N,Normal beat
+591122,N,Normal beat
+591341,N,Normal beat
+591553,N,Normal beat
+591761,N,Normal beat
+591972,N,Normal beat
+592215,N,Normal beat
+592446,N,Normal beat
+592674,N,Normal beat
+592890,N,Normal beat
+593108,N,Normal beat
+593318,N,Normal beat
+593533,N,Normal beat
+593746,N,Normal beat
+593965,N,Normal beat
+594194,N,Normal beat
+594420,N,Normal beat
+594655,N,Normal beat
+594879,N,Normal beat
+595100,N,Normal beat
+595322,N,Normal beat
+595433,~,Signal quality change
+595536,N,Normal beat
+595753,N,Normal beat
+595950,N,Normal beat
+596164,N,Normal beat
+596380,N,Normal beat
+596602,N,Normal beat
+596825,N,Normal beat
+597038,N,Normal beat
+597252,N,Normal beat
+597457,N,Normal beat
+597661,N,Normal beat
+597867,N,Normal beat
+598064,N,Normal beat
+598129,~,Signal quality change
+598274,N,Normal beat
+598487,N,Normal beat
+598676,A,Atrial premature beat
+598918,N,Normal beat
+599136,N,Normal beat
+599340,N,Normal beat
+599549,N,Normal beat
+599760,N,Normal beat
+599968,N,Normal beat
+600177,N,Normal beat
+600379,N,Normal beat
+600600,N,Normal beat
+600824,N,Normal beat
+601051,N,Normal beat
+601277,N,Normal beat
+601435,A,Atrial premature beat
+601681,N,Normal beat
+601902,N,Normal beat
+602120,N,Normal beat
+602330,N,Normal beat
+602537,N,Normal beat
+602760,N,Normal beat
+602991,N,Normal beat
+603217,N,Normal beat
+603409,N,Normal beat
+603642,N,Normal beat
+603859,N,Normal beat
+604073,N,Normal beat
+604228,A,Atrial premature beat
+604475,N,Normal beat
+604691,N,Normal beat
+604910,N,Normal beat
+605139,N,Normal beat
+605358,N,Normal beat
+605585,N,Normal beat
+605810,N,Normal beat
+605994,A,Atrial premature beat
+606241,N,Normal beat
+606456,N,Normal beat
+606675,N,Normal beat
+606887,N,Normal beat
+607111,N,Normal beat
+607347,N,Normal beat
+607577,N,Normal beat
+607803,N,Normal beat
+608019,N,Normal beat
+608236,N,Normal beat
+608448,N,Normal beat
+608596,~,Signal quality change
+608663,N,Normal beat
+608863,N,Normal beat
+609088,N,Normal beat
+609311,N,Normal beat
+609529,N,Normal beat
+609709,A,Atrial premature beat
+609958,N,Normal beat
+610178,N,Normal beat
+610400,N,Normal beat
+610622,N,Normal beat
+610844,N,Normal beat
+611055,N,Normal beat
+611225,~,Signal quality change
+611272,N,Normal beat
+611500,N,Normal beat
+611689,A,Atrial premature beat
+611957,N,Normal beat
+612180,N,Normal beat
+612399,N,Normal beat
+612613,N,Normal beat
+612824,N,Normal beat
+613038,N,Normal beat
+613239,N,Normal beat
+613451,N,Normal beat
+613683,N,Normal beat
+613904,N,Normal beat
+614127,N,Normal beat
+614341,N,Normal beat
+614511,A,Atrial premature beat
+614754,N,Normal beat
+614976,N,Normal beat
+615194,N,Normal beat
+615398,N,Normal beat
+615617,N,Normal beat
+615843,N,Normal beat
+616071,N,Normal beat
+616304,N,Normal beat
+616528,N,Normal beat
+616759,N,Normal beat
+616979,N,Normal beat
+617133,A,Atrial premature beat
+617341,N,Normal beat
+617455,+,Rhythm change
+617504,A,Atrial premature beat
+617647,A,Atrial premature beat
+617797,A,Atrial premature beat
+617951,A,Atrial premature beat
+618068,+,Rhythm change
+618164,N,Normal beat
+618287,+,Rhythm change
+618349,A,Atrial premature beat
+618502,A,Atrial premature beat
+618651,A,Atrial premature beat
+618861,A,Atrial premature beat
+619036,A,Atrial premature beat
+619178,A,Atrial premature beat
+619322,A,Atrial premature beat
+619466,A,Atrial premature beat
+619608,A,Atrial premature beat
+619740,A,Atrial premature beat
+619884,A,Atrial premature beat
+620037,A,Atrial premature beat
+620189,A,Atrial premature beat
+620305,+,Rhythm change
+620398,N,Normal beat
+620692,N,Normal beat
+620926,N,Normal beat
+621150,N,Normal beat
+621346,N,Normal beat
+621566,N,Normal beat
+621778,N,Normal beat
+621987,N,Normal beat
+622158,A,Atrial premature beat
+622416,N,Normal beat
+622663,N,Normal beat
+622893,N,Normal beat
+623118,N,Normal beat
+623342,N,Normal beat
+623571,N,Normal beat
+623802,N,Normal beat
+624000,A,Atrial premature beat
+624244,N,Normal beat
+624482,N,Normal beat
+624722,N,Normal beat
+624962,N,Normal beat
+625198,N,Normal beat
+625434,N,Normal beat
+625668,N,Normal beat
+625894,N,Normal beat
+626120,N,Normal beat
+626344,N,Normal beat
+626590,N,Normal beat
+626843,N,Normal beat
+627035,A,Atrial premature beat
+627315,N,Normal beat
+627558,N,Normal beat
+627800,N,Normal beat
+628032,N,Normal beat
+628267,N,Normal beat
+628499,N,Normal beat
+628740,N,Normal beat
+628935,A,Atrial premature beat
+629217,N,Normal beat
+629460,N,Normal beat
+629704,N,Normal beat
+629939,N,Normal beat
+630176,N,Normal beat
+630405,N,Normal beat
+630631,N,Normal beat
+630873,N,Normal beat
+631125,N,Normal beat
+631372,N,Normal beat
+631612,N,Normal beat
+631779,A,Atrial premature beat
+631897,+,Rhythm change
+631983,A,Atrial premature beat
+632151,A,Atrial premature beat
+632292,A,Atrial premature beat
+632434,A,Atrial premature beat
+632577,A,Atrial premature beat
+632720,A,Atrial premature beat
+632869,+,Rhythm change
+632937,N,Normal beat
+633247,N,Normal beat
+633490,N,Normal beat
+633727,N,Normal beat
+633959,N,Normal beat
+634191,N,Normal beat
+634422,N,Normal beat
+634620,N,Normal beat
+634866,N,Normal beat
+635101,N,Normal beat
+635344,N,Normal beat
+635592,N,Normal beat
+635836,N,Normal beat
+636067,N,Normal beat
+636301,N,Normal beat
+636516,N,Normal beat
+636750,N,Normal beat
+636969,N,Normal beat
+637205,N,Normal beat
+637446,N,Normal beat
+637687,N,Normal beat
+637925,N,Normal beat
+638157,N,Normal beat
+638391,N,Normal beat
+638623,N,Normal beat
+638855,N,Normal beat
+639085,N,Normal beat
+639306,N,Normal beat
+639493,A,Atrial premature beat
+639775,N,Normal beat
+640022,N,Normal beat
+640261,N,Normal beat
+640499,N,Normal beat
+640733,N,Normal beat
+640964,N,Normal beat
+641193,N,Normal beat
+641420,N,Normal beat
+641669,N,Normal beat
+641919,N,Normal beat
+642172,N,Normal beat
+642411,N,Normal beat
+642618,N,Normal beat
+642878,N,Normal beat
+643107,N,Normal beat
+643339,N,Normal beat
+643568,N,Normal beat
+643803,N,Normal beat
+644046,N,Normal beat
+644277,N,Normal beat
+644474,N,Normal beat
+644740,N,Normal beat
+644969,N,Normal beat
+645195,N,Normal beat
+645355,A,Atrial premature beat
+645603,N,Normal beat
+645840,N,Normal beat
+646075,N,Normal beat
+646320,N,Normal beat
+646564,N,Normal beat
+646795,N,Normal beat
+647034,N,Normal beat
+647265,N,Normal beat
+647443,A,Atrial premature beat
+647717,N,Normal beat
+647947,N,Normal beat
+648194,N,Normal beat
+648435,N,Normal beat
+648673,N,Normal beat
+648912,N,Normal beat
+649149,N,Normal beat
+649387,N,Normal beat
+649627,N,Normal beat
+649857,N,Normal beat

@@ -1,0 +1,2142 @@
+sample,symbol,description
+27,+,Rhythm change
+160,N,Normal beat
+433,N,Normal beat
+726,N,Normal beat
+1061,N,Normal beat
+1366,N,Normal beat
+1651,N,Normal beat
+1935,N,Normal beat
+2223,N,Normal beat
+2499,N,Normal beat
+2793,N,Normal beat
+3094,N,Normal beat
+3402,N,Normal beat
+3694,N,Normal beat
+3986,N,Normal beat
+4275,N,Normal beat
+4542,N,Normal beat
+4820,N,Normal beat
+5006,|,Isolated QRS-like artifact
+5106,N,Normal beat
+5442,N,Normal beat
+5608,|,Isolated QRS-like artifact
+5783,N,Normal beat
+6048,|,Isolated QRS-like artifact
+6085,N,Normal beat
+6192,+,Rhythm change
+6299,V,Premature ventricular contraction
+6635,N,Normal beat
+6823,V,Premature ventricular contraction
+7197,N,Normal beat
+7415,V,Premature ventricular contraction
+7825,N,Normal beat
+8026,V,Premature ventricular contraction
+8394,N,Normal beat
+8582,V,Premature ventricular contraction
+8931,N,Normal beat
+9130,V,Premature ventricular contraction
+9504,N,Normal beat
+9710,V,Premature ventricular contraction
+10098,N,Normal beat
+10306,V,Premature ventricular contraction
+10656,N,Normal beat
+10844,V,Premature ventricular contraction
+11199,N,Normal beat
+11392,V,Premature ventricular contraction
+11776,N,Normal beat
+11992,V,Premature ventricular contraction
+12198,+,Rhythm change
+12404,N,Normal beat
+12713,N,Normal beat
+13012,N,Normal beat
+13287,N,Normal beat
+13574,N,Normal beat
+13896,N,Normal beat
+14237,N,Normal beat
+14568,N,Normal beat
+14897,N,Normal beat
+15190,N,Normal beat
+15465,N,Normal beat
+15755,N,Normal beat
+15804,|,Isolated QRS-like artifact
+15851,|,Isolated QRS-like artifact
+16103,N,Normal beat
+16157,|,Isolated QRS-like artifact
+16309,|,Isolated QRS-like artifact
+16404,|,Isolated QRS-like artifact
+16478,N,Normal beat
+16823,N,Normal beat
+16997,|,Isolated QRS-like artifact
+17076,|,Isolated QRS-like artifact
+17113,N,Normal beat
+17394,N,Normal beat
+17680,N,Normal beat
+17996,N,Normal beat
+18362,N,Normal beat
+18690,V,Premature ventricular contraction
+19125,N,Normal beat
+19408,N,Normal beat
+19694,N,Normal beat
+19903,V,Premature ventricular contraction
+20157,V,Premature ventricular contraction
+20749,N,Normal beat
+21122,N,Normal beat
+21438,N,Normal beat
+21556,~,Signal quality change
+21709,N,Normal beat
+21998,N,Normal beat
+22307,N,Normal beat
+22627,N,Normal beat
+22803,~,Signal quality change
+22860,V,Premature ventricular contraction
+23284,N,Normal beat
+23602,N,Normal beat
+23892,N,Normal beat
+24076,V,Premature ventricular contraction
+24472,N,Normal beat
+24678,V,Premature ventricular contraction
+25110,N,Normal beat
+25421,N,Normal beat
+25734,N,Normal beat
+26021,N,Normal beat
+26303,N,Normal beat
+26585,N,Normal beat
+26887,N,Normal beat
+27224,N,Normal beat
+27556,N,Normal beat
+27890,N,Normal beat
+28169,N,Normal beat
+28451,N,Normal beat
+28736,N,Normal beat
+29035,N,Normal beat
+29353,N,Normal beat
+29658,N,Normal beat
+29871,V,Premature ventricular contraction
+30246,N,Normal beat
+30533,N,Normal beat
+30828,N,Normal beat
+31127,N,Normal beat
+31432,N,Normal beat
+31735,N,Normal beat
+31940,V,Premature ventricular contraction
+32328,N,Normal beat
+32511,V,Premature ventricular contraction
+32890,N,Normal beat
+33181,N,Normal beat
+33480,N,Normal beat
+33580,+,Rhythm change
+33680,V,Premature ventricular contraction
+33948,|,Isolated QRS-like artifact
+34117,N,Normal beat
+34334,V,Premature ventricular contraction
+34639,|,Isolated QRS-like artifact
+34721,N,Normal beat
+34908,V,Premature ventricular contraction
+35291,N,Normal beat
+35500,V,Premature ventricular contraction
+35937,N,Normal beat
+36184,V,Premature ventricular contraction
+36598,N,Normal beat
+36709,|,Isolated QRS-like artifact
+36805,V,Premature ventricular contraction
+37183,N,Normal beat
+37416,V,Premature ventricular contraction
+37881,N,Normal beat
+38144,V,Premature ventricular contraction
+38590,N,Normal beat
+38801,V,Premature ventricular contraction
+39170,N,Normal beat
+39371,V,Premature ventricular contraction
+39838,N,Normal beat
+40109,V,Premature ventricular contraction
+40304,|,Isolated QRS-like artifact
+40353,|,Isolated QRS-like artifact
+40568,N,Normal beat
+40807,V,Premature ventricular contraction
+41012,+,Rhythm change
+41218,N,Normal beat
+41564,N,Normal beat
+41998,N,Normal beat
+42409,N,Normal beat
+42762,N,Normal beat
+43084,N,Normal beat
+43389,N,Normal beat
+43703,N,Normal beat
+44076,N,Normal beat
+44468,N,Normal beat
+44807,N,Normal beat
+45113,N,Normal beat
+45416,N,Normal beat
+45734,N,Normal beat
+46055,N,Normal beat
+46399,N,Normal beat
+46520,+,Rhythm change
+46642,V,Premature ventricular contraction
+47068,N,Normal beat
+47276,V,Premature ventricular contraction
+47648,N,Normal beat
+47879,V,Premature ventricular contraction
+48067,+,Rhythm change
+48256,N,Normal beat
+48568,N,Normal beat
+48899,N,Normal beat
+49220,N,Normal beat
+49519,N,Normal beat
+49790,N,Normal beat
+50075,N,Normal beat
+50374,N,Normal beat
+50671,N,Normal beat
+50995,N,Normal beat
+51314,N,Normal beat
+51615,N,Normal beat
+51886,N,Normal beat
+51985,+,Rhythm change
+52084,V,Premature ventricular contraction
+52480,N,Normal beat
+52689,V,Premature ventricular contraction
+53114,N,Normal beat
+53319,V,Premature ventricular contraction
+53521,+,Rhythm change
+53724,N,Normal beat
+54009,N,Normal beat
+54295,N,Normal beat
+54520,V,Premature ventricular contraction
+54936,N,Normal beat
+55260,N,Normal beat
+55564,N,Normal beat
+55876,N,Normal beat
+56181,N,Normal beat
+56387,V,Premature ventricular contraction
+56745,N,Normal beat
+57027,N,Normal beat
+57316,N,Normal beat
+57606,N,Normal beat
+57829,V,Premature ventricular contraction
+57996,~,Signal quality change
+58189,N,Normal beat
+58457,N,Normal beat
+58724,N,Normal beat
+58927,V,Premature ventricular contraction
+59329,N,Normal beat
+59661,N,Normal beat
+59989,N,Normal beat
+60280,N,Normal beat
+60556,N,Normal beat
+60747,V,Premature ventricular contraction
+61116,N,Normal beat
+61337,V,Premature ventricular contraction
+61787,N,Normal beat
+62126,N,Normal beat
+62427,N,Normal beat
+62705,N,Normal beat
+62992,N,Normal beat
+63300,N,Normal beat
+63674,N,Normal beat
+64004,N,Normal beat
+64327,N,Normal beat
+64635,N,Normal beat
+64744,|,Isolated QRS-like artifact
+64925,N,Normal beat
+65223,N,Normal beat
+65403,~,Signal quality change
+65572,N,Normal beat
+65866,V,Premature ventricular contraction
+66266,N,Normal beat
+66600,N,Normal beat
+66919,N,Normal beat
+67214,N,Normal beat
+67530,N,Normal beat
+67871,N,Normal beat
+68108,~,Signal quality change
+68231,N,Normal beat
+68545,N,Normal beat
+68863,N,Normal beat
+69160,N,Normal beat
+69445,N,Normal beat
+69534,~,Signal quality change
+69655,V,Premature ventricular contraction
+70062,N,Normal beat
+70411,N,Normal beat
+70750,N,Normal beat
+71059,N,Normal beat
+71335,N,Normal beat
+71612,N,Normal beat
+71914,N,Normal beat
+72210,N,Normal beat
+72476,V,Premature ventricular contraction
+72875,N,Normal beat
+73178,N,Normal beat
+73457,N,Normal beat
+73729,N,Normal beat
+74030,N,Normal beat
+74350,N,Normal beat
+74704,N,Normal beat
+74966,V,Premature ventricular contraction
+75348,N,Normal beat
+75631,N,Normal beat
+75911,N,Normal beat
+76205,N,Normal beat
+76541,N,Normal beat
+76884,N,Normal beat
+77211,N,Normal beat
+77515,N,Normal beat
+77814,N,Normal beat
+78011,V,Premature ventricular contraction
+78389,N,Normal beat
+78590,V,Premature ventricular contraction
+79001,N,Normal beat
+79310,N,Normal beat
+79613,N,Normal beat
+79806,V,Premature ventricular contraction
+80151,N,Normal beat
+80440,N,Normal beat
+80724,N,Normal beat
+81043,N,Normal beat
+81390,N,Normal beat
+81727,N,Normal beat
+82008,N,Normal beat
+82272,N,Normal beat
+82467,V,Premature ventricular contraction
+82857,N,Normal beat
+83078,V,Premature ventricular contraction
+83525,N,Normal beat
+83868,N,Normal beat
+84157,N,Normal beat
+84427,N,Normal beat
+84738,N,Normal beat
+84968,V,Premature ventricular contraction
+85403,N,Normal beat
+85715,N,Normal beat
+86038,N,Normal beat
+86316,N,Normal beat
+86587,N,Normal beat
+86881,N,Normal beat
+87188,N,Normal beat
+87530,N,Normal beat
+87863,N,Normal beat
+88224,N,Normal beat
+88580,N,Normal beat
+88884,N,Normal beat
+89191,N,Normal beat
+89525,N,Normal beat
+89879,N,Normal beat
+90222,N,Normal beat
+90502,V,Premature ventricular contraction
+90927,N,Normal beat
+91233,N,Normal beat
+91543,N,Normal beat
+91877,N,Normal beat
+92234,N,Normal beat
+92569,N,Normal beat
+92897,N,Normal beat
+93191,N,Normal beat
+93486,N,Normal beat
+93778,N,Normal beat
+94087,N,Normal beat
+94406,N,Normal beat
+94706,N,Normal beat
+94995,N,Normal beat
+95280,N,Normal beat
+95577,N,Normal beat
+95796,V,Premature ventricular contraction
+96210,N,Normal beat
+96517,N,Normal beat
+96808,N,Normal beat
+97094,N,Normal beat
+97386,N,Normal beat
+97677,N,Normal beat
+97976,N,Normal beat
+98298,N,Normal beat
+98597,N,Normal beat
+98898,N,Normal beat
+99199,N,Normal beat
+99491,N,Normal beat
+99584,~,Signal quality change
+99698,V,Premature ventricular contraction
+100064,N,Normal beat
+100306,V,Premature ventricular contraction
+100702,N,Normal beat
+101018,N,Normal beat
+101328,N,Normal beat
+101607,N,Normal beat
+101838,~,Signal quality change
+101884,N,Normal beat
+102163,N,Normal beat
+102470,N,Normal beat
+102779,N,Normal beat
+103096,N,Normal beat
+103386,N,Normal beat
+103663,N,Normal beat
+103937,N,Normal beat
+104223,N,Normal beat
+104540,N,Normal beat
+104773,|,Isolated QRS-like artifact
+104860,N,Normal beat
+105162,N,Normal beat
+105451,N,Normal beat
+105654,V,Premature ventricular contraction
+106047,N,Normal beat
+106354,N,Normal beat
+106652,N,Normal beat
+106978,N,Normal beat
+107290,N,Normal beat
+107485,V,Premature ventricular contraction
+107889,N,Normal beat
+108179,N,Normal beat
+108481,N,Normal beat
+108771,N,Normal beat
+109090,N,Normal beat
+109411,N,Normal beat
+109628,V,Premature ventricular contraction
+110002,N,Normal beat
+110188,V,Premature ventricular contraction
+110568,N,Normal beat
+110867,N,Normal beat
+110940,|,Isolated QRS-like artifact
+111184,N,Normal beat
+111361,|,Isolated QRS-like artifact
+111425,|,Isolated QRS-like artifact
+111525,N,Normal beat
+111838,N,Normal beat
+112133,N,Normal beat
+112394,N,Normal beat
+112678,N,Normal beat
+113004,N,Normal beat
+113312,N,Normal beat
+113621,N,Normal beat
+113920,N,Normal beat
+114213,N,Normal beat
+114476,N,Normal beat
+114749,N,Normal beat
+115063,N,Normal beat
+115386,N,Normal beat
+115701,N,Normal beat
+115998,N,Normal beat
+116187,|,Isolated QRS-like artifact
+116300,N,Normal beat
+116378,|,Isolated QRS-like artifact
+116594,N,Normal beat
+116872,N,Normal beat
+117150,N,Normal beat
+117457,N,Normal beat
+117763,N,Normal beat
+118053,N,Normal beat
+118247,V,Premature ventricular contraction
+118652,N,Normal beat
+118919,N,Normal beat
+119182,N,Normal beat
+119461,N,Normal beat
+119786,N,Normal beat
+119994,|,Isolated QRS-like artifact
+120093,N,Normal beat
+120400,N,Normal beat
+120677,N,Normal beat
+120941,N,Normal beat
+121210,N,Normal beat
+121483,N,Normal beat
+121784,N,Normal beat
+122124,N,Normal beat
+122441,N,Normal beat
+122736,N,Normal beat
+123018,N,Normal beat
+123297,N,Normal beat
+123399,+,Rhythm change
+123501,V,Premature ventricular contraction
+123880,N,Normal beat
+124101,V,Premature ventricular contraction
+124494,N,Normal beat
+124708,V,Premature ventricular contraction
+125078,N,Normal beat
+125269,V,Premature ventricular contraction
+125629,N,Normal beat
+125828,V,Premature ventricular contraction
+126214,N,Normal beat
+126430,V,Premature ventricular contraction
+126849,N,Normal beat
+127063,V,Premature ventricular contraction
+127428,N,Normal beat
+127617,V,Premature ventricular contraction
+128000,N,Normal beat
+128214,V,Premature ventricular contraction
+128744,N,Normal beat
+128996,V,Premature ventricular contraction
+129411,N,Normal beat
+129610,V,Premature ventricular contraction
+129984,N,Normal beat
+130242,V,Premature ventricular contraction
+130826,N,Normal beat
+131119,V,Premature ventricular contraction
+131547,N,Normal beat
+131738,V,Premature ventricular contraction
+132103,N,Normal beat
+132308,V,Premature ventricular contraction
+132760,N,Normal beat
+133009,V,Premature ventricular contraction
+133499,N,Normal beat
+133723,V,Premature ventricular contraction
+134138,N,Normal beat
+134345,V,Premature ventricular contraction
+134760,N,Normal beat
+134995,V,Premature ventricular contraction
+135490,N,Normal beat
+135732,V,Premature ventricular contraction
+136139,N,Normal beat
+136337,V,Premature ventricular contraction
+136725,N,Normal beat
+136943,V,Premature ventricular contraction
+137355,N,Normal beat
+137613,V,Premature ventricular contraction
+138087,N,Normal beat
+138293,V,Premature ventricular contraction
+138664,N,Normal beat
+138864,V,Premature ventricular contraction
+139263,N,Normal beat
+139476,V,Premature ventricular contraction
+139929,N,Normal beat
+140146,V,Premature ventricular contraction
+140519,N,Normal beat
+140713,V,Premature ventricular contraction
+141113,N,Normal beat
+141327,V,Premature ventricular contraction
+141746,N,Normal beat
+141966,V,Premature ventricular contraction
+142382,N,Normal beat
+142580,V,Premature ventricular contraction
+142952,N,Normal beat
+143167,V,Premature ventricular contraction
+143583,N,Normal beat
+143795,V,Premature ventricular contraction
+144195,N,Normal beat
+144433,V,Premature ventricular contraction
+144831,N,Normal beat
+145029,V,Premature ventricular contraction
+145406,N,Normal beat
+145628,V,Premature ventricular contraction
+146029,N,Normal beat
+146241,V,Premature ventricular contraction
+146669,N,Normal beat
+146871,V,Premature ventricular contraction
+147235,N,Normal beat
+147434,V,Premature ventricular contraction
+147841,N,Normal beat
+148074,V,Premature ventricular contraction
+148457,N,Normal beat
+148675,V,Premature ventricular contraction
+149063,N,Normal beat
+149259,V,Premature ventricular contraction
+149629,N,Normal beat
+149849,V,Premature ventricular contraction
+150245,N,Normal beat
+150455,V,Premature ventricular contraction
+150867,N,Normal beat
+151103,V,Premature ventricular contraction
+151501,N,Normal beat
+151708,V,Premature ventricular contraction
+152103,N,Normal beat
+152326,V,Premature ventricular contraction
+152743,N,Normal beat
+152995,V,Premature ventricular contraction
+153410,N,Normal beat
+153613,V,Premature ventricular contraction
+153979,N,Normal beat
+154196,V,Premature ventricular contraction
+154638,N,Normal beat
+154871,V,Premature ventricular contraction
+155077,+,Rhythm change
+155284,N,Normal beat
+155591,N,Normal beat
+155895,N,Normal beat
+156192,N,Normal beat
+156533,N,Normal beat
+156888,N,Normal beat
+157065,V,Premature ventricular contraction
+157507,N,Normal beat
+157816,N,Normal beat
+158133,N,Normal beat
+158436,N,Normal beat
+158757,N,Normal beat
+158970,V,Premature ventricular contraction
+159388,N,Normal beat
+159574,V,Premature ventricular contraction
+159975,N,Normal beat
+160286,N,Normal beat
+160590,N,Normal beat
+160902,N,Normal beat
+161207,N,Normal beat
+161425,V,Premature ventricular contraction
+161842,N,Normal beat
+162150,N,Normal beat
+162445,N,Normal beat
+162745,N,Normal beat
+163046,N,Normal beat
+163260,V,Premature ventricular contraction
+163686,N,Normal beat
+163985,N,Normal beat
+164270,N,Normal beat
+164562,N,Normal beat
+164871,N,Normal beat
+165189,N,Normal beat
+165395,V,Premature ventricular contraction
+165824,N,Normal beat
+166119,N,Normal beat
+166400,N,Normal beat
+166696,N,Normal beat
+167003,N,Normal beat
+167209,V,Premature ventricular contraction
+167624,N,Normal beat
+167935,N,Normal beat
+168254,N,Normal beat
+168542,N,Normal beat
+168836,N,Normal beat
+169130,N,Normal beat
+169337,V,Premature ventricular contraction
+169736,N,Normal beat
+170054,N,Normal beat
+170376,N,Normal beat
+170662,N,Normal beat
+170948,N,Normal beat
+171247,N,Normal beat
+171576,N,Normal beat
+171899,N,Normal beat
+172217,N,Normal beat
+172522,N,Normal beat
+172824,N,Normal beat
+173121,N,Normal beat
+173441,N,Normal beat
+173774,N,Normal beat
+174110,N,Normal beat
+174433,N,Normal beat
+174757,N,Normal beat
+174866,+,Rhythm change
+174976,V,Premature ventricular contraction
+175431,N,Normal beat
+175644,V,Premature ventricular contraction
+176094,N,Normal beat
+176315,V,Premature ventricular contraction
+176758,N,Normal beat
+176970,V,Premature ventricular contraction
+177384,N,Normal beat
+177623,V,Premature ventricular contraction
+178101,N,Normal beat
+178373,V,Premature ventricular contraction
+178880,N,Normal beat
+179107,V,Premature ventricular contraction
+179493,N,Normal beat
+179702,V,Premature ventricular contraction
+180190,N,Normal beat
+180433,V,Premature ventricular contraction
+180896,N,Normal beat
+181116,V,Premature ventricular contraction
+181507,N,Normal beat
+181705,V,Premature ventricular contraction
+182174,N,Normal beat
+182443,V,Premature ventricular contraction
+182903,N,Normal beat
+183132,V,Premature ventricular contraction
+183526,N,Normal beat
+183716,V,Premature ventricular contraction
+184119,N,Normal beat
+184357,V,Premature ventricular contraction
+184839,N,Normal beat
+185054,V,Premature ventricular contraction
+185483,N,Normal beat
+185699,V,Premature ventricular contraction
+186092,N,Normal beat
+186293,V,Premature ventricular contraction
+186723,N,Normal beat
+186971,V,Premature ventricular contraction
+187395,N,Normal beat
+187614,V,Premature ventricular contraction
+188007,N,Normal beat
+188200,V,Premature ventricular contraction
+188391,+,Rhythm change
+188582,N,Normal beat
+188931,N,Normal beat
+189310,N,Normal beat
+189644,N,Normal beat
+189945,N,Normal beat
+190232,N,Normal beat
+190517,N,Normal beat
+190820,N,Normal beat
+191168,N,Normal beat
+191517,N,Normal beat
+191826,N,Normal beat
+192130,N,Normal beat
+192322,V,Premature ventricular contraction
+192709,N,Normal beat
+192909,V,Premature ventricular contraction
+193307,N,Normal beat
+193641,N,Normal beat
+193954,N,Normal beat
+194254,N,Normal beat
+194534,N,Normal beat
+194823,N,Normal beat
+195003,V,Premature ventricular contraction
+195435,N,Normal beat
+195821,N,Normal beat
+196161,N,Normal beat
+196349,V,Premature ventricular contraction
+196743,N,Normal beat
+196959,V,Premature ventricular contraction
+197339,N,Normal beat
+197686,N,Normal beat
+198071,N,Normal beat
+198395,N,Normal beat
+198687,N,Normal beat
+198978,N,Normal beat
+199283,N,Normal beat
+199605,N,Normal beat
+199835,V,Premature ventricular contraction
+200269,N,Normal beat
+200594,N,Normal beat
+200894,N,Normal beat
+201185,N,Normal beat
+201408,V,Premature ventricular contraction
+201780,N,Normal beat
+202093,N,Normal beat
+202452,N,Normal beat
+202803,N,Normal beat
+203017,V,Premature ventricular contraction
+203374,N,Normal beat
+203667,N,Normal beat
+203976,N,Normal beat
+204285,N,Normal beat
+204628,N,Normal beat
+204970,N,Normal beat
+205262,N,Normal beat
+205534,N,Normal beat
+205732,V,Premature ventricular contraction
+206139,N,Normal beat
+206343,V,Premature ventricular contraction
+206759,N,Normal beat
+207075,N,Normal beat
+207363,N,Normal beat
+207636,N,Normal beat
+207838,V,Premature ventricular contraction
+208223,N,Normal beat
+208545,N,Normal beat
+208852,N,Normal beat
+209180,N,Normal beat
+209489,N,Normal beat
+209769,N,Normal beat
+210054,N,Normal beat
+210354,N,Normal beat
+210668,N,Normal beat
+210971,N,Normal beat
+211175,V,Premature ventricular contraction
+211616,N,Normal beat
+211811,V,Premature ventricular contraction
+212185,N,Normal beat
+212487,N,Normal beat
+212816,N,Normal beat
+213134,N,Normal beat
+213448,N,Normal beat
+213744,N,Normal beat
+214029,N,Normal beat
+214306,N,Normal beat
+214602,N,Normal beat
+214922,N,Normal beat
+215232,N,Normal beat
+215527,N,Normal beat
+215845,N,Normal beat
+216143,N,Normal beat
+216427,N,Normal beat
+216716,N,Normal beat
+217024,N,Normal beat
+217339,N,Normal beat
+217647,N,Normal beat
+217973,N,Normal beat
+218279,N,Normal beat
+218566,N,Normal beat
+218754,V,Premature ventricular contraction
+219167,N,Normal beat
+219516,N,Normal beat
+219854,N,Normal beat
+219961,+,Rhythm change
+220068,V,Premature ventricular contraction
+220459,N,Normal beat
+220652,V,Premature ventricular contraction
+221041,N,Normal beat
+221250,V,Premature ventricular contraction
+221597,|,Isolated QRS-like artifact
+221694,N,Normal beat
+221933,V,Premature ventricular contraction
+222151,+,Rhythm change
+222370,N,Normal beat
+222678,N,Normal beat
+223003,N,Normal beat
+223337,N,Normal beat
+223663,N,Normal beat
+223983,N,Normal beat
+224191,V,Premature ventricular contraction
+224630,N,Normal beat
+224922,N,Normal beat
+225223,N,Normal beat
+225542,N,Normal beat
+225851,N,Normal beat
+226171,N,Normal beat
+226520,N,Normal beat
+226848,N,Normal beat
+227128,N,Normal beat
+227417,N,Normal beat
+227609,V,Premature ventricular contraction
+228040,N,Normal beat
+228356,N,Normal beat
+228673,N,Normal beat
+228976,N,Normal beat
+229261,N,Normal beat
+229561,N,Normal beat
+229890,N,Normal beat
+230219,N,Normal beat
+230525,N,Normal beat
+230831,N,Normal beat
+231134,N,Normal beat
+231433,N,Normal beat
+231737,N,Normal beat
+232058,N,Normal beat
+232381,N,Normal beat
+232685,N,Normal beat
+233004,N,Normal beat
+233321,N,Normal beat
+233631,N,Normal beat
+233838,V,Premature ventricular contraction
+234251,N,Normal beat
+234455,V,Premature ventricular contraction
+234884,N,Normal beat
+235219,N,Normal beat
+235516,N,Normal beat
+235814,N,Normal beat
+236115,N,Normal beat
+236451,N,Normal beat
+236779,N,Normal beat
+237097,N,Normal beat
+237400,N,Normal beat
+237702,N,Normal beat
+238006,N,Normal beat
+238306,N,Normal beat
+238624,N,Normal beat
+238955,N,Normal beat
+239272,N,Normal beat
+239596,N,Normal beat
+239909,N,Normal beat
+240124,V,Premature ventricular contraction
+240533,N,Normal beat
+240868,N,Normal beat
+241183,N,Normal beat
+241511,N,Normal beat
+241841,N,Normal beat
+242139,N,Normal beat
+242348,V,Premature ventricular contraction
+242754,N,Normal beat
+243105,N,Normal beat
+243435,N,Normal beat
+243541,+,Rhythm change
+243648,V,Premature ventricular contraction
+244058,N,Normal beat
+244283,V,Premature ventricular contraction
+244689,N,Normal beat
+244919,V,Premature ventricular contraction
+245381,N,Normal beat
+245605,V,Premature ventricular contraction
+245812,+,Rhythm change
+246020,N,Normal beat
+246321,N,Normal beat
+246638,N,Normal beat
+246970,N,Normal beat
+247287,N,Normal beat
+247611,N,Normal beat
+247928,N,Normal beat
+248236,N,Normal beat
+248543,N,Normal beat
+248853,N,Normal beat
+249173,N,Normal beat
+249481,N,Normal beat
+249827,N,Normal beat
+250160,N,Normal beat
+250267,+,Rhythm change
+250374,V,Premature ventricular contraction
+250763,N,Normal beat
+250958,V,Premature ventricular contraction
+251367,N,Normal beat
+251581,V,Premature ventricular contraction
+252013,N,Normal beat
+252222,V,Premature ventricular contraction
+252612,N,Normal beat
+252803,V,Premature ventricular contraction
+253211,N,Normal beat
+253425,V,Premature ventricular contraction
+253842,N,Normal beat
+254058,V,Premature ventricular contraction
+254474,N,Normal beat
+254664,V,Premature ventricular contraction
+255046,N,Normal beat
+255251,V,Premature ventricular contraction
+255675,N,Normal beat
+255917,V,Premature ventricular contraction
+256320,N,Normal beat
+256539,V,Premature ventricular contraction
+256952,N,Normal beat
+257149,V,Premature ventricular contraction
+257528,N,Normal beat
+257731,V,Premature ventricular contraction
+257935,+,Rhythm change
+258139,N,Normal beat
+258457,N,Normal beat
+258785,N,Normal beat
+259079,N,Normal beat
+259356,N,Normal beat
+259641,N,Normal beat
+259963,N,Normal beat
+260294,N,Normal beat
+260617,N,Normal beat
+260926,N,Normal beat
+261226,N,Normal beat
+261503,N,Normal beat
+261709,V,Premature ventricular contraction
+262127,N,Normal beat
+262469,N,Normal beat
+262800,N,Normal beat
+263113,N,Normal beat
+263438,N,Normal beat
+263736,N,Normal beat
+263912,V,Premature ventricular contraction
+264344,N,Normal beat
+264685,N,Normal beat
+265000,N,Normal beat
+265314,N,Normal beat
+265623,N,Normal beat
+265906,N,Normal beat
+266202,N,Normal beat
+266512,N,Normal beat
+266918,N,Normal beat
+267132,V,Premature ventricular contraction
+267590,N,Normal beat
+267882,N,Normal beat
+268172,N,Normal beat
+268469,N,Normal beat
+268787,N,Normal beat
+269176,N,Normal beat
+269520,N,Normal beat
+269824,N,Normal beat
+270117,N,Normal beat
+270441,N,Normal beat
+270775,N,Normal beat
+271113,N,Normal beat
+271465,N,Normal beat
+271799,N,Normal beat
+271961,V,Premature ventricular contraction
+272395,N,Normal beat
+272709,N,Normal beat
+273020,N,Normal beat
+273346,N,Normal beat
+273706,N,Normal beat
+274049,N,Normal beat
+274356,N,Normal beat
+274649,N,Normal beat
+274733,+,Rhythm change
+274817,V,Premature ventricular contraction
+275273,N,Normal beat
+275480,V,Premature ventricular contraction
+275991,N,Normal beat
+276204,V,Premature ventricular contraction
+276600,N,Normal beat
+276791,V,Premature ventricular contraction
+277227,N,Normal beat
+277447,V,Premature ventricular contraction
+277922,N,Normal beat
+278156,V,Premature ventricular contraction
+278578,N,Normal beat
+278769,V,Premature ventricular contraction
+279176,N,Normal beat
+279391,V,Premature ventricular contraction
+279817,N,Normal beat
+280034,V,Premature ventricular contraction
+280490,N,Normal beat
+280700,V,Premature ventricular contraction
+281082,N,Normal beat
+281278,V,Premature ventricular contraction
+281684,N,Normal beat
+281890,V,Premature ventricular contraction
+282335,N,Normal beat
+282583,V,Premature ventricular contraction
+282983,N,Normal beat
+283174,V,Premature ventricular contraction
+283571,N,Normal beat
+283806,V,Premature ventricular contraction
+284283,N,Normal beat
+284541,V,Premature ventricular contraction
+284980,N,Normal beat
+285178,V,Premature ventricular contraction
+285563,N,Normal beat
+285776,V,Premature ventricular contraction
+286236,N,Normal beat
+286462,V,Premature ventricular contraction
+286891,N,Normal beat
+287114,V,Premature ventricular contraction
+287311,+,Rhythm change
+287508,N,Normal beat
+287807,N,Normal beat
+288111,N,Normal beat
+288442,N,Normal beat
+288763,N,Normal beat
+289122,N,Normal beat
+289352,V,Premature ventricular contraction
+289746,N,Normal beat
+290043,N,Normal beat
+290355,N,Normal beat
+290687,N,Normal beat
+291009,N,Normal beat
+291343,N,Normal beat
+291531,V,Premature ventricular contraction
+291925,N,Normal beat
+292213,N,Normal beat
+292525,N,Normal beat
+292862,N,Normal beat
+293184,N,Normal beat
+293504,N,Normal beat
+293806,N,Normal beat
+294101,N,Normal beat
+294404,N,Normal beat
+294729,N,Normal beat
+295041,N,Normal beat
+295348,N,Normal beat
+295654,N,Normal beat
+295966,N,Normal beat
+296259,N,Normal beat
+296546,N,Normal beat
+296847,N,Normal beat
+297159,N,Normal beat
+297489,N,Normal beat
+297806,N,Normal beat
+298116,N,Normal beat
+298395,N,Normal beat
+298688,N,Normal beat
+298986,N,Normal beat
+299300,N,Normal beat
+299626,N,Normal beat
+299939,N,Normal beat
+300119,V,Premature ventricular contraction
+300530,N,Normal beat
+300839,N,Normal beat
+301150,N,Normal beat
+301462,N,Normal beat
+301772,N,Normal beat
+302086,N,Normal beat
+302390,N,Normal beat
+302682,N,Normal beat
+302976,N,Normal beat
+303291,N,Normal beat
+303600,N,Normal beat
+303924,N,Normal beat
+304256,N,Normal beat
+304575,N,Normal beat
+304860,N,Normal beat
+305161,N,Normal beat
+305483,N,Normal beat
+305816,N,Normal beat
+306163,N,Normal beat
+306495,N,Normal beat
+306819,N,Normal beat
+307115,N,Normal beat
+307448,N,Normal beat
+307815,N,Normal beat
+308172,N,Normal beat
+308495,N,Normal beat
+308809,N,Normal beat
+308982,V,Premature ventricular contraction
+309417,N,Normal beat
+309750,N,Normal beat
+310110,N,Normal beat
+310447,N,Normal beat
+310781,N,Normal beat
+311144,N,Normal beat
+311459,N,Normal beat
+311761,N,Normal beat
+311958,V,Premature ventricular contraction
+312453,N,Normal beat
+312783,N,Normal beat
+313097,N,Normal beat
+313417,N,Normal beat
+313726,N,Normal beat
+314033,N,Normal beat
+314374,N,Normal beat
+314733,N,Normal beat
+315078,N,Normal beat
+315377,N,Normal beat
+315690,N,Normal beat
+315997,N,Normal beat
+316326,N,Normal beat
+316678,N,Normal beat
+317012,N,Normal beat
+317317,N,Normal beat
+317608,N,Normal beat
+317939,N,Normal beat
+318258,N,Normal beat
+318582,N,Normal beat
+318898,N,Normal beat
+319112,V,Premature ventricular contraction
+319521,N,Normal beat
+319823,N,Normal beat
+320151,N,Normal beat
+320462,N,Normal beat
+320768,N,Normal beat
+321094,N,Normal beat
+321436,N,Normal beat
+321760,N,Normal beat
+322045,N,Normal beat
+322361,N,Normal beat
+322680,N,Normal beat
+323007,N,Normal beat
+323345,N,Normal beat
+323671,N,Normal beat
+323965,N,Normal beat
+324244,N,Normal beat
+324565,N,Normal beat
+324889,N,Normal beat
+325219,N,Normal beat
+325542,N,Normal beat
+325857,N,Normal beat
+326148,N,Normal beat
+326446,N,Normal beat
+326785,N,Normal beat
+327111,N,Normal beat
+327442,N,Normal beat
+327792,N,Normal beat
+328145,N,Normal beat
+328458,N,Normal beat
+328763,N,Normal beat
+329120,N,Normal beat
+329464,N,Normal beat
+329826,N,Normal beat
+330205,N,Normal beat
+330398,V,Premature ventricular contraction
+330837,N,Normal beat
+331165,N,Normal beat
+331552,N,Normal beat
+331919,N,Normal beat
+332291,N,Normal beat
+332634,N,Normal beat
+332940,N,Normal beat
+333258,N,Normal beat
+333692,N,Normal beat
+334046,N,Normal beat
+334412,N,Normal beat
+334754,N,Normal beat
+335068,N,Normal beat
+335392,N,Normal beat
+335752,N,Normal beat
+336136,N,Normal beat
+336468,N,Normal beat
+336792,N,Normal beat
+337108,N,Normal beat
+337429,N,Normal beat
+337753,N,Normal beat
+338108,N,Normal beat
+338448,N,Normal beat
+338793,N,Normal beat
+339124,N,Normal beat
+339418,N,Normal beat
+339723,N,Normal beat
+340035,N,Normal beat
+340393,N,Normal beat
+340743,N,Normal beat
+341065,N,Normal beat
+341370,N,Normal beat
+341529,V,Premature ventricular contraction
+341977,N,Normal beat
+342302,N,Normal beat
+342690,N,Normal beat
+343008,N,Normal beat
+343318,N,Normal beat
+343606,N,Normal beat
+343905,N,Normal beat
+344221,N,Normal beat
+344546,N,Normal beat
+344884,N,Normal beat
+345212,N,Normal beat
+345538,N,Normal beat
+345844,N,Normal beat
+346131,N,Normal beat
+346431,N,Normal beat
+346749,N,Normal beat
+347001,V,Premature ventricular contraction
+347405,N,Normal beat
+347708,N,Normal beat
+347999,N,Normal beat
+348287,N,Normal beat
+348601,N,Normal beat
+348927,N,Normal beat
+349282,N,Normal beat
+349585,N,Normal beat
+349888,N,Normal beat
+350178,N,Normal beat
+350475,N,Normal beat
+350801,N,Normal beat
+351130,N,Normal beat
+351487,N,Normal beat
+351802,N,Normal beat
+352136,N,Normal beat
+352449,N,Normal beat
+352765,N,Normal beat
+353082,N,Normal beat
+353418,N,Normal beat
+353763,N,Normal beat
+354083,N,Normal beat
+354403,N,Normal beat
+354717,N,Normal beat
+355029,N,Normal beat
+355364,N,Normal beat
+355800,N,Normal beat
+356168,N,Normal beat
+356462,N,Normal beat
+356761,N,Normal beat
+357073,N,Normal beat
+357393,N,Normal beat
+357720,N,Normal beat
+358097,N,Normal beat
+358423,N,Normal beat
+358713,N,Normal beat
+358918,V,Premature ventricular contraction
+359349,N,Normal beat
+359686,N,Normal beat
+360009,N,Normal beat
+360357,N,Normal beat
+360660,N,Normal beat
+360972,N,Normal beat
+361302,N,Normal beat
+361629,N,Normal beat
+361951,N,Normal beat
+362276,N,Normal beat
+362647,N,Normal beat
+362955,N,Normal beat
+363127,V,Premature ventricular contraction
+363573,N,Normal beat
+363916,N,Normal beat
+364239,N,Normal beat
+364587,N,Normal beat
+364933,N,Normal beat
+365225,N,Normal beat
+365382,V,Premature ventricular contraction
+365846,N,Normal beat
+366207,N,Normal beat
+366552,N,Normal beat
+366885,N,Normal beat
+367217,N,Normal beat
+367514,N,Normal beat
+367838,N,Normal beat
+368185,N,Normal beat
+368516,N,Normal beat
+368831,N,Normal beat
+369169,N,Normal beat
+369489,N,Normal beat
+369803,N,Normal beat
+370117,N,Normal beat
+370220,+,Rhythm change
+370323,V,Premature ventricular contraction
+370771,N,Normal beat
+370983,V,Premature ventricular contraction
+371451,N,Normal beat
+371634,V,Premature ventricular contraction
+371835,+,Rhythm change
+372037,N,Normal beat
+372333,N,Normal beat
+372732,N,Normal beat
+373069,N,Normal beat
+373397,N,Normal beat
+373723,N,Normal beat
+374020,N,Normal beat
+374358,N,Normal beat
+374589,V,Premature ventricular contraction
+375101,N,Normal beat
+375445,N,Normal beat
+375763,N,Normal beat
+376076,N,Normal beat
+376411,N,Normal beat
+376802,N,Normal beat
+377198,N,Normal beat
+377545,N,Normal beat
+377868,N,Normal beat
+378215,N,Normal beat
+378550,N,Normal beat
+378913,N,Normal beat
+379305,N,Normal beat
+379595,V,Premature ventricular contraction
+379994,N,Normal beat
+380326,N,Normal beat
+380636,N,Normal beat
+380959,N,Normal beat
+381315,N,Normal beat
+381650,N,Normal beat
+382002,N,Normal beat
+382310,N,Normal beat
+382629,N,Normal beat
+382927,N,Normal beat
+383276,N,Normal beat
+383645,N,Normal beat
+383991,N,Normal beat
+384296,N,Normal beat
+384596,N,Normal beat
+384895,N,Normal beat
+385112,V,Premature ventricular contraction
+385559,N,Normal beat
+385776,V,Premature ventricular contraction
+386210,N,Normal beat
+386519,N,Normal beat
+386830,N,Normal beat
+387140,N,Normal beat
+387451,N,Normal beat
+387776,N,Normal beat
+387976,V,Premature ventricular contraction
+388420,N,Normal beat
+388731,N,Normal beat
+389030,N,Normal beat
+389345,N,Normal beat
+389655,N,Normal beat
+390002,N,Normal beat
+390361,N,Normal beat
+390704,N,Normal beat
+390997,N,Normal beat
+391290,N,Normal beat
+391591,N,Normal beat
+391913,N,Normal beat
+392266,N,Normal beat
+392597,N,Normal beat
+392902,N,Normal beat
+393202,N,Normal beat
+393528,N,Normal beat
+393857,N,Normal beat
+394190,N,Normal beat
+394522,N,Normal beat
+394868,N,Normal beat
+395186,N,Normal beat
+395491,N,Normal beat
+395821,N,Normal beat
+396158,N,Normal beat
+396496,N,Normal beat
+396850,N,Normal beat
+397218,N,Normal beat
+397535,N,Normal beat
+397832,N,Normal beat
+398168,N,Normal beat
+398492,N,Normal beat
+398833,N,Normal beat
+399196,N,Normal beat
+399520,N,Normal beat
+399790,N,Normal beat
+400133,N,Normal beat
+400557,N,Normal beat
+400945,N,Normal beat
+401286,N,Normal beat
+401615,N,Normal beat
+401918,N,Normal beat
+402220,N,Normal beat
+402408,V,Premature ventricular contraction
+402966,N,Normal beat
+403327,N,Normal beat
+403660,N,Normal beat
+403979,N,Normal beat
+404289,N,Normal beat
+404614,N,Normal beat
+404971,N,Normal beat
+405316,N,Normal beat
+405641,N,Normal beat
+405970,N,Normal beat
+406276,N,Normal beat
+406572,N,Normal beat
+406883,N,Normal beat
+407227,N,Normal beat
+407590,N,Normal beat
+407926,N,Normal beat
+408224,N,Normal beat
+408510,N,Normal beat
+408816,N,Normal beat
+409142,N,Normal beat
+409348,V,Premature ventricular contraction
+409841,N,Normal beat
+410161,N,Normal beat
+410451,N,Normal beat
+410757,N,Normal beat
+411071,N,Normal beat
+411429,N,Normal beat
+411785,N,Normal beat
+412010,V,Premature ventricular contraction
+412422,N,Normal beat
+412618,V,Premature ventricular contraction
+413030,N,Normal beat
+413342,N,Normal beat
+413671,N,Normal beat
+414005,N,Normal beat
+414352,N,Normal beat
+414677,N,Normal beat
+414963,N,Normal beat
+415132,V,Premature ventricular contraction
+415576,N,Normal beat
+415938,N,Normal beat
+416305,N,Normal beat
+416639,N,Normal beat
+416946,N,Normal beat
+417238,N,Normal beat
+417573,N,Normal beat
+417940,N,Normal beat
+418207,V,Premature ventricular contraction
+418683,N,Normal beat
+419017,N,Normal beat
+419316,N,Normal beat
+419570,A,Atrial premature beat
+419978,N,Normal beat
+420322,N,Normal beat
+420713,N,Normal beat
+421055,N,Normal beat
+421383,N,Normal beat
+421706,N,Normal beat
+422031,N,Normal beat
+422395,N,Normal beat
+422805,N,Normal beat
+423212,N,Normal beat
+423554,N,Normal beat
+423873,N,Normal beat
+424206,N,Normal beat
+424565,N,Normal beat
+424987,N,Normal beat
+425404,N,Normal beat
+425729,N,Normal beat
+426041,N,Normal beat
+426363,N,Normal beat
+426711,N,Normal beat
+427091,N,Normal beat
+427496,N,Normal beat
+427828,N,Normal beat
+428136,N,Normal beat
+428478,N,Normal beat
+428836,N,Normal beat
+429185,N,Normal beat
+429529,N,Normal beat
+429865,N,Normal beat
+430176,N,Normal beat
+430498,N,Normal beat
+430833,N,Normal beat
+431168,N,Normal beat
+431501,N,Normal beat
+431859,N,Normal beat
+432181,N,Normal beat
+432487,N,Normal beat
+432800,N,Normal beat
+433130,N,Normal beat
+433457,N,Normal beat
+433789,N,Normal beat
+434123,N,Normal beat
+434429,N,Normal beat
+434729,N,Normal beat
+435058,N,Normal beat
+435293,V,Premature ventricular contraction
+435497,~,Signal quality change
+435745,N,Normal beat
+436051,N,Normal beat
+436370,N,Normal beat
+436652,N,Normal beat
+436958,N,Normal beat
+437284,N,Normal beat
+437603,N,Normal beat
+437916,N,Normal beat
+438109,V,Premature ventricular contraction
+438552,N,Normal beat
+438868,N,Normal beat
+439186,N,Normal beat
+439489,N,Normal beat
+439810,N,Normal beat
+440116,N,Normal beat
+440321,V,Premature ventricular contraction
+440792,N,Normal beat
+441105,N,Normal beat
+441410,N,Normal beat
+441613,V,Premature ventricular contraction
+442103,N,Normal beat
+442481,N,Normal beat
+442817,N,Normal beat
+443130,N,Normal beat
+443441,N,Normal beat
+443559,~,Signal quality change
+443748,N,Normal beat
+444070,N,Normal beat
+444304,V,Premature ventricular contraction
+444750,N,Normal beat
+445062,N,Normal beat
+445384,N,Normal beat
+445762,N,Normal beat
+446136,N,Normal beat
+446470,N,Normal beat
+446793,N,Normal beat
+447002,V,Premature ventricular contraction
+447381,N,Normal beat
+447709,N,Normal beat
+448059,N,Normal beat
+448391,N,Normal beat
+448711,N,Normal beat
+448916,V,Premature ventricular contraction
+449308,N,Normal beat
+449623,N,Normal beat
+449980,N,Normal beat
+450330,N,Normal beat
+450552,~,Signal quality change
+450650,N,Normal beat
+450942,N,Normal beat
+451248,N,Normal beat
+451537,N,Normal beat
+451847,N,Normal beat
+451982,~,Signal quality change
+452173,N,Normal beat
+452500,N,Normal beat
+452704,V,Premature ventricular contraction
+453095,N,Normal beat
+453430,N,Normal beat
+453718,N,Normal beat
+453987,N,Normal beat
+454287,N,Normal beat
+454510,V,Premature ventricular contraction
+454917,N,Normal beat
+455135,V,Premature ventricular contraction
+455513,N,Normal beat
+455795,N,Normal beat
+456055,N,Normal beat
+456339,N,Normal beat
+456688,N,Normal beat
+457013,N,Normal beat
+457342,N,Normal beat
+457637,N,Normal beat
+457921,N,Normal beat
+458183,N,Normal beat
+458476,N,Normal beat
+458817,N,Normal beat
+459091,V,Premature ventricular contraction
+459467,N,Normal beat
+459751,N,Normal beat
+460034,N,Normal beat
+460318,N,Normal beat
+460605,N,Normal beat
+460901,N,Normal beat
+461226,N,Normal beat
+461546,N,Normal beat
+461836,N,Normal beat
+462126,N,Normal beat
+462409,N,Normal beat
+462595,V,Premature ventricular contraction
+462987,N,Normal beat
+463310,N,Normal beat
+463677,N,Normal beat
+464040,N,Normal beat
+464360,N,Normal beat
+464458,+,Rhythm change
+464556,V,Premature ventricular contraction
+464918,N,Normal beat
+465156,V,Premature ventricular contraction
+465643,N,Normal beat
+465926,V,Premature ventricular contraction
+466148,+,Rhythm change
+466370,N,Normal beat
+466665,N,Normal beat
+466936,N,Normal beat
+467232,N,Normal beat
+467632,N,Normal beat
+467954,V,Premature ventricular contraction
+468125,"""",Comment annotation
+468558,N,Normal beat
+468869,N,Normal beat
+469165,N,Normal beat
+469517,N,Normal beat
+469936,N,Normal beat
+470324,N,Normal beat
+470473,+,Rhythm change
+470622,V,Premature ventricular contraction
+471026,N,Normal beat
+471218,V,Premature ventricular contraction
+471622,N,Normal beat
+471951,V,Premature ventricular contraction
+472120,"""",Comment annotation
+472224,+,Rhythm change
+472497,N,Normal beat
+472898,N,Normal beat
+473194,N,Normal beat
+473486,N,Normal beat
+473784,N,Normal beat
+474119,N,Normal beat
+474423,V,Premature ventricular contraction
+474628,"""",Comment annotation
+474916,N,Normal beat
+475246,N,Normal beat
+475517,N,Normal beat
+475704,V,Premature ventricular contraction
+476142,N,Normal beat
+476484,N,Normal beat
+476812,N,Normal beat
+477124,N,Normal beat
+477432,N,Normal beat
+477706,N,Normal beat
+477812,+,Rhythm change
+477919,V,Premature ventricular contraction
+478326,N,Normal beat
+478544,V,Premature ventricular contraction
+478967,N,Normal beat
+479180,V,Premature ventricular contraction
+479391,+,Rhythm change
+479602,N,Normal beat
+479895,N,Normal beat
+480202,N,Normal beat
+480496,N,Normal beat
+480793,N,Normal beat
+481091,N,Normal beat
+481400,N,Normal beat
+481729,N,Normal beat
+482019,N,Normal beat
+482242,V,Premature ventricular contraction
+482615,N,Normal beat
+482939,N,Normal beat
+483275,N,Normal beat
+483600,N,Normal beat
+483890,N,Normal beat
+484173,N,Normal beat
+484460,N,Normal beat
+484759,N,Normal beat
+485066,N,Normal beat
+485375,N,Normal beat
+485691,N,Normal beat
+485873,V,Premature ventricular contraction
+486267,N,Normal beat
+486583,N,Normal beat
+486906,N,Normal beat
+487211,N,Normal beat
+487520,N,Normal beat
+487849,N,Normal beat
+488141,N,Normal beat
+488448,N,Normal beat
+488781,N,Normal beat
+489125,N,Normal beat
+489440,N,Normal beat
+489758,N,Normal beat
+490136,N,Normal beat
+490463,N,Normal beat
+490796,N,Normal beat
+490951,~,Signal quality change
+491114,N,Normal beat
+491445,N,Normal beat
+491747,N,Normal beat
+492077,N,Normal beat
+492438,N,Normal beat
+492746,N,Normal beat
+492993,V,Premature ventricular contraction
+493430,N,Normal beat
+493845,N,Normal beat
+494229,N,Normal beat
+494573,N,Normal beat
+494880,N,Normal beat
+495204,N,Normal beat
+495569,N,Normal beat
+495927,N,Normal beat
+496273,N,Normal beat
+496383,~,Signal quality change
+496604,N,Normal beat
+496905,N,Normal beat
+497194,N,Normal beat
+497538,N,Normal beat
+497920,N,Normal beat
+498272,N,Normal beat
+498601,N,Normal beat
+498892,N,Normal beat
+499174,N,Normal beat
+499475,N,Normal beat
+499811,N,Normal beat
+500159,N,Normal beat
+500497,N,Normal beat
+500793,N,Normal beat
+500975,V,Premature ventricular contraction
+501402,N,Normal beat
+501711,N,Normal beat
+502037,N,Normal beat
+502377,N,Normal beat
+502699,N,Normal beat
+503008,N,Normal beat
+503188,V,Premature ventricular contraction
+503607,N,Normal beat
+503908,N,Normal beat
+504112,V,Premature ventricular contraction
+504546,N,Normal beat
+504898,N,Normal beat
+505216,N,Normal beat
+505507,N,Normal beat
+505596,+,Rhythm change
+505686,V,Premature ventricular contraction
+506047,N,Normal beat
+506260,V,Premature ventricular contraction
+506746,N,Normal beat
+506983,V,Premature ventricular contraction
+507386,N,Normal beat
+507572,V,Premature ventricular contraction
+507952,N,Normal beat
+508158,V,Premature ventricular contraction
+508601,N,Normal beat
+508845,V,Premature ventricular contraction
+509267,N,Normal beat
+509470,V,Premature ventricular contraction
+509854,N,Normal beat
+510056,V,Premature ventricular contraction
+510468,N,Normal beat
+510689,V,Premature ventricular contraction
+511171,N,Normal beat
+511390,V,Premature ventricular contraction
+511817,N,Normal beat
+512023,V,Premature ventricular contraction
+512428,N,Normal beat
+512627,V,Premature ventricular contraction
+513093,N,Normal beat
+513353,V,Premature ventricular contraction
+513805,N,Normal beat
+514029,V,Premature ventricular contraction
+514426,N,Normal beat
+514637,V,Premature ventricular contraction
+515050,N,Normal beat
+515318,V,Premature ventricular contraction
+515897,N,Normal beat
+516149,V,Premature ventricular contraction
+516541,N,Normal beat
+516761,V,Premature ventricular contraction
+517217,N,Normal beat
+517473,V,Premature ventricular contraction
+518009,N,Normal beat
+518265,V,Premature ventricular contraction
+518666,N,Normal beat
+518875,V,Premature ventricular contraction
+519327,N,Normal beat
+519580,V,Premature ventricular contraction
+520074,N,Normal beat
+520320,V,Premature ventricular contraction
+520721,N,Normal beat
+520918,V,Premature ventricular contraction
+521356,N,Normal beat
+521595,V,Premature ventricular contraction
+522050,N,Normal beat
+522281,V,Premature ventricular contraction
+522708,N,Normal beat
+522916,V,Premature ventricular contraction
+523329,N,Normal beat
+523564,V,Premature ventricular contraction
+523979,N,Normal beat
+524190,V,Premature ventricular contraction
+524605,N,Normal beat
+524826,V,Premature ventricular contraction
+525221,N,Normal beat
+525417,V,Premature ventricular contraction
+525849,N,Normal beat
+526058,V,Premature ventricular contraction
+526272,+,Rhythm change
+526487,N,Normal beat
+526818,N,Normal beat
+527125,N,Normal beat
+527393,N,Normal beat
+527677,N,Normal beat
+527902,V,Premature ventricular contraction
+528298,N,Normal beat
+528644,N,Normal beat
+528969,N,Normal beat
+529269,N,Normal beat
+529541,N,Normal beat
+529856,N,Normal beat
+530198,N,Normal beat
+530451,V,Premature ventricular contraction
+530597,~,Signal quality change
+530829,N,Normal beat
+531138,N,Normal beat
+531428,N,Normal beat
+531714,N,Normal beat
+532022,N,Normal beat
+532252,V,Premature ventricular contraction
+532643,N,Normal beat
+532977,N,Normal beat
+533301,N,Normal beat
+533494,V,Premature ventricular contraction
+533726,~,Signal quality change
+533873,N,Normal beat
+534059,V,Premature ventricular contraction
+534500,N,Normal beat
+534829,N,Normal beat
+535033,V,Premature ventricular contraction
+535485,N,Normal beat
+535792,N,Normal beat
+536057,A,Atrial premature beat
+536395,N,Normal beat
+536783,N,Normal beat
+537127,N,Normal beat
+537450,N,Normal beat
+537756,N,Normal beat
+538056,N,Normal beat
+538269,V,Premature ventricular contraction
+538700,N,Normal beat
+539092,N,Normal beat
+539432,N,Normal beat
+539676,~,Signal quality change
+539725,N,Normal beat
+540093,N,Normal beat
+540406,N,Normal beat
+540739,N,Normal beat
+541078,N,Normal beat
+541426,N,Normal beat
+541735,N,Normal beat
+541967,V,Premature ventricular contraction
+542358,N,Normal beat
+542562,V,Premature ventricular contraction
+542711,~,Signal quality change
+542955,N,Normal beat
+543277,N,Normal beat
+543639,N,Normal beat
+543977,N,Normal beat
+544278,N,Normal beat
+544546,N,Normal beat
+544864,N,Normal beat
+545166,N,Normal beat
+545497,N,Normal beat
+545835,N,Normal beat
+546145,N,Normal beat
+546435,N,Normal beat
+546672,~,Signal quality change
+546730,N,Normal beat
+547036,N,Normal beat
+547341,N,Normal beat
+547656,N,Normal beat
+547975,N,Normal beat
+548285,N,Normal beat
+548568,N,Normal beat
+548857,N,Normal beat
+549170,N,Normal beat
+549278,~,Signal quality change
+549467,N,Normal beat
+549754,N,Normal beat
+550088,N,Normal beat
+550413,N,Normal beat
+550719,N,Normal beat
+550907,V,Premature ventricular contraction
+551294,N,Normal beat
+551590,N,Normal beat
+551767,V,Premature ventricular contraction
+552221,N,Normal beat
+552554,N,Normal beat
+552845,N,Normal beat
+553126,N,Normal beat
+553420,N,Normal beat
+553688,N,Normal beat
+553876,V,Premature ventricular contraction
+554361,N,Normal beat
+554679,N,Normal beat
+554979,N,Normal beat
+555262,N,Normal beat
+555563,N,Normal beat
+555872,N,Normal beat
+556200,N,Normal beat
+556513,N,Normal beat
+556846,N,Normal beat
+557043,V,Premature ventricular contraction
+557465,N,Normal beat
+557732,N,Normal beat
+558082,N,Normal beat
+558424,N,Normal beat
+558761,N,Normal beat
+558965,V,Premature ventricular contraction
+559405,N,Normal beat
+559593,V,Premature ventricular contraction
+559989,N,Normal beat
+560310,N,Normal beat
+560669,N,Normal beat
+561042,N,Normal beat
+561362,N,Normal beat
+561664,N,Normal beat
+561961,N,Normal beat
+562281,N,Normal beat
+562621,N,Normal beat
+562990,N,Normal beat
+563351,N,Normal beat
+563647,N,Normal beat
+563854,V,Premature ventricular contraction
+564241,N,Normal beat
+564588,N,Normal beat
+564928,N,Normal beat
+565253,N,Normal beat
+565504,V,Premature ventricular contraction
+565892,N,Normal beat
+566193,N,Normal beat
+566494,N,Normal beat
+566829,N,Normal beat
+567049,V,Premature ventricular contraction
+567475,N,Normal beat
+567814,N,Normal beat
+568112,N,Normal beat
+568390,N,Normal beat
+568678,N,Normal beat
+569008,N,Normal beat
+569333,N,Normal beat
+569654,N,Normal beat
+569974,N,Normal beat
+570260,N,Normal beat
+570542,N,Normal beat
+570851,N,Normal beat
+571190,N,Normal beat
+571516,N,Normal beat
+571823,N,Normal beat
+572132,N,Normal beat
+572405,N,Normal beat
+572713,N,Normal beat
+573018,N,Normal beat
+573360,N,Normal beat
+573669,N,Normal beat
+573989,N,Normal beat
+574323,N,Normal beat
+574628,N,Normal beat
+574903,N,Normal beat
+575191,N,Normal beat
+575509,N,Normal beat
+575712,V,Premature ventricular contraction
+576151,N,Normal beat
+576480,N,Normal beat
+576773,N,Normal beat
+577056,N,Normal beat
+577359,N,Normal beat
+577637,N,Normal beat
+577749,+,Rhythm change
+577861,V,Premature ventricular contraction
+578357,N,Normal beat
+578561,V,Premature ventricular contraction
+578973,N,Normal beat
+579169,V,Premature ventricular contraction
+579377,+,Rhythm change
+579585,N,Normal beat
+579914,N,Normal beat
+580267,N,Normal beat
+580588,N,Normal beat
+580919,N,Normal beat
+581019,+,Rhythm change
+581119,V,Premature ventricular contraction
+581506,N,Normal beat
+581703,V,Premature ventricular contraction
+582141,N,Normal beat
+582359,V,Premature ventricular contraction
+582802,N,Normal beat
+583030,V,Premature ventricular contraction
+583426,N,Normal beat
+583614,V,Premature ventricular contraction
+584050,N,Normal beat
+584286,V,Premature ventricular contraction
+584527,+,Rhythm change
+584768,N,Normal beat
+585091,N,Normal beat
+585391,N,Normal beat
+585674,N,Normal beat
+585969,N,Normal beat
+586183,V,Premature ventricular contraction
+586622,N,Normal beat
+586855,V,Premature ventricular contraction
+587251,N,Normal beat
+587553,N,Normal beat
+587861,N,Normal beat
+588163,N,Normal beat
+588344,V,Premature ventricular contraction
+588769,N,Normal beat
+589093,N,Normal beat
+589401,N,Normal beat
+589703,N,Normal beat
+589992,N,Normal beat
+590276,N,Normal beat
+590567,N,Normal beat
+590838,N,Normal beat
+591229,N,Normal beat
+591543,N,Normal beat
+591829,N,Normal beat
+592009,V,Premature ventricular contraction
+592394,N,Normal beat
+592590,V,Premature ventricular contraction
+593012,N,Normal beat
+593333,N,Normal beat
+593640,N,Normal beat
+593922,N,Normal beat
+594215,N,Normal beat
+594513,N,Normal beat
+594703,V,Premature ventricular contraction
+595116,N,Normal beat
+595434,N,Normal beat
+595744,N,Normal beat
+596027,N,Normal beat
+596332,N,Normal beat
+596618,N,Normal beat
+596915,N,Normal beat
+597215,N,Normal beat
+597414,V,Premature ventricular contraction
+597879,N,Normal beat
+598077,V,Premature ventricular contraction
+598454,N,Normal beat
+598743,N,Normal beat
+599036,N,Normal beat
+599348,N,Normal beat
+599574,V,Premature ventricular contraction
+600012,N,Normal beat
+600198,V,Premature ventricular contraction
+600601,N,Normal beat
+600906,N,Normal beat
+601233,N,Normal beat
+601563,N,Normal beat
+601795,A,Atrial premature beat
+602185,N,Normal beat
+602407,V,Premature ventricular contraction
+602812,N,Normal beat
+603114,N,Normal beat
+603423,N,Normal beat
+603744,N,Normal beat
+603848,+,Rhythm change
+603952,V,Premature ventricular contraction
+604399,N,Normal beat
+604624,V,Premature ventricular contraction
+605029,N,Normal beat
+605215,V,Premature ventricular contraction
+605428,+,Rhythm change
+605641,N,Normal beat
+605973,N,Normal beat
+606293,N,Normal beat
+606651,N,Normal beat
+606959,N,Normal beat
+607236,N,Normal beat
+607528,N,Normal beat
+607855,N,Normal beat
+608184,N,Normal beat
+608464,N,Normal beat
+608824,N,Normal beat
+609128,N,Normal beat
+609418,N,Normal beat
+609720,N,Normal beat
+610057,N,Normal beat
+610162,+,Rhythm change
+610268,V,Premature ventricular contraction
+610682,N,Normal beat
+610887,V,Premature ventricular contraction
+611320,N,Normal beat
+611513,V,Premature ventricular contraction
+611927,N,Normal beat
+612128,V,Premature ventricular contraction
+612560,N,Normal beat
+612761,V,Premature ventricular contraction
+613192,N,Normal beat
+613414,V,Premature ventricular contraction
+613602,+,Rhythm change
+613790,N,Normal beat
+614086,N,Normal beat
+614409,N,Normal beat
+614753,N,Normal beat
+615072,N,Normal beat
+615374,N,Normal beat
+615556,V,Premature ventricular contraction
+615952,N,Normal beat
+616264,N,Normal beat
+616588,N,Normal beat
+616916,N,Normal beat
+617229,N,Normal beat
+617533,N,Normal beat
+617718,V,Premature ventricular contraction
+618137,N,Normal beat
+618441,N,Normal beat
+618746,N,Normal beat
+619053,N,Normal beat
+619364,N,Normal beat
+619672,N,Normal beat
+619990,N,Normal beat
+620265,N,Normal beat
+620558,N,Normal beat
+620744,V,Premature ventricular contraction
+621196,N,Normal beat
+621517,N,Normal beat
+621835,N,Normal beat
+622140,N,Normal beat
+622424,N,Normal beat
+622610,V,Premature ventricular contraction
+623048,N,Normal beat
+623401,N,Normal beat
+623726,N,Normal beat
+624040,N,Normal beat
+624358,N,Normal beat
+624662,N,Normal beat
+624868,V,Premature ventricular contraction
+625318,N,Normal beat
+625641,N,Normal beat
+625961,N,Normal beat
+626256,N,Normal beat
+626584,N,Normal beat
+626883,N,Normal beat
+627213,N,Normal beat
+627557,N,Normal beat
+627904,N,Normal beat
+628234,N,Normal beat
+628544,N,Normal beat
+628840,N,Normal beat
+629135,N,Normal beat
+629439,N,Normal beat
+629766,N,Normal beat
+630105,N,Normal beat
+630415,N,Normal beat
+630707,N,Normal beat
+631007,N,Normal beat
+631322,N,Normal beat
+631516,V,Premature ventricular contraction
+631980,N,Normal beat
+632211,V,Premature ventricular contraction
+632607,N,Normal beat
+632862,N,Normal beat
+633188,N,Normal beat
+633493,N,Normal beat
+633704,V,Premature ventricular contraction
+634110,N,Normal beat
+634421,N,Normal beat
+634754,N,Normal beat
+635045,N,Normal beat
+635340,N,Normal beat
+635619,N,Normal beat
+635929,N,Normal beat
+636241,N,Normal beat
+636558,N,Normal beat
+636876,N,Normal beat
+637153,N,Normal beat
+637446,N,Normal beat
+637638,V,Premature ventricular contraction
+638067,N,Normal beat
+638399,N,Normal beat
+638718,N,Normal beat
+639010,N,Normal beat
+639221,V,Premature ventricular contraction
+639584,N,Normal beat
+639764,V,Premature ventricular contraction
+640175,N,Normal beat
+640475,N,Normal beat
+640795,N,Normal beat
+641109,N,Normal beat
+641412,N,Normal beat
+641509,+,Rhythm change
+641606,V,Premature ventricular contraction
+641981,N,Normal beat
+642171,V,Premature ventricular contraction
+642586,N,Normal beat
+642801,V,Premature ventricular contraction
+643005,+,Rhythm change
+643210,N,Normal beat
+643516,N,Normal beat
+643801,N,Normal beat
+644094,N,Normal beat
+644398,N,Normal beat
+644738,N,Normal beat
+644941,V,Premature ventricular contraction
+645382,N,Normal beat
+645682,N,Normal beat
+645972,N,Normal beat
+646270,N,Normal beat
+646578,N,Normal beat
+646910,N,Normal beat
+647099,V,Premature ventricular contraction
+647513,N,Normal beat
+647846,N,Normal beat
+648052,V,Premature ventricular contraction
+648464,N,Normal beat
+648777,N,Normal beat
+649108,N,Normal beat
+649332,V,Premature ventricular contraction
+649761,N,Normal beat

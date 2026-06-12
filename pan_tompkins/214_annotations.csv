@@ -1,0 +1,2298 @@
+sample,symbol,description
+19,+,Rhythm change
+58,L,Left bundle branch block
+346,L,Left bundle branch block
+660,L,Left bundle branch block
+975,L,Left bundle branch block
+1290,L,Left bundle branch block
+1607,L,Left bundle branch block
+1905,L,Left bundle branch block
+2135,V,Premature ventricular contraction
+2479,L,Left bundle branch block
+2757,L,Left bundle branch block
+3073,L,Left bundle branch block
+3235,V,Premature ventricular contraction
+3694,L,Left bundle branch block
+3972,L,Left bundle branch block
+4231,L,Left bundle branch block
+4494,L,Left bundle branch block
+4767,L,Left bundle branch block
+5042,L,Left bundle branch block
+5321,L,Left bundle branch block
+5638,L,Left bundle branch block
+5960,L,Left bundle branch block
+6229,L,Left bundle branch block
+6489,L,Left bundle branch block
+6751,L,Left bundle branch block
+7032,L,Left bundle branch block
+7326,L,Left bundle branch block
+7621,L,Left bundle branch block
+7910,L,Left bundle branch block
+8210,L,Left bundle branch block
+8486,L,Left bundle branch block
+8743,L,Left bundle branch block
+9012,L,Left bundle branch block
+9293,L,Left bundle branch block
+9590,L,Left bundle branch block
+9900,L,Left bundle branch block
+10197,L,Left bundle branch block
+10473,L,Left bundle branch block
+10751,L,Left bundle branch block
+11018,L,Left bundle branch block
+11289,L,Left bundle branch block
+11571,L,Left bundle branch block
+11864,L,Left bundle branch block
+12167,L,Left bundle branch block
+12464,L,Left bundle branch block
+12666,V,Premature ventricular contraction
+13004,L,Left bundle branch block
+13273,L,Left bundle branch block
+13556,L,Left bundle branch block
+13839,L,Left bundle branch block
+14130,L,Left bundle branch block
+14427,L,Left bundle branch block
+14714,L,Left bundle branch block
+14993,L,Left bundle branch block
+15263,L,Left bundle branch block
+15528,L,Left bundle branch block
+15822,L,Left bundle branch block
+16130,L,Left bundle branch block
+16434,L,Left bundle branch block
+16731,L,Left bundle branch block
+17008,L,Left bundle branch block
+17278,L,Left bundle branch block
+17541,L,Left bundle branch block
+17810,L,Left bundle branch block
+18085,L,Left bundle branch block
+18390,L,Left bundle branch block
+18695,L,Left bundle branch block
+18988,L,Left bundle branch block
+19270,L,Left bundle branch block
+19542,L,Left bundle branch block
+19827,L,Left bundle branch block
+20117,L,Left bundle branch block
+20409,L,Left bundle branch block
+20706,L,Left bundle branch block
+21013,L,Left bundle branch block
+21288,L,Left bundle branch block
+21548,L,Left bundle branch block
+21809,L,Left bundle branch block
+22078,L,Left bundle branch block
+22373,L,Left bundle branch block
+22679,L,Left bundle branch block
+22977,L,Left bundle branch block
+23259,L,Left bundle branch block
+23534,L,Left bundle branch block
+23792,L,Left bundle branch block
+24044,L,Left bundle branch block
+24312,L,Left bundle branch block
+24591,L,Left bundle branch block
+24897,L,Left bundle branch block
+25261,L,Left bundle branch block
+25544,L,Left bundle branch block
+25807,L,Left bundle branch block
+26080,L,Left bundle branch block
+26347,L,Left bundle branch block
+26617,L,Left bundle branch block
+26900,L,Left bundle branch block
+27192,L,Left bundle branch block
+27496,L,Left bundle branch block
+27619,~,Signal quality change
+27778,L,Left bundle branch block
+27869,~,Signal quality change
+28035,L,Left bundle branch block
+28113,+,Rhythm change
+28191,V,Premature ventricular contraction
+28573,L,Left bundle branch block
+28858,L,Left bundle branch block
+29079,V,Premature ventricular contraction
+29231,~,Signal quality change
+29436,L,Left bundle branch block
+29714,L,Left bundle branch block
+29808,~,Signal quality change
+29866,V,Premature ventricular contraction
+30234,L,Left bundle branch block
+30478,L,Left bundle branch block
+30645,V,Premature ventricular contraction
+31003,L,Left bundle branch block
+31291,L,Left bundle branch block
+31486,V,Premature ventricular contraction
+31665,+,Rhythm change
+31844,L,Left bundle branch block
+32094,L,Left bundle branch block
+32332,L,Left bundle branch block
+32567,L,Left bundle branch block
+32813,L,Left bundle branch block
+33068,L,Left bundle branch block
+33328,L,Left bundle branch block
+33538,V,Premature ventricular contraction
+33957,L,Left bundle branch block
+34218,L,Left bundle branch block
+34479,L,Left bundle branch block
+34741,L,Left bundle branch block
+35021,L,Left bundle branch block
+35304,L,Left bundle branch block
+35594,L,Left bundle branch block
+35877,L,Left bundle branch block
+36171,L,Left bundle branch block
+36451,L,Left bundle branch block
+36715,L,Left bundle branch block
+36974,L,Left bundle branch block
+37237,L,Left bundle branch block
+37523,L,Left bundle branch block
+37812,L,Left bundle branch block
+38094,L,Left bundle branch block
+38360,L,Left bundle branch block
+38627,L,Left bundle branch block
+38876,L,Left bundle branch block
+39125,L,Left bundle branch block
+39381,L,Left bundle branch block
+39650,L,Left bundle branch block
+39936,L,Left bundle branch block
+40246,L,Left bundle branch block
+40398,V,Premature ventricular contraction
+40814,L,Left bundle branch block
+41083,L,Left bundle branch block
+41362,L,Left bundle branch block
+41644,L,Left bundle branch block
+41927,L,Left bundle branch block
+42234,L,Left bundle branch block
+42388,V,Premature ventricular contraction
+42865,L,Left bundle branch block
+43139,L,Left bundle branch block
+43409,L,Left bundle branch block
+43709,L,Left bundle branch block
+44006,L,Left bundle branch block
+44312,L,Left bundle branch block
+44623,L,Left bundle branch block
+44778,V,Premature ventricular contraction
+45214,L,Left bundle branch block
+45484,L,Left bundle branch block
+45759,L,Left bundle branch block
+45897,V,Premature ventricular contraction
+46371,L,Left bundle branch block
+46681,L,Left bundle branch block
+46986,L,Left bundle branch block
+47132,V,Premature ventricular contraction
+47535,L,Left bundle branch block
+47806,L,Left bundle branch block
+48083,L,Left bundle branch block
+48365,L,Left bundle branch block
+48657,L,Left bundle branch block
+48973,L,Left bundle branch block
+49254,L,Left bundle branch block
+49508,L,Left bundle branch block
+49753,L,Left bundle branch block
+50016,L,Left bundle branch block
+50211,|,Isolated QRS-like artifact
+50287,L,Left bundle branch block
+50581,L,Left bundle branch block
+50881,L,Left bundle branch block
+51177,L,Left bundle branch block
+51472,L,Left bundle branch block
+51614,V,Premature ventricular contraction
+52011,L,Left bundle branch block
+52273,L,Left bundle branch block
+52537,L,Left bundle branch block
+52826,L,Left bundle branch block
+53114,L,Left bundle branch block
+53312,V,Premature ventricular contraction
+53667,L,Left bundle branch block
+53926,L,Left bundle branch block
+54186,L,Left bundle branch block
+54438,L,Left bundle branch block
+54707,L,Left bundle branch block
+54989,L,Left bundle branch block
+55281,L,Left bundle branch block
+55582,L,Left bundle branch block
+55869,L,Left bundle branch block
+55999,V,Premature ventricular contraction
+56435,L,Left bundle branch block
+56722,L,Left bundle branch block
+56928,V,Premature ventricular contraction
+57342,L,Left bundle branch block
+57641,L,Left bundle branch block
+57937,L,Left bundle branch block
+58096,V,Premature ventricular contraction
+58244,V,Premature ventricular contraction
+58698,L,Left bundle branch block
+58990,L,Left bundle branch block
+59284,L,Left bundle branch block
+59569,L,Left bundle branch block
+59856,L,Left bundle branch block
+60126,L,Left bundle branch block
+60391,L,Left bundle branch block
+60657,L,Left bundle branch block
+60830,V,Premature ventricular contraction
+61236,L,Left bundle branch block
+61544,L,Left bundle branch block
+61861,L,Left bundle branch block
+62098,V,Premature ventricular contraction
+62452,L,Left bundle branch block
+62721,L,Left bundle branch block
+62924,V,Premature ventricular contraction
+63296,L,Left bundle branch block
+63579,L,Left bundle branch block
+63890,L,Left bundle branch block
+64204,L,Left bundle branch block
+64489,L,Left bundle branch block
+64764,L,Left bundle branch block
+65036,L,Left bundle branch block
+65329,L,Left bundle branch block
+65636,L,Left bundle branch block
+65950,L,Left bundle branch block
+66276,L,Left bundle branch block
+66592,L,Left bundle branch block
+66877,L,Left bundle branch block
+67152,L,Left bundle branch block
+67434,L,Left bundle branch block
+67582,V,Premature ventricular contraction
+68060,L,Left bundle branch block
+68365,L,Left bundle branch block
+68654,L,Left bundle branch block
+68936,L,Left bundle branch block
+69200,L,Left bundle branch block
+69332,V,Premature ventricular contraction
+69730,L,Left bundle branch block
+70009,L,Left bundle branch block
+70296,L,Left bundle branch block
+70584,L,Left bundle branch block
+70852,L,Left bundle branch block
+71102,L,Left bundle branch block
+71352,L,Left bundle branch block
+71516,V,Premature ventricular contraction
+71861,L,Left bundle branch block
+72119,L,Left bundle branch block
+72389,L,Left bundle branch block
+72660,L,Left bundle branch block
+72925,L,Left bundle branch block
+73099,V,Premature ventricular contraction
+73411,L,Left bundle branch block
+73645,L,Left bundle branch block
+73898,L,Left bundle branch block
+74147,L,Left bundle branch block
+74407,L,Left bundle branch block
+74661,L,Left bundle branch block
+74924,L,Left bundle branch block
+75174,L,Left bundle branch block
+75422,L,Left bundle branch block
+75658,L,Left bundle branch block
+75897,L,Left bundle branch block
+76155,L,Left bundle branch block
+76338,V,Premature ventricular contraction
+76757,L,Left bundle branch block
+77048,L,Left bundle branch block
+77341,L,Left bundle branch block
+77617,L,Left bundle branch block
+77886,L,Left bundle branch block
+78157,L,Left bundle branch block
+78383,V,Premature ventricular contraction
+78717,L,Left bundle branch block
+79027,L,Left bundle branch block
+79327,L,Left bundle branch block
+79503,V,Premature ventricular contraction
+79867,L,Left bundle branch block
+80121,L,Left bundle branch block
+80399,L,Left bundle branch block
+80679,L,Left bundle branch block
+80827,V,Premature ventricular contraction
+81259,L,Left bundle branch block
+81559,L,Left bundle branch block
+81833,L,Left bundle branch block
+82089,L,Left bundle branch block
+82347,L,Left bundle branch block
+82494,V,Premature ventricular contraction
+82906,L,Left bundle branch block
+83209,L,Left bundle branch block
+83503,L,Left bundle branch block
+83780,L,Left bundle branch block
+84058,L,Left bundle branch block
+84326,L,Left bundle branch block
+84595,L,Left bundle branch block
+84872,L,Left bundle branch block
+85168,L,Left bundle branch block
+85483,L,Left bundle branch block
+85807,L,Left bundle branch block
+86101,L,Left bundle branch block
+86240,V,Premature ventricular contraction
+86412,V,Premature ventricular contraction
+86921,L,Left bundle branch block
+87216,L,Left bundle branch block
+87461,|,Isolated QRS-like artifact
+87512,L,Left bundle branch block
+87804,L,Left bundle branch block
+88098,L,Left bundle branch block
+88377,L,Left bundle branch block
+88642,L,Left bundle branch block
+88905,L,Left bundle branch block
+89194,L,Left bundle branch block
+89485,L,Left bundle branch block
+89776,L,Left bundle branch block
+90061,L,Left bundle branch block
+90338,L,Left bundle branch block
+90597,L,Left bundle branch block
+90855,L,Left bundle branch block
+91106,L,Left bundle branch block
+91176,+,Rhythm change
+91247,V,Premature ventricular contraction
+91627,L,Left bundle branch block
+91913,L,Left bundle branch block
+92063,V,Premature ventricular contraction
+92452,L,Left bundle branch block
+92701,L,Left bundle branch block
+92832,V,Premature ventricular contraction
+93198,L,Left bundle branch block
+93462,L,Left bundle branch block
+93610,V,Premature ventricular contraction
+93819,+,Rhythm change
+94028,L,Left bundle branch block
+94336,L,Left bundle branch block
+94634,L,Left bundle branch block
+94896,L,Left bundle branch block
+95164,L,Left bundle branch block
+95434,L,Left bundle branch block
+95729,L,Left bundle branch block
+96040,L,Left bundle branch block
+96349,L,Left bundle branch block
+96505,V,Premature ventricular contraction
+96973,L,Left bundle branch block
+97255,L,Left bundle branch block
+97540,L,Left bundle branch block
+97711,V,Premature ventricular contraction
+98166,L,Left bundle branch block
+98489,L,Left bundle branch block
+98802,L,Left bundle branch block
+99092,L,Left bundle branch block
+99235,V,Premature ventricular contraction
+99667,L,Left bundle branch block
+99950,L,Left bundle branch block
+100246,L,Left bundle branch block
+100545,L,Left bundle branch block
+100867,L,Left bundle branch block
+101163,L,Left bundle branch block
+101441,L,Left bundle branch block
+101725,L,Left bundle branch block
+102021,L,Left bundle branch block
+102320,L,Left bundle branch block
+102624,L,Left bundle branch block
+102931,L,Left bundle branch block
+103242,L,Left bundle branch block
+103525,L,Left bundle branch block
+103782,L,Left bundle branch block
+104049,L,Left bundle branch block
+104341,L,Left bundle branch block
+104635,L,Left bundle branch block
+104938,L,Left bundle branch block
+105244,L,Left bundle branch block
+105528,L,Left bundle branch block
+105815,L,Left bundle branch block
+106096,L,Left bundle branch block
+106382,L,Left bundle branch block
+106560,V,Premature ventricular contraction
+106750,V,Premature ventricular contraction
+107306,L,Left bundle branch block
+107609,L,Left bundle branch block
+107790,V,Premature ventricular contraction
+108162,L,Left bundle branch block
+108447,L,Left bundle branch block
+108718,L,Left bundle branch block
+108995,L,Left bundle branch block
+109287,L,Left bundle branch block
+109584,L,Left bundle branch block
+109857,L,Left bundle branch block
+110106,L,Left bundle branch block
+110367,L,Left bundle branch block
+110637,L,Left bundle branch block
+110931,L,Left bundle branch block
+111241,L,Left bundle branch block
+111544,L,Left bundle branch block
+111860,L,Left bundle branch block
+112157,L,Left bundle branch block
+112433,L,Left bundle branch block
+112575,V,Premature ventricular contraction
+113050,Q,Unclassifiable beat
+113293,"""",Comment annotation
+113585,Q,Unclassifiable beat
+114075,L,Left bundle branch block
+114360,L,Left bundle branch block
+114646,L,Left bundle branch block
+114953,L,Left bundle branch block
+115274,L,Left bundle branch block
+115419,V,Premature ventricular contraction
+115894,L,Left bundle branch block
+116196,L,Left bundle branch block
+116483,L,Left bundle branch block
+116621,V,Premature ventricular contraction
+117028,L,Left bundle branch block
+117310,L,Left bundle branch block
+117614,L,Left bundle branch block
+117908,L,Left bundle branch block
+118193,L,Left bundle branch block
+118477,L,Left bundle branch block
+118753,L,Left bundle branch block
+119024,L,Left bundle branch block
+119303,L,Left bundle branch block
+119477,V,Premature ventricular contraction
+119897,L,Left bundle branch block
+120207,L,Left bundle branch block
+120509,L,Left bundle branch block
+120776,L,Left bundle branch block
+121047,L,Left bundle branch block
+121325,L,Left bundle branch block
+121613,L,Left bundle branch block
+121910,L,Left bundle branch block
+122207,L,Left bundle branch block
+122522,L,Left bundle branch block
+122824,L,Left bundle branch block
+123097,L,Left bundle branch block
+123155,+,Rhythm change
+123234,V,Premature ventricular contraction
+123408,V,Premature ventricular contraction
+123530,V,Premature ventricular contraction
+123977,+,Rhythm change
+124072,L,Left bundle branch block
+124377,L,Left bundle branch block
+124673,L,Left bundle branch block
+124955,L,Left bundle branch block
+125223,L,Left bundle branch block
+125305,+,Rhythm change
+125388,V,Premature ventricular contraction
+125748,L,Left bundle branch block
+126025,L,Left bundle branch block
+126229,V,Premature ventricular contraction
+126612,L,Left bundle branch block
+126899,L,Left bundle branch block
+127075,V,Premature ventricular contraction
+127250,+,Rhythm change
+127426,L,Left bundle branch block
+127683,L,Left bundle branch block
+127947,L,Left bundle branch block
+128205,L,Left bundle branch block
+128482,L,Left bundle branch block
+128757,L,Left bundle branch block
+128947,V,Premature ventricular contraction
+129334,L,Left bundle branch block
+129585,L,Left bundle branch block
+129714,V,Premature ventricular contraction
+130130,L,Left bundle branch block
+130416,L,Left bundle branch block
+130710,L,Left bundle branch block
+131000,L,Left bundle branch block
+131291,L,Left bundle branch block
+131574,L,Left bundle branch block
+131856,L,Left bundle branch block
+132135,L,Left bundle branch block
+132420,L,Left bundle branch block
+132752,L,Left bundle branch block
+133086,L,Left bundle branch block
+133402,L,Left bundle branch block
+133702,L,Left bundle branch block
+133984,L,Left bundle branch block
+134126,V,Premature ventricular contraction
+134606,L,Left bundle branch block
+134919,L,Left bundle branch block
+135267,L,Left bundle branch block
+135590,L,Left bundle branch block
+135870,L,Left bundle branch block
+136140,L,Left bundle branch block
+136405,L,Left bundle branch block
+136681,L,Left bundle branch block
+136962,L,Left bundle branch block
+137249,L,Left bundle branch block
+137536,L,Left bundle branch block
+137832,L,Left bundle branch block
+138095,L,Left bundle branch block
+138344,L,Left bundle branch block
+138605,L,Left bundle branch block
+138877,L,Left bundle branch block
+139179,L,Left bundle branch block
+139491,L,Left bundle branch block
+139798,L,Left bundle branch block
+140098,L,Left bundle branch block
+140391,L,Left bundle branch block
+140532,V,Premature ventricular contraction
+140972,L,Left bundle branch block
+141280,L,Left bundle branch block
+141608,L,Left bundle branch block
+141814,V,Premature ventricular contraction
+142251,L,Left bundle branch block
+142548,L,Left bundle branch block
+142838,L,Left bundle branch block
+143134,L,Left bundle branch block
+143438,L,Left bundle branch block
+143751,L,Left bundle branch block
+144079,L,Left bundle branch block
+144399,L,Left bundle branch block
+144682,L,Left bundle branch block
+144819,V,Premature ventricular contraction
+145286,L,Left bundle branch block
+145600,L,Left bundle branch block
+145916,L,Left bundle branch block
+146227,L,Left bundle branch block
+146527,L,Left bundle branch block
+146816,L,Left bundle branch block
+147089,L,Left bundle branch block
+147372,L,Left bundle branch block
+147571,V,Premature ventricular contraction
+148014,L,Left bundle branch block
+148328,L,Left bundle branch block
+148625,L,Left bundle branch block
+148781,V,Premature ventricular contraction
+149183,L,Left bundle branch block
+149469,L,Left bundle branch block
+149751,L,Left bundle branch block
+150041,L,Left bundle branch block
+150364,L,Left bundle branch block
+150677,L,Left bundle branch block
+150966,L,Left bundle branch block
+151250,L,Left bundle branch block
+151540,L,Left bundle branch block
+151848,L,Left bundle branch block
+152164,L,Left bundle branch block
+152468,L,Left bundle branch block
+152650,|,Isolated QRS-like artifact
+152789,L,Left bundle branch block
+153086,L,Left bundle branch block
+153232,V,Premature ventricular contraction
+153641,L,Left bundle branch block
+153928,L,Left bundle branch block
+154222,L,Left bundle branch block
+154529,L,Left bundle branch block
+154825,L,Left bundle branch block
+155099,L,Left bundle branch block
+155363,L,Left bundle branch block
+155617,L,Left bundle branch block
+155867,L,Left bundle branch block
+156035,V,Premature ventricular contraction
+156372,L,Left bundle branch block
+156632,L,Left bundle branch block
+156908,L,Left bundle branch block
+157188,L,Left bundle branch block
+157447,L,Left bundle branch block
+157695,L,Left bundle branch block
+157962,L,Left bundle branch block
+158244,L,Left bundle branch block
+158537,L,Left bundle branch block
+158843,L,Left bundle branch block
+159155,L,Left bundle branch block
+159465,L,Left bundle branch block
+159614,V,Premature ventricular contraction
+160047,L,Left bundle branch block
+160343,L,Left bundle branch block
+160663,L,Left bundle branch block
+160845,V,Premature ventricular contraction
+161291,L,Left bundle branch block
+161592,L,Left bundle branch block
+161872,L,Left bundle branch block
+162138,L,Left bundle branch block
+162401,L,Left bundle branch block
+162670,L,Left bundle branch block
+162873,V,Premature ventricular contraction
+163303,L,Left bundle branch block
+163621,L,Left bundle branch block
+163925,L,Left bundle branch block
+164210,L,Left bundle branch block
+164496,L,Left bundle branch block
+164799,L,Left bundle branch block
+164956,V,Premature ventricular contraction
+165412,L,Left bundle branch block
+165739,L,Left bundle branch block
+166033,L,Left bundle branch block
+166293,L,Left bundle branch block
+166557,L,Left bundle branch block
+166720,V,Premature ventricular contraction
+167129,L,Left bundle branch block
+167441,L,Left bundle branch block
+167736,L,Left bundle branch block
+167898,|,Isolated QRS-like artifact
+168034,L,Left bundle branch block
+168309,L,Left bundle branch block
+168575,L,Left bundle branch block
+168740,V,Premature ventricular contraction
+169123,L,Left bundle branch block
+169413,L,Left bundle branch block
+169712,L,Left bundle branch block
+170001,L,Left bundle branch block
+170268,L,Left bundle branch block
+170526,L,Left bundle branch block
+170777,L,Left bundle branch block
+171035,L,Left bundle branch block
+171292,L,Left bundle branch block
+171484,V,Premature ventricular contraction
+171847,L,Left bundle branch block
+172139,L,Left bundle branch block
+172425,L,Left bundle branch block
+172685,L,Left bundle branch block
+172819,V,Premature ventricular contraction
+173230,L,Left bundle branch block
+173507,L,Left bundle branch block
+173798,L,Left bundle branch block
+174098,L,Left bundle branch block
+174399,L,Left bundle branch block
+174690,L,Left bundle branch block
+174963,L,Left bundle branch block
+175229,L,Left bundle branch block
+175523,L,Left bundle branch block
+175842,L,Left bundle branch block
+176161,L,Left bundle branch block
+176470,L,Left bundle branch block
+176786,L,Left bundle branch block
+177079,L,Left bundle branch block
+177374,L,Left bundle branch block
+177676,L,Left bundle branch block
+177988,L,Left bundle branch block
+178155,V,Premature ventricular contraction
+178655,L,Left bundle branch block
+178855,V,Premature ventricular contraction
+179230,L,Left bundle branch block
+179500,L,Left bundle branch block
+179777,L,Left bundle branch block
+180058,L,Left bundle branch block
+180342,L,Left bundle branch block
+180640,L,Left bundle branch block
+180809,|,Isolated QRS-like artifact
+180933,L,Left bundle branch block
+181208,L,Left bundle branch block
+181348,V,Premature ventricular contraction
+181730,L,Left bundle branch block
+182004,L,Left bundle branch block
+182290,L,Left bundle branch block
+182571,L,Left bundle branch block
+182844,L,Left bundle branch block
+183124,L,Left bundle branch block
+183386,L,Left bundle branch block
+183634,L,Left bundle branch block
+183873,L,Left bundle branch block
+184047,V,Premature ventricular contraction
+184389,L,Left bundle branch block
+184667,L,Left bundle branch block
+184942,L,Left bundle branch block
+185210,L,Left bundle branch block
+185464,L,Left bundle branch block
+185720,L,Left bundle branch block
+185966,L,Left bundle branch block
+186228,L,Left bundle branch block
+186505,L,Left bundle branch block
+186796,L,Left bundle branch block
+187107,L,Left bundle branch block
+187420,L,Left bundle branch block
+187699,L,Left bundle branch block
+187965,L,Left bundle branch block
+188246,L,Left bundle branch block
+188521,L,Left bundle branch block
+188802,L,Left bundle branch block
+189088,L,Left bundle branch block
+189372,L,Left bundle branch block
+189651,L,Left bundle branch block
+189918,L,Left bundle branch block
+190163,L,Left bundle branch block
+190323,V,Premature ventricular contraction
+190674,L,Left bundle branch block
+190957,L,Left bundle branch block
+191239,L,Left bundle branch block
+191514,L,Left bundle branch block
+191786,L,Left bundle branch block
+191950,V,Premature ventricular contraction
+192300,L,Left bundle branch block
+192556,L,Left bundle branch block
+192822,L,Left bundle branch block
+193092,L,Left bundle branch block
+193395,L,Left bundle branch block
+193577,V,Premature ventricular contraction
+193986,L,Left bundle branch block
+194255,L,Left bundle branch block
+194523,L,Left bundle branch block
+194800,L,Left bundle branch block
+195090,L,Left bundle branch block
+195178,+,Rhythm change
+195266,V,Premature ventricular contraction
+195671,L,Left bundle branch block
+195989,L,Left bundle branch block
+196175,V,Premature ventricular contraction
+196534,L,Left bundle branch block
+196795,L,Left bundle branch block
+196970,V,Premature ventricular contraction
+197344,L,Left bundle branch block
+197626,L,Left bundle branch block
+197819,V,Premature ventricular contraction
+197999,+,Rhythm change
+198179,L,Left bundle branch block
+198452,L,Left bundle branch block
+198702,L,Left bundle branch block
+198943,L,Left bundle branch block
+199194,L,Left bundle branch block
+199370,V,Premature ventricular contraction
+199724,L,Left bundle branch block
+200005,L,Left bundle branch block
+200274,L,Left bundle branch block
+200523,L,Left bundle branch block
+200764,L,Left bundle branch block
+200935,V,Premature ventricular contraction
+201266,L,Left bundle branch block
+201511,L,Left bundle branch block
+201776,L,Left bundle branch block
+202044,L,Left bundle branch block
+202324,L,Left bundle branch block
+202519,V,Premature ventricular contraction
+202863,L,Left bundle branch block
+203108,L,Left bundle branch block
+203247,V,Premature ventricular contraction
+203653,L,Left bundle branch block
+203936,L,Left bundle branch block
+204225,L,Left bundle branch block
+204517,L,Left bundle branch block
+204810,L,Left bundle branch block
+205078,L,Left bundle branch block
+205335,L,Left bundle branch block
+205591,L,Left bundle branch block
+205871,L,Left bundle branch block
+206168,L,Left bundle branch block
+206470,L,Left bundle branch block
+206752,L,Left bundle branch block
+207022,L,Left bundle branch block
+207276,L,Left bundle branch block
+207526,L,Left bundle branch block
+207774,L,Left bundle branch block
+208025,L,Left bundle branch block
+208292,L,Left bundle branch block
+208580,L,Left bundle branch block
+208856,L,Left bundle branch block
+209110,L,Left bundle branch block
+209351,L,Left bundle branch block
+209581,L,Left bundle branch block
+209822,L,Left bundle branch block
+210086,L,Left bundle branch block
+210344,L,Left bundle branch block
+210607,L,Left bundle branch block
+210893,L,Left bundle branch block
+211184,L,Left bundle branch block
+211450,L,Left bundle branch block
+211697,L,Left bundle branch block
+211958,L,Left bundle branch block
+212226,L,Left bundle branch block
+212397,V,Premature ventricular contraction
+212826,L,Left bundle branch block
+213107,L,Left bundle branch block
+213412,L,Left bundle branch block
+213690,L,Left bundle branch block
+213951,L,Left bundle branch block
+214221,L,Left bundle branch block
+214502,L,Left bundle branch block
+214803,L,Left bundle branch block
+215115,L,Left bundle branch block
+215411,L,Left bundle branch block
+215689,L,Left bundle branch block
+215968,L,Left bundle branch block
+216242,L,Left bundle branch block
+216515,L,Left bundle branch block
+216798,L,Left bundle branch block
+217091,L,Left bundle branch block
+217391,L,Left bundle branch block
+217692,L,Left bundle branch block
+217967,L,Left bundle branch block
+218226,L,Left bundle branch block
+218509,L,Left bundle branch block
+218710,V,Premature ventricular contraction
+219087,L,Left bundle branch block
+219383,L,Left bundle branch block
+219675,L,Left bundle branch block
+219968,L,Left bundle branch block
+220237,L,Left bundle branch block
+220501,L,Left bundle branch block
+220776,L,Left bundle branch block
+221077,L,Left bundle branch block
+221388,L,Left bundle branch block
+221686,L,Left bundle branch block
+221994,L,Left bundle branch block
+222286,L,Left bundle branch block
+222570,L,Left bundle branch block
+222856,L,Left bundle branch block
+223147,L,Left bundle branch block
+223463,L,Left bundle branch block
+223628,V,Premature ventricular contraction
+224117,L,Left bundle branch block
+224414,L,Left bundle branch block
+224690,L,Left bundle branch block
+224981,L,Left bundle branch block
+225279,L,Left bundle branch block
+225428,V,Premature ventricular contraction
+225908,L,Left bundle branch block
+226234,L,Left bundle branch block
+226529,L,Left bundle branch block
+226665,V,Premature ventricular contraction
+227094,L,Left bundle branch block
+227376,L,Left bundle branch block
+227692,L,Left bundle branch block
+227997,L,Left bundle branch block
+228309,L,Left bundle branch block
+228617,L,Left bundle branch block
+228900,L,Left bundle branch block
+229180,L,Left bundle branch block
+229463,L,Left bundle branch block
+229765,L,Left bundle branch block
+230080,L,Left bundle branch block
+230403,L,Left bundle branch block
+230708,L,Left bundle branch block
+230990,L,Left bundle branch block
+231280,L,Left bundle branch block
+231418,V,Premature ventricular contraction
+231861,L,Left bundle branch block
+232167,L,Left bundle branch block
+232460,L,Left bundle branch block
+232551,+,Rhythm change
+232643,V,Premature ventricular contraction
+233054,L,Left bundle branch block
+233312,L,Left bundle branch block
+233503,V,Premature ventricular contraction
+233868,L,Left bundle branch block
+234154,L,Left bundle branch block
+234340,V,Premature ventricular contraction
+234742,L,Left bundle branch block
+235022,L,Left bundle branch block
+235192,V,Premature ventricular contraction
+235560,L,Left bundle branch block
+235813,L,Left bundle branch block
+235979,V,Premature ventricular contraction
+236178,+,Rhythm change
+236377,L,Left bundle branch block
+236673,L,Left bundle branch block
+236959,L,Left bundle branch block
+237240,L,Left bundle branch block
+237498,L,Left bundle branch block
+237757,L,Left bundle branch block
+238024,L,Left bundle branch block
+238289,L,Left bundle branch block
+238578,L,Left bundle branch block
+238779,V,Premature ventricular contraction
+239216,L,Left bundle branch block
+239491,L,Left bundle branch block
+239768,L,Left bundle branch block
+240040,L,Left bundle branch block
+240337,L,Left bundle branch block
+240637,L,Left bundle branch block
+240946,L,Left bundle branch block
+241273,L,Left bundle branch block
+241590,L,Left bundle branch block
+241878,L,Left bundle branch block
+242015,V,Premature ventricular contraction
+242482,L,Left bundle branch block
+242810,L,Left bundle branch block
+243148,L,Left bundle branch block
+243476,L,Left bundle branch block
+243804,L,Left bundle branch block
+244100,L,Left bundle branch block
+244388,L,Left bundle branch block
+244687,L,Left bundle branch block
+244832,V,Premature ventricular contraction
+245346,L,Left bundle branch block
+245662,L,Left bundle branch block
+245952,L,Left bundle branch block
+246228,L,Left bundle branch block
+246503,L,Left bundle branch block
+246788,L,Left bundle branch block
+247079,L,Left bundle branch block
+247240,V,Premature ventricular contraction
+247709,L,Left bundle branch block
+248013,L,Left bundle branch block
+248293,L,Left bundle branch block
+248562,L,Left bundle branch block
+248854,L,Left bundle branch block
+249022,V,Premature ventricular contraction
+249440,L,Left bundle branch block
+249731,L,Left bundle branch block
+250028,L,Left bundle branch block
+250310,L,Left bundle branch block
+250573,L,Left bundle branch block
+250832,L,Left bundle branch block
+251106,L,Left bundle branch block
+251412,L,Left bundle branch block
+251716,L,Left bundle branch block
+252008,L,Left bundle branch block
+252311,L,Left bundle branch block
+252590,L,Left bundle branch block
+252874,L,Left bundle branch block
+253014,V,Premature ventricular contraction
+253451,L,Left bundle branch block
+253766,L,Left bundle branch block
+254082,L,Left bundle branch block
+254245,V,Premature ventricular contraction
+254664,L,Left bundle branch block
+254932,L,Left bundle branch block
+255201,L,Left bundle branch block
+255481,L,Left bundle branch block
+255754,L,Left bundle branch block
+255899,V,Premature ventricular contraction
+256329,L,Left bundle branch block
+256616,L,Left bundle branch block
+256875,L,Left bundle branch block
+257128,L,Left bundle branch block
+257389,L,Left bundle branch block
+257659,L,Left bundle branch block
+257952,L,Left bundle branch block
+258244,L,Left bundle branch block
+258534,L,Left bundle branch block
+258691,V,Premature ventricular contraction
+259125,L,Left bundle branch block
+259393,L,Left bundle branch block
+259669,L,Left bundle branch block
+259954,L,Left bundle branch block
+260256,L,Left bundle branch block
+260566,L,Left bundle branch block
+260870,L,Left bundle branch block
+261153,L,Left bundle branch block
+261438,L,Left bundle branch block
+261715,L,Left bundle branch block
+261999,L,Left bundle branch block
+262296,L,Left bundle branch block
+262598,L,Left bundle branch block
+262911,L,Left bundle branch block
+263205,L,Left bundle branch block
+263471,L,Left bundle branch block
+263735,L,Left bundle branch block
+263882,V,Premature ventricular contraction
+264313,L,Left bundle branch block
+264599,L,Left bundle branch block
+264889,L,Left bundle branch block
+265180,L,Left bundle branch block
+265462,L,Left bundle branch block
+265726,L,Left bundle branch block
+265993,L,Left bundle branch block
+266269,L,Left bundle branch block
+266574,L,Left bundle branch block
+266891,L,Left bundle branch block
+267194,L,Left bundle branch block
+267500,L,Left bundle branch block
+267781,L,Left bundle branch block
+268065,L,Left bundle branch block
+268357,L,Left bundle branch block
+268650,L,Left bundle branch block
+268975,L,Left bundle branch block
+269305,L,Left bundle branch block
+269620,L,Left bundle branch block
+269918,L,Left bundle branch block
+270201,L,Left bundle branch block
+270511,L,Left bundle branch block
+270830,L,Left bundle branch block
+271152,L,Left bundle branch block
+271481,L,Left bundle branch block
+271815,L,Left bundle branch block
+272108,L,Left bundle branch block
+272399,L,Left bundle branch block
+272703,L,Left bundle branch block
+272901,V,Premature ventricular contraction
+273377,L,Left bundle branch block
+273695,L,Left bundle branch block
+274011,L,Left bundle branch block
+274306,L,Left bundle branch block
+274448,V,Premature ventricular contraction
+274874,L,Left bundle branch block
+275171,L,Left bundle branch block
+275472,L,Left bundle branch block
+275778,L,Left bundle branch block
+276066,L,Left bundle branch block
+276331,L,Left bundle branch block
+276606,L,Left bundle branch block
+276881,L,Left bundle branch block
+277147,L,Left bundle branch block
+277439,L,Left bundle branch block
+277733,L,Left bundle branch block
+277894,V,Premature ventricular contraction
+278326,L,Left bundle branch block
+278588,L,Left bundle branch block
+278848,L,Left bundle branch block
+279132,L,Left bundle branch block
+279415,L,Left bundle branch block
+279700,L,Left bundle branch block
+279997,L,Left bundle branch block
+280292,L,Left bundle branch block
+280585,L,Left bundle branch block
+280722,V,Premature ventricular contraction
+281134,L,Left bundle branch block
+281422,L,Left bundle branch block
+281607,V,Premature ventricular contraction
+282045,L,Left bundle branch block
+282338,L,Left bundle branch block
+282628,L,Left bundle branch block
+282908,L,Left bundle branch block
+283183,L,Left bundle branch block
+283468,L,Left bundle branch block
+283607,V,Premature ventricular contraction
+284096,L,Left bundle branch block
+284410,L,Left bundle branch block
+284717,L,Left bundle branch block
+285001,L,Left bundle branch block
+285280,L,Left bundle branch block
+285446,V,Premature ventricular contraction
+285879,L,Left bundle branch block
+286176,L,Left bundle branch block
+286506,L,Left bundle branch block
+286821,L,Left bundle branch block
+287109,L,Left bundle branch block
+287391,L,Left bundle branch block
+287676,L,Left bundle branch block
+287853,V,Premature ventricular contraction
+288318,L,Left bundle branch block
+288630,L,Left bundle branch block
+288948,L,Left bundle branch block
+289247,L,Left bundle branch block
+289527,L,Left bundle branch block
+289803,L,Left bundle branch block
+290094,L,Left bundle branch block
+290250,V,Premature ventricular contraction
+290724,L,Left bundle branch block
+291028,L,Left bundle branch block
+291307,L,Left bundle branch block
+291588,L,Left bundle branch block
+291854,L,Left bundle branch block
+291996,V,Premature ventricular contraction
+292393,L,Left bundle branch block
+292672,L,Left bundle branch block
+292959,L,Left bundle branch block
+293243,L,Left bundle branch block
+293509,L,Left bundle branch block
+293763,L,Left bundle branch block
+294026,L,Left bundle branch block
+294302,L,Left bundle branch block
+294580,L,Left bundle branch block
+294866,L,Left bundle branch block
+295162,L,Left bundle branch block
+295459,L,Left bundle branch block
+295755,L,Left bundle branch block
+295893,V,Premature ventricular contraction
+296328,L,Left bundle branch block
+296630,L,Left bundle branch block
+296942,L,Left bundle branch block
+297241,L,Left bundle branch block
+297549,L,Left bundle branch block
+297717,V,Premature ventricular contraction
+298143,L,Left bundle branch block
+298427,L,Left bundle branch block
+298713,L,Left bundle branch block
+299019,L,Left bundle branch block
+299186,V,Premature ventricular contraction
+299662,L,Left bundle branch block
+299947,L,Left bundle branch block
+300228,L,Left bundle branch block
+300510,L,Left bundle branch block
+300800,L,Left bundle branch block
+301096,L,Left bundle branch block
+301397,L,Left bundle branch block
+301494,+,Rhythm change
+301557,V,Premature ventricular contraction
+301770,V,Premature ventricular contraction
+301911,V,Premature ventricular contraction
+302310,+,Rhythm change
+302402,L,Left bundle branch block
+302670,L,Left bundle branch block
+302948,L,Left bundle branch block
+303238,L,Left bundle branch block
+303523,L,Left bundle branch block
+303713,V,Premature ventricular contraction
+304094,L,Left bundle branch block
+304362,L,Left bundle branch block
+304626,L,Left bundle branch block
+304875,L,Left bundle branch block
+305140,L,Left bundle branch block
+305409,L,Left bundle branch block
+305702,L,Left bundle branch block
+305992,L,Left bundle branch block
+306280,L,Left bundle branch block
+306559,L,Left bundle branch block
+306704,V,Premature ventricular contraction
+306879,V,Premature ventricular contraction
+307342,L,Left bundle branch block
+307637,L,Left bundle branch block
+307939,L,Left bundle branch block
+308254,L,Left bundle branch block
+308546,L,Left bundle branch block
+308819,L,Left bundle branch block
+309012,V,Premature ventricular contraction
+309422,L,Left bundle branch block
+309719,L,Left bundle branch block
+310037,L,Left bundle branch block
+310351,L,Left bundle branch block
+310511,V,Premature ventricular contraction
+310977,L,Left bundle branch block
+311258,L,Left bundle branch block
+311558,L,Left bundle branch block
+311876,L,Left bundle branch block
+312196,L,Left bundle branch block
+312511,L,Left bundle branch block
+312825,L,Left bundle branch block
+313123,L,Left bundle branch block
+313412,L,Left bundle branch block
+313706,L,Left bundle branch block
+313849,V,Premature ventricular contraction
+314343,L,Left bundle branch block
+314651,L,Left bundle branch block
+314938,L,Left bundle branch block
+315207,L,Left bundle branch block
+315477,L,Left bundle branch block
+315756,L,Left bundle branch block
+316037,L,Left bundle branch block
+316214,V,Premature ventricular contraction
+316643,L,Left bundle branch block
+316950,L,Left bundle branch block
+317130,V,Premature ventricular contraction
+317498,L,Left bundle branch block
+317760,L,Left bundle branch block
+318032,L,Left bundle branch block
+318304,L,Left bundle branch block
+318588,L,Left bundle branch block
+318873,L,Left bundle branch block
+319172,L,Left bundle branch block
+319447,L,Left bundle branch block
+319703,L,Left bundle branch block
+319839,V,Premature ventricular contraction
+320236,L,Left bundle branch block
+320524,L,Left bundle branch block
+320820,L,Left bundle branch block
+321116,L,Left bundle branch block
+321412,L,Left bundle branch block
+321702,L,Left bundle branch block
+321984,L,Left bundle branch block
+322275,L,Left bundle branch block
+322580,L,Left bundle branch block
+322898,L,Left bundle branch block
+323237,L,Left bundle branch block
+323561,L,Left bundle branch block
+323863,L,Left bundle branch block
+324030,V,Premature ventricular contraction
+324503,L,Left bundle branch block
+324814,L,Left bundle branch block
+325146,L,Left bundle branch block
+325341,V,Premature ventricular contraction
+325824,L,Left bundle branch block
+326116,L,Left bundle branch block
+326402,L,Left bundle branch block
+326721,L,Left bundle branch block
+327033,L,Left bundle branch block
+327342,L,Left bundle branch block
+327660,L,Left bundle branch block
+327806,V,Premature ventricular contraction
+328260,L,Left bundle branch block
+328533,L,Left bundle branch block
+328808,L,Left bundle branch block
+328961,V,Premature ventricular contraction
+329422,L,Left bundle branch block
+329714,L,Left bundle branch block
+330008,L,Left bundle branch block
+330291,L,Left bundle branch block
+330564,L,Left bundle branch block
+330843,L,Left bundle branch block
+331118,L,Left bundle branch block
+331390,L,Left bundle branch block
+331681,L,Left bundle branch block
+331972,L,Left bundle branch block
+332246,L,Left bundle branch block
+332504,L,Left bundle branch block
+332762,L,Left bundle branch block
+333022,L,Left bundle branch block
+333303,L,Left bundle branch block
+333595,L,Left bundle branch block
+333749,V,Premature ventricular contraction
+334200,L,Left bundle branch block
+334496,L,Left bundle branch block
+334772,L,Left bundle branch block
+335044,L,Left bundle branch block
+335333,L,Left bundle branch block
+335535,V,Premature ventricular contraction
+335952,L,Left bundle branch block
+336265,L,Left bundle branch block
+336567,L,Left bundle branch block
+336869,L,Left bundle branch block
+337157,L,Left bundle branch block
+337447,L,Left bundle branch block
+337757,L,Left bundle branch block
+338084,L,Left bundle branch block
+338427,L,Left bundle branch block
+338610,V,Premature ventricular contraction
+339072,L,Left bundle branch block
+339382,L,Left bundle branch block
+339700,L,Left bundle branch block
+340009,L,Left bundle branch block
+340191,V,Premature ventricular contraction
+340687,L,Left bundle branch block
+341006,L,Left bundle branch block
+341293,L,Left bundle branch block
+341577,L,Left bundle branch block
+341879,L,Left bundle branch block
+342182,L,Left bundle branch block
+342485,L,Left bundle branch block
+342793,L,Left bundle branch block
+343094,L,Left bundle branch block
+343385,L,Left bundle branch block
+343657,L,Left bundle branch block
+343933,L,Left bundle branch block
+344118,V,Premature ventricular contraction
+344560,L,Left bundle branch block
+344865,L,Left bundle branch block
+345163,L,Left bundle branch block
+345433,L,Left bundle branch block
+345698,L,Left bundle branch block
+345968,L,Left bundle branch block
+346241,L,Left bundle branch block
+346523,L,Left bundle branch block
+346837,L,Left bundle branch block
+347139,L,Left bundle branch block
+347422,L,Left bundle branch block
+347693,L,Left bundle branch block
+347953,L,Left bundle branch block
+348101,V,Premature ventricular contraction
+348538,L,Left bundle branch block
+348832,L,Left bundle branch block
+349137,L,Left bundle branch block
+349456,L,Left bundle branch block
+349741,L,Left bundle branch block
+350006,L,Left bundle branch block
+350285,L,Left bundle branch block
+350576,L,Left bundle branch block
+350894,L,Left bundle branch block
+351049,V,Premature ventricular contraction
+351548,L,Left bundle branch block
+351860,L,Left bundle branch block
+352152,L,Left bundle branch block
+352429,L,Left bundle branch block
+352729,L,Left bundle branch block
+353047,L,Left bundle branch block
+353376,L,Left bundle branch block
+353704,L,Left bundle branch block
+354004,L,Left bundle branch block
+354151,V,Premature ventricular contraction
+354604,L,Left bundle branch block
+354887,L,Left bundle branch block
+355193,L,Left bundle branch block
+355341,V,Premature ventricular contraction
+355531,V,Premature ventricular contraction
+356057,L,Left bundle branch block
+356332,L,Left bundle branch block
+356598,L,Left bundle branch block
+356868,L,Left bundle branch block
+357140,L,Left bundle branch block
+357414,L,Left bundle branch block
+357694,L,Left bundle branch block
+357974,L,Left bundle branch block
+358259,L,Left bundle branch block
+358519,L,Left bundle branch block
+358774,L,Left bundle branch block
+359038,L,Left bundle branch block
+359328,L,Left bundle branch block
+359620,L,Left bundle branch block
+359907,L,Left bundle branch block
+360202,L,Left bundle branch block
+360484,L,Left bundle branch block
+360761,L,Left bundle branch block
+361034,L,Left bundle branch block
+361316,L,Left bundle branch block
+361617,L,Left bundle branch block
+361790,V,Premature ventricular contraction
+362278,L,Left bundle branch block
+362573,L,Left bundle branch block
+362858,L,Left bundle branch block
+363135,L,Left bundle branch block
+363436,L,Left bundle branch block
+363735,L,Left bundle branch block
+364037,L,Left bundle branch block
+364368,L,Left bundle branch block
+364682,L,Left bundle branch block
+364964,L,Left bundle branch block
+365248,L,Left bundle branch block
+365533,L,Left bundle branch block
+365836,L,Left bundle branch block
+366024,V,Premature ventricular contraction
+366474,L,Left bundle branch block
+366775,L,Left bundle branch block
+366955,V,Premature ventricular contraction
+367349,L,Left bundle branch block
+367614,L,Left bundle branch block
+367896,L,Left bundle branch block
+368180,L,Left bundle branch block
+368488,L,Left bundle branch block
+368650,V,Premature ventricular contraction
+369096,L,Left bundle branch block
+369372,L,Left bundle branch block
+369650,L,Left bundle branch block
+369929,L,Left bundle branch block
+370205,L,Left bundle branch block
+370387,V,Premature ventricular contraction
+370800,L,Left bundle branch block
+371095,L,Left bundle branch block
+371367,L,Left bundle branch block
+371620,L,Left bundle branch block
+371888,L,Left bundle branch block
+372168,L,Left bundle branch block
+372449,L,Left bundle branch block
+372734,L,Left bundle branch block
+373031,L,Left bundle branch block
+373321,L,Left bundle branch block
+373600,L,Left bundle branch block
+373868,L,Left bundle branch block
+374147,L,Left bundle branch block
+374291,V,Premature ventricular contraction
+374778,L,Left bundle branch block
+375088,L,Left bundle branch block
+375405,L,Left bundle branch block
+375699,L,Left bundle branch block
+375998,L,Left bundle branch block
+376185,V,Premature ventricular contraction
+376627,L,Left bundle branch block
+376955,L,Left bundle branch block
+377301,L,Left bundle branch block
+377623,L,Left bundle branch block
+377923,L,Left bundle branch block
+378217,L,Left bundle branch block
+378538,L,Left bundle branch block
+378860,L,Left bundle branch block
+379186,L,Left bundle branch block
+379541,L,Left bundle branch block
+379793,V,Premature ventricular contraction
+380184,L,Left bundle branch block
+380485,L,Left bundle branch block
+380784,L,Left bundle branch block
+381098,L,Left bundle branch block
+381416,L,Left bundle branch block
+381566,V,Premature ventricular contraction
+382054,L,Left bundle branch block
+382335,L,Left bundle branch block
+382599,L,Left bundle branch block
+382878,L,Left bundle branch block
+383166,L,Left bundle branch block
+383473,L,Left bundle branch block
+383785,L,Left bundle branch block
+384086,L,Left bundle branch block
+384367,L,Left bundle branch block
+384642,L,Left bundle branch block
+384905,L,Left bundle branch block
+385176,L,Left bundle branch block
+385461,L,Left bundle branch block
+385748,L,Left bundle branch block
+386045,L,Left bundle branch block
+386323,L,Left bundle branch block
+386569,L,Left bundle branch block
+386817,L,Left bundle branch block
+387082,L,Left bundle branch block
+387346,L,Left bundle branch block
+387600,L,Left bundle branch block
+387866,L,Left bundle branch block
+388130,L,Left bundle branch block
+388394,L,Left bundle branch block
+388646,L,Left bundle branch block
+388884,L,Left bundle branch block
+389115,L,Left bundle branch block
+389373,L,Left bundle branch block
+389644,L,Left bundle branch block
+389927,L,Left bundle branch block
+390202,L,Left bundle branch block
+390487,L,Left bundle branch block
+390755,L,Left bundle branch block
+391018,L,Left bundle branch block
+391265,L,Left bundle branch block
+391520,L,Left bundle branch block
+391789,L,Left bundle branch block
+392081,L,Left bundle branch block
+392372,L,Left bundle branch block
+392653,L,Left bundle branch block
+392926,L,Left bundle branch block
+393189,L,Left bundle branch block
+393392,V,Premature ventricular contraction
+393743,L,Left bundle branch block
+394021,L,Left bundle branch block
+394319,L,Left bundle branch block
+394629,L,Left bundle branch block
+394929,L,Left bundle branch block
+395204,L,Left bundle branch block
+395343,V,Premature ventricular contraction
+395778,L,Left bundle branch block
+396080,L,Left bundle branch block
+396384,L,Left bundle branch block
+396686,L,Left bundle branch block
+397009,L,Left bundle branch block
+397163,V,Premature ventricular contraction
+397588,L,Left bundle branch block
+397859,L,Left bundle branch block
+398150,L,Left bundle branch block
+398468,L,Left bundle branch block
+398778,L,Left bundle branch block
+398868,+,Rhythm change
+398958,V,Premature ventricular contraction
+399400,L,Left bundle branch block
+399683,L,Left bundle branch block
+399850,V,Premature ventricular contraction
+400253,L,Left bundle branch block
+400542,L,Left bundle branch block
+400741,V,Premature ventricular contraction
+400950,+,Rhythm change
+401159,L,Left bundle branch block
+401442,L,Left bundle branch block
+401704,L,Left bundle branch block
+401972,L,Left bundle branch block
+402247,L,Left bundle branch block
+402397,V,Premature ventricular contraction
+402820,L,Left bundle branch block
+403108,L,Left bundle branch block
+403407,L,Left bundle branch block
+403697,L,Left bundle branch block
+403960,L,Left bundle branch block
+404216,L,Left bundle branch block
+404501,L,Left bundle branch block
+404802,L,Left bundle branch block
+404990,V,Premature ventricular contraction
+405412,L,Left bundle branch block
+405711,L,Left bundle branch block
+405999,L,Left bundle branch block
+406276,L,Left bundle branch block
+406566,L,Left bundle branch block
+406855,L,Left bundle branch block
+407045,V,Premature ventricular contraction
+407517,L,Left bundle branch block
+407819,L,Left bundle branch block
+408120,L,Left bundle branch block
+408405,L,Left bundle branch block
+408704,L,Left bundle branch block
+409011,L,Left bundle branch block
+409322,L,Left bundle branch block
+409659,L,Left bundle branch block
+409992,L,Left bundle branch block
+410297,L,Left bundle branch block
+410599,L,Left bundle branch block
+410911,L,Left bundle branch block
+411240,L,Left bundle branch block
+411575,L,Left bundle branch block
+411905,L,Left bundle branch block
+412247,L,Left bundle branch block
+412456,V,Premature ventricular contraction
+412605,V,Premature ventricular contraction
+413090,L,Left bundle branch block
+413396,L,Left bundle branch block
+413717,L,Left bundle branch block
+414015,L,Left bundle branch block
+414309,L,Left bundle branch block
+414597,L,Left bundle branch block
+414869,L,Left bundle branch block
+415135,L,Left bundle branch block
+415402,L,Left bundle branch block
+415682,L,Left bundle branch block
+415973,L,Left bundle branch block
+416265,L,Left bundle branch block
+416536,L,Left bundle branch block
+416787,L,Left bundle branch block
+417050,L,Left bundle branch block
+417219,V,Premature ventricular contraction
+417587,L,Left bundle branch block
+417869,L,Left bundle branch block
+418159,L,Left bundle branch block
+418452,L,Left bundle branch block
+418746,L,Left bundle branch block
+418912,V,Premature ventricular contraction
+419268,L,Left bundle branch block
+419554,L,Left bundle branch block
+419843,L,Left bundle branch block
+420137,L,Left bundle branch block
+420432,L,Left bundle branch block
+420716,L,Left bundle branch block
+420988,L,Left bundle branch block
+421249,L,Left bundle branch block
+421502,L,Left bundle branch block
+421757,L,Left bundle branch block
+422036,L,Left bundle branch block
+422318,L,Left bundle branch block
+422590,L,Left bundle branch block
+422856,L,Left bundle branch block
+423116,L,Left bundle branch block
+423360,L,Left bundle branch block
+423601,L,Left bundle branch block
+423845,L,Left bundle branch block
+424058,V,Premature ventricular contraction
+424336,L,Left bundle branch block
+424613,L,Left bundle branch block
+424877,L,Left bundle branch block
+425124,L,Left bundle branch block
+425363,L,Left bundle branch block
+425596,L,Left bundle branch block
+425829,L,Left bundle branch block
+426007,V,Premature ventricular contraction
+426326,L,Left bundle branch block
+426581,L,Left bundle branch block
+426847,L,Left bundle branch block
+427130,L,Left bundle branch block
+427395,L,Left bundle branch block
+427642,L,Left bundle branch block
+427815,V,Premature ventricular contraction
+428147,L,Left bundle branch block
+428416,L,Left bundle branch block
+428698,L,Left bundle branch block
+428977,L,Left bundle branch block
+429257,L,Left bundle branch block
+429545,L,Left bundle branch block
+429716,V,Premature ventricular contraction
+430110,L,Left bundle branch block
+430382,L,Left bundle branch block
+430676,L,Left bundle branch block
+430838,V,Premature ventricular contraction
+431320,L,Left bundle branch block
+431631,L,Left bundle branch block
+431925,L,Left bundle branch block
+432215,L,Left bundle branch block
+432515,L,Left bundle branch block
+432711,V,Premature ventricular contraction
+433134,L,Left bundle branch block
+433460,L,Left bundle branch block
+433779,L,Left bundle branch block
+434073,L,Left bundle branch block
+434351,L,Left bundle branch block
+434657,L,Left bundle branch block
+434823,V,Premature ventricular contraction
+435279,L,Left bundle branch block
+435597,L,Left bundle branch block
+435906,L,Left bundle branch block
+436211,L,Left bundle branch block
+436491,L,Left bundle branch block
+436776,L,Left bundle branch block
+437095,L,Left bundle branch block
+437421,L,Left bundle branch block
+437749,L,Left bundle branch block
+437930,V,Premature ventricular contraction
+438401,L,Left bundle branch block
+438707,L,Left bundle branch block
+439013,L,Left bundle branch block
+439318,L,Left bundle branch block
+439658,L,Left bundle branch block
+440001,L,Left bundle branch block
+440176,V,Premature ventricular contraction
+440635,L,Left bundle branch block
+440925,L,Left bundle branch block
+441239,L,Left bundle branch block
+441554,L,Left bundle branch block
+441863,L,Left bundle branch block
+442209,L,Left bundle branch block
+442524,L,Left bundle branch block
+442815,L,Left bundle branch block
+443112,L,Left bundle branch block
+443408,L,Left bundle branch block
+443732,L,Left bundle branch block
+443937,V,Premature ventricular contraction
+444377,L,Left bundle branch block
+444562,V,Premature ventricular contraction
+444982,L,Left bundle branch block
+445251,L,Left bundle branch block
+445529,L,Left bundle branch block
+445809,L,Left bundle branch block
+446110,L,Left bundle branch block
+446277,V,Premature ventricular contraction
+446714,L,Left bundle branch block
+446981,L,Left bundle branch block
+447246,L,Left bundle branch block
+447510,L,Left bundle branch block
+447774,L,Left bundle branch block
+448049,L,Left bundle branch block
+448334,L,Left bundle branch block
+448631,L,Left bundle branch block
+448922,L,Left bundle branch block
+449180,L,Left bundle branch block
+449428,L,Left bundle branch block
+449695,L,Left bundle branch block
+449876,V,Premature ventricular contraction
+450257,L,Left bundle branch block
+450545,L,Left bundle branch block
+450844,L,Left bundle branch block
+451142,L,Left bundle branch block
+451231,+,Rhythm change
+451321,V,Premature ventricular contraction
+451688,L,Left bundle branch block
+451965,L,Left bundle branch block
+452144,V,Premature ventricular contraction
+452574,L,Left bundle branch block
+452867,L,Left bundle branch block
+453045,V,Premature ventricular contraction
+453238,+,Rhythm change
+453431,L,Left bundle branch block
+453695,L,Left bundle branch block
+453947,L,Left bundle branch block
+454209,L,Left bundle branch block
+454475,L,Left bundle branch block
+454665,V,Premature ventricular contraction
+455056,L,Left bundle branch block
+455327,L,Left bundle branch block
+455586,L,Left bundle branch block
+455829,L,Left bundle branch block
+456079,L,Left bundle branch block
+456255,V,Premature ventricular contraction
+456404,V,Premature ventricular contraction
+456855,L,Left bundle branch block
+457149,L,Left bundle branch block
+457230,+,Rhythm change
+457312,V,Premature ventricular contraction
+457719,L,Left bundle branch block
+457967,L,Left bundle branch block
+458108,V,Premature ventricular contraction
+458487,L,Left bundle branch block
+458760,L,Left bundle branch block
+458908,V,Premature ventricular contraction
+459108,+,Rhythm change
+459309,L,Left bundle branch block
+459596,L,Left bundle branch block
+459864,L,Left bundle branch block
+460111,L,Left bundle branch block
+460355,L,Left bundle branch block
+460615,L,Left bundle branch block
+460886,L,Left bundle branch block
+461180,L,Left bundle branch block
+461476,L,Left bundle branch block
+461773,L,Left bundle branch block
+462071,L,Left bundle branch block
+462352,L,Left bundle branch block
+462635,L,Left bundle branch block
+462922,L,Left bundle branch block
+463221,L,Left bundle branch block
+463550,L,Left bundle branch block
+463876,L,Left bundle branch block
+464182,L,Left bundle branch block
+464476,L,Left bundle branch block
+464777,L,Left bundle branch block
+465087,L,Left bundle branch block
+465397,L,Left bundle branch block
+465721,L,Left bundle branch block
+466056,L,Left bundle branch block
+466379,L,Left bundle branch block
+466669,L,Left bundle branch block
+466959,L,Left bundle branch block
+467272,L,Left bundle branch block
+467422,V,Premature ventricular contraction
+467898,L,Left bundle branch block
+468198,L,Left bundle branch block
+468485,L,Left bundle branch block
+468760,L,Left bundle branch block
+469022,L,Left bundle branch block
+469165,V,Premature ventricular contraction
+469580,L,Left bundle branch block
+469877,L,Left bundle branch block
+470169,L,Left bundle branch block
+470452,L,Left bundle branch block
+470730,L,Left bundle branch block
+470993,L,Left bundle branch block
+471266,L,Left bundle branch block
+471541,L,Left bundle branch block
+471820,L,Left bundle branch block
+472114,L,Left bundle branch block
+472314,V,Premature ventricular contraction
+472711,L,Left bundle branch block
+472968,L,Left bundle branch block
+473109,V,Premature ventricular contraction
+473466,L,Left bundle branch block
+473722,L,Left bundle branch block
+473995,L,Left bundle branch block
+474263,L,Left bundle branch block
+474528,L,Left bundle branch block
+474816,L,Left bundle branch block
+475079,L,Left bundle branch block
+475329,L,Left bundle branch block
+475590,L,Left bundle branch block
+475867,L,Left bundle branch block
+476168,L,Left bundle branch block
+476493,L,Left bundle branch block
+476813,L,Left bundle branch block
+477120,L,Left bundle branch block
+477429,L,Left bundle branch block
+477720,L,Left bundle branch block
+478027,L,Left bundle branch block
+478353,L,Left bundle branch block
+478570,V,Premature ventricular contraction
+479050,L,Left bundle branch block
+479361,L,Left bundle branch block
+479671,L,Left bundle branch block
+479989,L,Left bundle branch block
+480308,L,Left bundle branch block
+480632,L,Left bundle branch block
+480974,L,Left bundle branch block
+481326,L,Left bundle branch block
+481639,L,Left bundle branch block
+481942,L,Left bundle branch block
+482267,L,Left bundle branch block
+482609,L,Left bundle branch block
+482945,L,Left bundle branch block
+483296,L,Left bundle branch block
+483628,L,Left bundle branch block
+483948,L,Left bundle branch block
+484254,L,Left bundle branch block
+484571,L,Left bundle branch block
+484936,L,Left bundle branch block
+485298,L,Left bundle branch block
+485629,L,Left bundle branch block
+485946,L,Left bundle branch block
+486251,L,Left bundle branch block
+486560,L,Left bundle branch block
+486876,L,Left bundle branch block
+487208,L,Left bundle branch block
+487547,L,Left bundle branch block
+487870,L,Left bundle branch block
+488154,L,Left bundle branch block
+488423,L,Left bundle branch block
+488710,L,Left bundle branch block
+489006,L,Left bundle branch block
+489162,V,Premature ventricular contraction
+489600,L,Left bundle branch block
+489912,L,Left bundle branch block
+490190,L,Left bundle branch block
+490451,L,Left bundle branch block
+490723,L,Left bundle branch block
+491002,L,Left bundle branch block
+491312,L,Left bundle branch block
+491629,L,Left bundle branch block
+491941,L,Left bundle branch block
+492265,L,Left bundle branch block
+492569,L,Left bundle branch block
+492857,L,Left bundle branch block
+493175,L,Left bundle branch block
+493510,L,Left bundle branch block
+493861,L,Left bundle branch block
+494197,L,Left bundle branch block
+494514,L,Left bundle branch block
+494836,L,Left bundle branch block
+495146,L,Left bundle branch block
+495463,L,Left bundle branch block
+495801,L,Left bundle branch block
+496138,L,Left bundle branch block
+496478,L,Left bundle branch block
+496784,L,Left bundle branch block
+497073,L,Left bundle branch block
+497221,V,Premature ventricular contraction
+497674,L,Left bundle branch block
+497964,L,Left bundle branch block
+498256,L,Left bundle branch block
+498547,L,Left bundle branch block
+498826,L,Left bundle branch block
+499082,L,Left bundle branch block
+499341,L,Left bundle branch block
+499612,L,Left bundle branch block
+499900,L,Left bundle branch block
+500197,L,Left bundle branch block
+500477,L,Left bundle branch block
+500762,L,Left bundle branch block
+500926,V,Premature ventricular contraction
+501288,L,Left bundle branch block
+501544,L,Left bundle branch block
+501689,V,Premature ventricular contraction
+502074,L,Left bundle branch block
+502370,L,Left bundle branch block
+502649,L,Left bundle branch block
+502909,L,Left bundle branch block
+503160,L,Left bundle branch block
+503401,L,Left bundle branch block
+503646,L,Left bundle branch block
+503912,L,Left bundle branch block
+504178,L,Left bundle branch block
+504462,L,Left bundle branch block
+504775,L,Left bundle branch block
+504973,V,Premature ventricular contraction
+505193,V,Premature ventricular contraction
+505633,L,Left bundle branch block
+505900,L,Left bundle branch block
+506180,L,Left bundle branch block
+506482,L,Left bundle branch block
+506777,L,Left bundle branch block
+507073,L,Left bundle branch block
+507384,L,Left bundle branch block
+507668,L,Left bundle branch block
+507953,L,Left bundle branch block
+508258,L,Left bundle branch block
+508570,L,Left bundle branch block
+508900,L,Left bundle branch block
+509235,L,Left bundle branch block
+509546,L,Left bundle branch block
+509848,L,Left bundle branch block
+510150,L,Left bundle branch block
+510438,L,Left bundle branch block
+510733,L,Left bundle branch block
+511033,L,Left bundle branch block
+511347,L,Left bundle branch block
+511657,L,Left bundle branch block
+511934,L,Left bundle branch block
+512204,L,Left bundle branch block
+512497,L,Left bundle branch block
+512641,V,Premature ventricular contraction
+513068,L,Left bundle branch block
+513356,L,Left bundle branch block
+513535,V,Premature ventricular contraction
+513896,L,Left bundle branch block
+514142,L,Left bundle branch block
+514383,L,Left bundle branch block
+514621,L,Left bundle branch block
+514877,L,Left bundle branch block
+515147,L,Left bundle branch block
+515428,L,Left bundle branch block
+515706,L,Left bundle branch block
+515990,L,Left bundle branch block
+516256,L,Left bundle branch block
+516522,L,Left bundle branch block
+516685,V,Premature ventricular contraction
+517062,L,Left bundle branch block
+517348,L,Left bundle branch block
+517640,L,Left bundle branch block
+517929,L,Left bundle branch block
+518192,L,Left bundle branch block
+518356,V,Premature ventricular contraction
+518738,L,Left bundle branch block
+519022,L,Left bundle branch block
+519300,L,Left bundle branch block
+519574,L,Left bundle branch block
+519876,L,Left bundle branch block
+520071,V,Premature ventricular contraction
+520469,L,Left bundle branch block
+520727,L,Left bundle branch block
+520910,V,Premature ventricular contraction
+521333,L,Left bundle branch block
+521652,L,Left bundle branch block
+521964,L,Left bundle branch block
+522288,L,Left bundle branch block
+522603,L,Left bundle branch block
+522792,V,Premature ventricular contraction
+523185,L,Left bundle branch block
+523477,L,Left bundle branch block
+523797,L,Left bundle branch block
+524120,L,Left bundle branch block
+524290,V,Premature ventricular contraction
+524724,L,Left bundle branch block
+524998,L,Left bundle branch block
+525273,L,Left bundle branch block
+525545,L,Left bundle branch block
+525837,L,Left bundle branch block
+526136,L,Left bundle branch block
+526449,L,Left bundle branch block
+526737,L,Left bundle branch block
+527006,L,Left bundle branch block
+527279,L,Left bundle branch block
+527578,L,Left bundle branch block
+527865,L,Left bundle branch block
+528163,L,Left bundle branch block
+528475,L,Left bundle branch block
+528786,L,Left bundle branch block
+529096,L,Left bundle branch block
+529373,L,Left bundle branch block
+529663,L,Left bundle branch block
+529986,L,Left bundle branch block
+530307,L,Left bundle branch block
+530609,L,Left bundle branch block
+530766,V,Premature ventricular contraction
+531226,L,Left bundle branch block
+531504,L,Left bundle branch block
+531781,L,Left bundle branch block
+532058,L,Left bundle branch block
+532362,L,Left bundle branch block
+532522,V,Premature ventricular contraction
+532982,L,Left bundle branch block
+533269,L,Left bundle branch block
+533549,L,Left bundle branch block
+533823,L,Left bundle branch block
+534100,L,Left bundle branch block
+534247,V,Premature ventricular contraction
+534675,L,Left bundle branch block
+534981,L,Left bundle branch block
+535282,L,Left bundle branch block
+535555,L,Left bundle branch block
+535820,L,Left bundle branch block
+536086,L,Left bundle branch block
+536376,L,Left bundle branch block
+536665,L,Left bundle branch block
+536954,L,Left bundle branch block
+537252,L,Left bundle branch block
+537552,L,Left bundle branch block
+537817,L,Left bundle branch block
+538073,L,Left bundle branch block
+538341,L,Left bundle branch block
+538621,L,Left bundle branch block
+538924,L,Left bundle branch block
+539229,L,Left bundle branch block
+539528,L,Left bundle branch block
+539833,L,Left bundle branch block
+540120,L,Left bundle branch block
+540261,V,Premature ventricular contraction
+540697,L,Left bundle branch block
+541003,L,Left bundle branch block
+541309,L,Left bundle branch block
+541626,L,Left bundle branch block
+541917,L,Left bundle branch block
+542055,V,Premature ventricular contraction
+542452,L,Left bundle branch block
+542715,L,Left bundle branch block
+542976,L,Left bundle branch block
+543245,L,Left bundle branch block
+543521,L,Left bundle branch block
+543797,L,Left bundle branch block
+544079,L,Left bundle branch block
+544331,L,Left bundle branch block
+544573,L,Left bundle branch block
+544826,L,Left bundle branch block
+545105,L,Left bundle branch block
+545393,L,Left bundle branch block
+545685,L,Left bundle branch block
+545997,L,Left bundle branch block
+546301,L,Left bundle branch block
+546587,L,Left bundle branch block
+546730,V,Premature ventricular contraction
+547172,L,Left bundle branch block
+547485,L,Left bundle branch block
+547809,L,Left bundle branch block
+547968,V,Premature ventricular contraction
+548440,L,Left bundle branch block
+548720,L,Left bundle branch block
+549001,L,Left bundle branch block
+549155,V,Premature ventricular contraction
+549591,L,Left bundle branch block
+549887,L,Left bundle branch block
+550097,V,Premature ventricular contraction
+550514,L,Left bundle branch block
+550780,L,Left bundle branch block
+551052,L,Left bundle branch block
+551336,L,Left bundle branch block
+551642,L,Left bundle branch block
+551956,L,Left bundle branch block
+552108,V,Premature ventricular contraction
+552610,L,Left bundle branch block
+552903,L,Left bundle branch block
+553184,L,Left bundle branch block
+553477,L,Left bundle branch block
+553780,L,Left bundle branch block
+554116,L,Left bundle branch block
+554449,L,Left bundle branch block
+554766,L,Left bundle branch block
+555086,L,Left bundle branch block
+555389,L,Left bundle branch block
+555694,L,Left bundle branch block
+556020,L,Left bundle branch block
+556358,L,Left bundle branch block
+556706,L,Left bundle branch block
+557005,L,Left bundle branch block
+557281,L,Left bundle branch block
+557561,L,Left bundle branch block
+557838,L,Left bundle branch block
+558113,L,Left bundle branch block
+558412,L,Left bundle branch block
+558565,V,Premature ventricular contraction
+559012,L,Left bundle branch block
+559292,L,Left bundle branch block
+559546,L,Left bundle branch block
+559790,L,Left bundle branch block
+560076,L,Left bundle branch block
+560357,L,Left bundle branch block
+560636,L,Left bundle branch block
+560932,L,Left bundle branch block
+561220,L,Left bundle branch block
+561494,L,Left bundle branch block
+561753,L,Left bundle branch block
+562008,L,Left bundle branch block
+562272,L,Left bundle branch block
+562556,L,Left bundle branch block
+562735,V,Premature ventricular contraction
+563108,L,Left bundle branch block
+563376,L,Left bundle branch block
+563633,L,Left bundle branch block
+563879,L,Left bundle branch block
+564117,L,Left bundle branch block
+564290,V,Premature ventricular contraction
+564606,L,Left bundle branch block
+564871,L,Left bundle branch block
+565148,L,Left bundle branch block
+565413,L,Left bundle branch block
+565659,L,Left bundle branch block
+565821,V,Premature ventricular contraction
+566135,L,Left bundle branch block
+566379,L,Left bundle branch block
+566641,L,Left bundle branch block
+566909,L,Left bundle branch block
+567188,L,Left bundle branch block
+567282,+,Rhythm change
+567377,V,Premature ventricular contraction
+567786,L,Left bundle branch block
+568049,L,Left bundle branch block
+568219,V,Premature ventricular contraction
+568571,L,Left bundle branch block
+568848,L,Left bundle branch block
+569031,V,Premature ventricular contraction
+569233,+,Rhythm change
+569435,L,Left bundle branch block
+569707,L,Left bundle branch block
+569997,L,Left bundle branch block
+570255,L,Left bundle branch block
+570497,L,Left bundle branch block
+570743,L,Left bundle branch block
+570998,L,Left bundle branch block
+571264,L,Left bundle branch block
+571451,V,Premature ventricular contraction
+571816,L,Left bundle branch block
+572076,L,Left bundle branch block
+572219,V,Premature ventricular contraction
+572614,L,Left bundle branch block
+572876,L,Left bundle branch block
+573145,L,Left bundle branch block
+573428,L,Left bundle branch block
+573715,L,Left bundle branch block
+573927,V,Premature ventricular contraction
+574324,L,Left bundle branch block
+574588,L,Left bundle branch block
+574869,L,Left bundle branch block
+575160,L,Left bundle branch block
+575462,L,Left bundle branch block
+575771,L,Left bundle branch block
+576094,L,Left bundle branch block
+576417,L,Left bundle branch block
+576728,L,Left bundle branch block
+577023,L,Left bundle branch block
+577331,L,Left bundle branch block
+577672,L,Left bundle branch block
+578010,L,Left bundle branch block
+578341,L,Left bundle branch block
+578570,V,Premature ventricular contraction
+579001,L,Left bundle branch block
+579310,L,Left bundle branch block
+579507,V,Premature ventricular contraction
+579968,L,Left bundle branch block
+580309,L,Left bundle branch block
+580637,L,Left bundle branch block
+580942,L,Left bundle branch block
+581222,L,Left bundle branch block
+581503,L,Left bundle branch block
+581797,L,Left bundle branch block
+581988,V,Premature ventricular contraction
+582413,L,Left bundle branch block
+582730,L,Left bundle branch block
+583030,L,Left bundle branch block
+583166,V,Premature ventricular contraction
+583584,L,Left bundle branch block
+583869,L,Left bundle branch block
+584172,L,Left bundle branch block
+584472,L,Left bundle branch block
+584774,L,Left bundle branch block
+585093,L,Left bundle branch block
+585390,L,Left bundle branch block
+585674,L,Left bundle branch block
+585873,V,Premature ventricular contraction
+586291,L,Left bundle branch block
+586612,L,Left bundle branch block
+586940,L,Left bundle branch block
+587249,L,Left bundle branch block
+587547,L,Left bundle branch block
+587832,L,Left bundle branch block
+588126,L,Left bundle branch block
+588274,V,Premature ventricular contraction
+588748,L,Left bundle branch block
+589072,L,Left bundle branch block
+589387,L,Left bundle branch block
+589668,L,Left bundle branch block
+589951,L,Left bundle branch block
+590245,L,Left bundle branch block
+590552,L,Left bundle branch block
+590863,L,Left bundle branch block
+591177,L,Left bundle branch block
+591344,V,Premature ventricular contraction
+591811,L,Left bundle branch block
+592081,L,Left bundle branch block
+592377,L,Left bundle branch block
+592687,L,Left bundle branch block
+592992,L,Left bundle branch block
+593292,L,Left bundle branch block
+593599,L,Left bundle branch block
+593886,L,Left bundle branch block
+594172,L,Left bundle branch block
+594451,L,Left bundle branch block
+594730,L,Left bundle branch block
+595058,L,Left bundle branch block
+595384,L,Left bundle branch block
+595697,L,Left bundle branch block
+596000,L,Left bundle branch block
+596286,L,Left bundle branch block
+596578,L,Left bundle branch block
+596867,L,Left bundle branch block
+597168,L,Left bundle branch block
+597485,L,Left bundle branch block
+597801,L,Left bundle branch block
+598096,L,Left bundle branch block
+598369,L,Left bundle branch block
+598643,L,Left bundle branch block
+598934,L,Left bundle branch block
+599231,L,Left bundle branch block
+599532,L,Left bundle branch block
+599851,L,Left bundle branch block
+600173,L,Left bundle branch block
+600457,L,Left bundle branch block
+600726,L,Left bundle branch block
+601006,L,Left bundle branch block
+601302,L,Left bundle branch block
+601614,L,Left bundle branch block
+601912,L,Left bundle branch block
+602203,L,Left bundle branch block
+602494,L,Left bundle branch block
+602761,L,Left bundle branch block
+603027,L,Left bundle branch block
+603318,L,Left bundle branch block
+603490,V,Premature ventricular contraction
+603670,F,Fusion of ventricular and normal beat
+604179,L,Left bundle branch block
+604477,L,Left bundle branch block
+604748,L,Left bundle branch block
+605019,L,Left bundle branch block
+605281,L,Left bundle branch block
+605541,L,Left bundle branch block
+605812,L,Left bundle branch block
+606089,L,Left bundle branch block
+606376,L,Left bundle branch block
+606659,L,Left bundle branch block
+606914,L,Left bundle branch block
+607155,L,Left bundle branch block
+607415,L,Left bundle branch block
+607675,L,Left bundle branch block
+607938,L,Left bundle branch block
+608199,L,Left bundle branch block
+608460,L,Left bundle branch block
+608719,L,Left bundle branch block
+608975,L,Left bundle branch block
+609217,L,Left bundle branch block
+609384,V,Premature ventricular contraction
+609701,L,Left bundle branch block
+609974,L,Left bundle branch block
+610255,L,Left bundle branch block
+610524,L,Left bundle branch block
+610798,L,Left bundle branch block
+611073,L,Left bundle branch block
+611326,L,Left bundle branch block
+611585,L,Left bundle branch block
+611842,L,Left bundle branch block
+612105,L,Left bundle branch block
+612387,L,Left bundle branch block
+612681,L,Left bundle branch block
+612964,L,Left bundle branch block
+613220,L,Left bundle branch block
+613470,L,Left bundle branch block
+613712,L,Left bundle branch block
+613962,L,Left bundle branch block
+614221,L,Left bundle branch block
+614401,V,Premature ventricular contraction
+614739,L,Left bundle branch block
+615009,L,Left bundle branch block
+615272,L,Left bundle branch block
+615515,L,Left bundle branch block
+615743,L,Left bundle branch block
+615983,L,Left bundle branch block
+616144,V,Premature ventricular contraction
+616499,L,Left bundle branch block
+616774,L,Left bundle branch block
+617052,L,Left bundle branch block
+617323,L,Left bundle branch block
+617472,V,Premature ventricular contraction
+617849,L,Left bundle branch block
+618089,L,Left bundle branch block
+618335,L,Left bundle branch block
+618597,L,Left bundle branch block
+618872,L,Left bundle branch block
+619053,V,Premature ventricular contraction
+619472,L,Left bundle branch block
+619747,L,Left bundle branch block
+620030,L,Left bundle branch block
+620309,L,Left bundle branch block
+620597,L,Left bundle branch block
+620769,V,Premature ventricular contraction
+621211,L,Left bundle branch block
+621525,L,Left bundle branch block
+621821,L,Left bundle branch block
+622094,L,Left bundle branch block
+622352,L,Left bundle branch block
+622523,V,Premature ventricular contraction
+622924,L,Left bundle branch block
+623213,L,Left bundle branch block
+623521,L,Left bundle branch block
+623819,L,Left bundle branch block
+624102,L,Left bundle branch block
+624369,L,Left bundle branch block
+624528,V,Premature ventricular contraction
+624922,L,Left bundle branch block
+625218,L,Left bundle branch block
+625527,L,Left bundle branch block
+625811,L,Left bundle branch block
+625999,V,Premature ventricular contraction
+626382,L,Left bundle branch block
+626653,L,Left bundle branch block
+626933,L,Left bundle branch block
+627071,V,Premature ventricular contraction
+627518,L,Left bundle branch block
+627812,L,Left bundle branch block
+628106,L,Left bundle branch block
+628381,L,Left bundle branch block
+628642,L,Left bundle branch block
+628904,L,Left bundle branch block
+629181,L,Left bundle branch block
+629454,L,Left bundle branch block
+629733,L,Left bundle branch block
+630031,L,Left bundle branch block
+630326,L,Left bundle branch block
+630592,L,Left bundle branch block
+630857,L,Left bundle branch block
+631119,L,Left bundle branch block
+631401,L,Left bundle branch block
+631702,L,Left bundle branch block
+632002,L,Left bundle branch block
+632303,L,Left bundle branch block
+632616,L,Left bundle branch block
+632891,L,Left bundle branch block
+633153,L,Left bundle branch block
+633421,L,Left bundle branch block
+633701,L,Left bundle branch block
+633998,L,Left bundle branch block
+634279,L,Left bundle branch block
+634560,L,Left bundle branch block
+634842,L,Left bundle branch block
+635109,L,Left bundle branch block
+635374,L,Left bundle branch block
+635644,L,Left bundle branch block
+635927,L,Left bundle branch block
+636221,L,Left bundle branch block
+636528,L,Left bundle branch block
+636816,L,Left bundle branch block
+637086,L,Left bundle branch block
+637353,L,Left bundle branch block
+637607,L,Left bundle branch block
+637872,L,Left bundle branch block
+638047,V,Premature ventricular contraction
+638421,L,Left bundle branch block
+638703,L,Left bundle branch block
+639001,L,Left bundle branch block
+639265,L,Left bundle branch block
+639508,L,Left bundle branch block
+639669,V,Premature ventricular contraction
+640042,L,Left bundle branch block
+640317,L,Left bundle branch block
+640588,L,Left bundle branch block
+640869,L,Left bundle branch block
+641149,L,Left bundle branch block
+641426,L,Left bundle branch block
+641565,V,Premature ventricular contraction
+641950,L,Left bundle branch block
+642214,L,Left bundle branch block
+642517,L,Left bundle branch block
+642813,L,Left bundle branch block
+643104,L,Left bundle branch block
+643279,V,Premature ventricular contraction
+643673,L,Left bundle branch block
+643943,L,Left bundle branch block
+644215,L,Left bundle branch block
+644485,L,Left bundle branch block
+644775,L,Left bundle branch block
+645079,L,Left bundle branch block
+645259,V,Premature ventricular contraction
+645640,L,Left bundle branch block
+645898,L,Left bundle branch block
+646153,L,Left bundle branch block
+646420,L,Left bundle branch block
+646698,L,Left bundle branch block
+646789,+,Rhythm change
+646880,V,Premature ventricular contraction
+647259,L,Left bundle branch block
+647557,L,Left bundle branch block
+647736,V,Premature ventricular contraction
+648077,L,Left bundle branch block
+648322,L,Left bundle branch block
+648493,V,Premature ventricular contraction
+648663,+,Rhythm change
+648834,L,Left bundle branch block
+649112,L,Left bundle branch block
+649379,L,Left bundle branch block
+649627,L,Left bundle branch block
+649891,L,Left bundle branch block

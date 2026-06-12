@@ -1,0 +1,2312 @@
+sample,symbol,description
+36,+,Rhythm change
+73,/,Paced beat
+316,/,Paced beat
+615,/,Paced beat
+901,/,Paced beat
+1188,/,Paced beat
+1477,f,Fusion of paced and normal beat
+1749,f,Fusion of paced and normal beat
+2062,/,Paced beat
+2361,/,Paced beat
+2651,/,Paced beat
+2942,/,Paced beat
+3232,/,Paced beat
+3522,f,Fusion of paced and normal beat
+3796,f,Fusion of paced and normal beat
+4102,/,Paced beat
+4407,/,Paced beat
+4704,/,Paced beat
+4995,/,Paced beat
+5281,/,Paced beat
+5569,f,Fusion of paced and normal beat
+5873,f,Fusion of paced and normal beat
+6143,/,Paced beat
+6451,/,Paced beat
+6744,/,Paced beat
+7042,/,Paced beat
+7332,/,Paced beat
+7556,~,Signal quality change
+7619,f,Fusion of paced and normal beat
+7921,f,Fusion of paced and normal beat
+8184,/,Paced beat
+8496,/,Paced beat
+8765,~,Signal quality change
+8794,/,Paced beat
+9088,/,Paced beat
+9378,/,Paced beat
+9678,f,Fusion of paced and normal beat
+9951,f,Fusion of paced and normal beat
+10232,/,Paced beat
+10533,/,Paced beat
+10839,/,Paced beat
+11135,/,Paced beat
+11434,f,Fusion of paced and normal beat
+11725,f,Fusion of paced and normal beat
+12040,f,Fusion of paced and normal beat
+12287,/,Paced beat
+12575,/,Paced beat
+12885,/,Paced beat
+13185,/,Paced beat
+13479,/,Paced beat
+13783,f,Fusion of paced and normal beat
+14059,f,Fusion of paced and normal beat
+14339,/,Paced beat
+14617,/,Paced beat
+14930,/,Paced beat
+15233,/,Paced beat
+15525,/,Paced beat
+15816,f,Fusion of paced and normal beat
+16118,f,Fusion of paced and normal beat
+16390,/,Paced beat
+16671,/,Paced beat
+16967,/,Paced beat
+17274,/,Paced beat
+17571,/,Paced beat
+17869,/,Paced beat
+18171,f,Fusion of paced and normal beat
+18444,f,Fusion of paced and normal beat
+18724,/,Paced beat
+19008,/,Paced beat
+19318,/,Paced beat
+19616,/,Paced beat
+19910,/,Paced beat
+20189,f,Fusion of paced and normal beat
+20492,f,Fusion of paced and normal beat
+20804,f,Fusion of paced and normal beat
+21056,/,Paced beat
+21362,/,Paced beat
+21668,/,Paced beat
+21959,/,Paced beat
+22109,~,Signal quality change
+22249,/,Paced beat
+22390,+,Rhythm change
+22532,Q,Unclassifiable beat
+22828,Q,Unclassifiable beat
+23101,Q,Unclassifiable beat
+23249,+,Rhythm change
+23398,/,Paced beat
+23701,/,Paced beat
+23890,~,Signal quality change
+23998,/,Paced beat
+24300,/,Paced beat
+24590,/,Paced beat
+24877,f,Fusion of paced and normal beat
+25178,f,Fusion of paced and normal beat
+25440,/,Paced beat
+25747,/,Paced beat
+26048,/,Paced beat
+26341,/,Paced beat
+26634,/,Paced beat
+26926,/,Paced beat
+27184,N,Normal beat
+27489,f,Fusion of paced and normal beat
+27778,f,Fusion of paced and normal beat
+28084,/,Paced beat
+28380,/,Paced beat
+28675,/,Paced beat
+28963,/,Paced beat
+29250,/,Paced beat
+29519,f,Fusion of paced and normal beat
+29812,f,Fusion of paced and normal beat
+30144,f,Fusion of paced and normal beat
+30421,f,Fusion of paced and normal beat
+30719,/,Paced beat
+31012,/,Paced beat
+31302,/,Paced beat
+31580,/,Paced beat
+31861,/,Paced beat
+32168,/,Paced beat
+32306,+,Rhythm change
+32445,N,Normal beat
+32734,N,Normal beat
+33059,f,Fusion of paced and normal beat
+33332,f,Fusion of paced and normal beat
+33475,+,Rhythm change
+33618,/,Paced beat
+33896,/,Paced beat
+34194,/,Paced beat
+34498,/,Paced beat
+34794,/,Paced beat
+35091,/,Paced beat
+35359,N,Normal beat
+35661,f,Fusion of paced and normal beat
+35938,f,Fusion of paced and normal beat
+36225,/,Paced beat
+36529,/,Paced beat
+36827,/,Paced beat
+36949,~,Signal quality change
+37123,/,Paced beat
+37417,/,Paced beat
+37709,/,Paced beat
+37977,N,Normal beat
+38278,f,Fusion of paced and normal beat
+38574,/,Paced beat
+38872,/,Paced beat
+39165,/,Paced beat
+39462,/,Paced beat
+39754,/,Paced beat
+40039,/,Paced beat
+40302,N,Normal beat
+40607,f,Fusion of paced and normal beat
+40910,f,Fusion of paced and normal beat
+41089,~,Signal quality change
+41210,/,Paced beat
+41511,/,Paced beat
+41802,/,Paced beat
+42136,/,Paced beat
+42372,/,Paced beat
+42651,/,Paced beat
+42952,f,Fusion of paced and normal beat
+43244,N,Normal beat
+43556,f,Fusion of paced and normal beat
+43843,f,Fusion of paced and normal beat
+44140,/,Paced beat
+44421,/,Paced beat
+44698,/,Paced beat
+45002,/,Paced beat
+45306,/,Paced beat
+45600,/,Paced beat
+45897,/,Paced beat
+46180,f,Fusion of paced and normal beat
+46456,N,Normal beat
+46745,f,Fusion of paced and normal beat
+47033,f,Fusion of paced and normal beat
+47340,/,Paced beat
+47636,/,Paced beat
+47938,/,Paced beat
+48232,/,Paced beat
+48526,/,Paced beat
+48806,/,Paced beat
+49085,/,Paced beat
+49391,/,Paced beat
+49684,f,Fusion of paced and normal beat
+49934,N,Normal beat
+50247,f,Fusion of paced and normal beat
+50557,f,Fusion of paced and normal beat
+50820,f,Fusion of paced and normal beat
+51008,~,Signal quality change
+51097,f,Fusion of paced and normal beat
+51394,/,Paced beat
+51697,/,Paced beat
+51994,/,Paced beat
+52295,/,Paced beat
+52496,~,Signal quality change
+52587,/,Paced beat
+52875,/,Paced beat
+53154,/,Paced beat
+53436,/,Paced beat
+53739,/,Paced beat
+54035,/,Paced beat
+54165,+,Rhythm change
+54295,N,Normal beat
+54584,N,Normal beat
+54879,N,Normal beat
+55173,f,Fusion of paced and normal beat
+55464,f,Fusion of paced and normal beat
+55776,f,Fusion of paced and normal beat
+56050,f,Fusion of paced and normal beat
+56199,+,Rhythm change
+56348,/,Paced beat
+56644,/,Paced beat
+56800,~,Signal quality change
+56938,/,Paced beat
+57226,/,Paced beat
+57504,/,Paced beat
+57791,/,Paced beat
+58094,/,Paced beat
+58391,/,Paced beat
+58530,+,Rhythm change
+58669,N,Normal beat
+58951,N,Normal beat
+59265,f,Fusion of paced and normal beat
+59536,f,Fusion of paced and normal beat
+59668,~,Signal quality change
+59676,+,Rhythm change
+59816,/,Paced beat
+60122,/,Paced beat
+60421,/,Paced beat
+60607,~,Signal quality change
+60712,/,Paced beat
+60865,~,Signal quality change
+61011,/,Paced beat
+61307,/,Paced beat
+61589,/,Paced beat
+61755,~,Signal quality change
+61855,f,Fusion of paced and normal beat
+62126,N,Normal beat
+62458,f,Fusion of paced and normal beat
+62737,f,Fusion of paced and normal beat
+63040,/,Paced beat
+63333,/,Paced beat
+63623,/,Paced beat
+63905,/,Paced beat
+64188,/,Paced beat
+64487,/,Paced beat
+64785,/,Paced beat
+64921,+,Rhythm change
+65057,N,Normal beat
+65189,~,Signal quality change
+65335,N,Normal beat
+65652,f,Fusion of paced and normal beat
+65950,f,Fusion of paced and normal beat
+66205,f,Fusion of paced and normal beat
+66356,+,Rhythm change
+66508,/,Paced beat
+66808,/,Paced beat
+67045,~,Signal quality change
+67099,/,Paced beat
+67398,/,Paced beat
+67695,/,Paced beat
+67979,/,Paced beat
+68260,/,Paced beat
+68552,/,Paced beat
+68848,/,Paced beat
+69131,/,Paced beat
+69316,~,Signal quality change
+69450,/,Paced beat
+69577,+,Rhythm change
+69704,N,Normal beat
+69994,N,Normal beat
+70279,f,Fusion of paced and normal beat
+70562,f,Fusion of paced and normal beat
+70867,f,Fusion of paced and normal beat
+71170,f,Fusion of paced and normal beat
+71472,f,Fusion of paced and normal beat
+71770,f,Fusion of paced and normal beat
+72073,f,Fusion of paced and normal beat
+72360,f,Fusion of paced and normal beat
+72635,f,Fusion of paced and normal beat
+72934,f,Fusion of paced and normal beat
+73231,f,Fusion of paced and normal beat
+73527,f,Fusion of paced and normal beat
+73830,f,Fusion of paced and normal beat
+74120,f,Fusion of paced and normal beat
+74409,f,Fusion of paced and normal beat
+74680,f,Fusion of paced and normal beat
+74857,~,Signal quality change
+74961,Q,Unclassifiable beat
+75259,Q,Unclassifiable beat
+75552,f,Fusion of paced and normal beat
+75774,~,Signal quality change
+75849,f,Fusion of paced and normal beat
+76074,~,Signal quality change
+76146,f,Fusion of paced and normal beat
+76428,N,Normal beat
+76700,N,Normal beat
+76968,N,Normal beat
+77257,N,Normal beat
+77548,N,Normal beat
+77656,~,Signal quality change
+77838,N,Normal beat
+78133,N,Normal beat
+78425,N,Normal beat
+78707,N,Normal beat
+78983,N,Normal beat
+79260,N,Normal beat
+79387,~,Signal quality change
+79554,N,Normal beat
+79845,N,Normal beat
+80136,N,Normal beat
+80430,N,Normal beat
+80721,N,Normal beat
+80999,N,Normal beat
+81267,N,Normal beat
+81553,N,Normal beat
+81845,N,Normal beat
+82134,N,Normal beat
+82323,V,Premature ventricular contraction
+82480,+,Rhythm change
+82638,/,Paced beat
+82932,/,Paced beat
+83209,/,Paced beat
+83488,/,Paced beat
+83787,/,Paced beat
+84081,/,Paced beat
+84377,/,Paced beat
+84677,/,Paced beat
+84976,/,Paced beat
+85260,/,Paced beat
+85536,/,Paced beat
+85830,/,Paced beat
+86127,/,Paced beat
+86423,/,Paced beat
+86721,/,Paced beat
+87020,f,Fusion of paced and normal beat
+87310,f,Fusion of paced and normal beat
+87587,f,Fusion of paced and normal beat
+87874,f,Fusion of paced and normal beat
+88171,f,Fusion of paced and normal beat
+88491,f,Fusion of paced and normal beat
+88793,f,Fusion of paced and normal beat
+89085,f,Fusion of paced and normal beat
+89380,f,Fusion of paced and normal beat
+89655,f,Fusion of paced and normal beat
+89927,f,Fusion of paced and normal beat
+90015,~,Signal quality change
+90116,~,Signal quality change
+90223,f,Fusion of paced and normal beat
+90517,f,Fusion of paced and normal beat
+90731,~,Signal quality change
+90807,f,Fusion of paced and normal beat
+91107,f,Fusion of paced and normal beat
+91408,f,Fusion of paced and normal beat
+91693,f,Fusion of paced and normal beat
+91969,f,Fusion of paced and normal beat
+92267,f,Fusion of paced and normal beat
+92507,N,Normal beat
+92817,f,Fusion of paced and normal beat
+93118,f,Fusion of paced and normal beat
+93416,/,Paced beat
+93598,~,Signal quality change
+93712,/,Paced beat
+93994,/,Paced beat
+94270,/,Paced beat
+94567,/,Paced beat
+94861,/,Paced beat
+95161,/,Paced beat
+95462,/,Paced beat
+95764,/,Paced beat
+96048,/,Paced beat
+96325,/,Paced beat
+96621,/,Paced beat
+96913,/,Paced beat
+97204,/,Paced beat
+97505,/,Paced beat
+97647,~,Signal quality change
+97805,/,Paced beat
+98093,/,Paced beat
+98370,/,Paced beat
+98612,~,Signal quality change
+98661,/,Paced beat
+98961,/,Paced beat
+99248,/,Paced beat
+99502,~,Signal quality change
+99553,/,Paced beat
+99853,/,Paced beat
+99984,+,Rhythm change
+100116,N,Normal beat
+100349,N,Normal beat
+100624,N,Normal beat
+100902,N,Normal beat
+101187,N,Normal beat
+101478,N,Normal beat
+101765,N,Normal beat
+102062,N,Normal beat
+102348,N,Normal beat
+102616,N,Normal beat
+102893,N,Normal beat
+103176,N,Normal beat
+103463,N,Normal beat
+103632,~,Signal quality change
+103751,N,Normal beat
+104041,N,Normal beat
+104339,N,Normal beat
+104612,N,Normal beat
+104881,N,Normal beat
+105172,N,Normal beat
+105449,N,Normal beat
+105741,N,Normal beat
+106039,N,Normal beat
+106329,N,Normal beat
+106625,f,Fusion of paced and normal beat
+106898,f,Fusion of paced and normal beat
+107175,N,Normal beat
+107473,f,Fusion of paced and normal beat
+107764,f,Fusion of paced and normal beat
+108057,N,Normal beat
+108362,f,Fusion of paced and normal beat
+108665,f,Fusion of paced and normal beat
+108943,f,Fusion of paced and normal beat
+109223,f,Fusion of paced and normal beat
+109516,f,Fusion of paced and normal beat
+109809,f,Fusion of paced and normal beat
+110106,f,Fusion of paced and normal beat
+110398,f,Fusion of paced and normal beat
+110702,f,Fusion of paced and normal beat
+110997,f,Fusion of paced and normal beat
+111269,Q,Unclassifiable beat
+111566,Q,Unclassifiable beat
+111856,Q,Unclassifiable beat
+112150,Q,Unclassifiable beat
+112456,f,Fusion of paced and normal beat
+112756,f,Fusion of paced and normal beat
+113047,f,Fusion of paced and normal beat
+113327,Q,Unclassifiable beat
+113612,Q,Unclassifiable beat
+113908,Q,Unclassifiable beat
+114196,Q,Unclassifiable beat
+114505,Q,Unclassifiable beat
+114816,Q,Unclassifiable beat
+115121,Q,Unclassifiable beat
+115405,Q,Unclassifiable beat
+115658,Q,Unclassifiable beat
+115900,+,Rhythm change
+115955,f,Fusion of paced and normal beat
+116246,/,Paced beat
+116567,/,Paced beat
+116840,/,Paced beat
+117144,/,Paced beat
+117433,/,Paced beat
+117710,/,Paced beat
+117999,/,Paced beat
+118291,/,Paced beat
+118582,/,Paced beat
+118898,/,Paced beat
+119185,/,Paced beat
+119487,/,Paced beat
+119763,/,Paced beat
+120047,/,Paced beat
+120341,/,Paced beat
+120627,/,Paced beat
+120776,~,Signal quality change
+120925,/,Paced beat
+121228,/,Paced beat
+121530,/,Paced beat
+121709,~,Signal quality change
+121816,/,Paced beat
+122092,/,Paced beat
+122387,/,Paced beat
+122676,/,Paced beat
+122965,/,Paced beat
+123264,/,Paced beat
+123571,/,Paced beat
+123865,/,Paced beat
+124145,/,Paced beat
+124435,/,Paced beat
+124722,/,Paced beat
+125012,/,Paced beat
+125315,/,Paced beat
+125615,/,Paced beat
+125918,/,Paced beat
+126199,/,Paced beat
+126480,/,Paced beat
+126773,/,Paced beat
+127060,/,Paced beat
+127354,/,Paced beat
+127657,/,Paced beat
+127965,/,Paced beat
+128251,f,Fusion of paced and normal beat
+128528,f,Fusion of paced and normal beat
+128838,f,Fusion of paced and normal beat
+129106,f,Fusion of paced and normal beat
+129242,+,Rhythm change
+129379,N,Normal beat
+129666,N,Normal beat
+129950,N,Normal beat
+130236,N,Normal beat
+130502,N,Normal beat
+130770,N,Normal beat
+131056,N,Normal beat
+131279,~,Signal quality change
+131330,N,Normal beat
+131611,N,Normal beat
+131901,N,Normal beat
+132201,N,Normal beat
+132487,N,Normal beat
+132761,N,Normal beat
+133047,N,Normal beat
+133334,N,Normal beat
+133623,f,Fusion of paced and normal beat
+133918,N,Normal beat
+134218,N,Normal beat
+134526,f,Fusion of paced and normal beat
+134807,f,Fusion of paced and normal beat
+134937,~,Signal quality change
+135087,f,Fusion of paced and normal beat
+135386,f,Fusion of paced and normal beat
+135677,f,Fusion of paced and normal beat
+135976,f,Fusion of paced and normal beat
+136284,f,Fusion of paced and normal beat
+136586,f,Fusion of paced and normal beat
+136880,f,Fusion of paced and normal beat
+137159,f,Fusion of paced and normal beat
+137458,f,Fusion of paced and normal beat
+137746,f,Fusion of paced and normal beat
+137877,~,Signal quality change
+138037,f,Fusion of paced and normal beat
+138306,f,Fusion of paced and normal beat
+138494,~,Signal quality change
+138611,f,Fusion of paced and normal beat
+138909,f,Fusion of paced and normal beat
+139189,f,Fusion of paced and normal beat
+139477,f,Fusion of paced and normal beat
+139767,f,Fusion of paced and normal beat
+140053,f,Fusion of paced and normal beat
+140354,f,Fusion of paced and normal beat
+140656,f,Fusion of paced and normal beat
+140960,f,Fusion of paced and normal beat
+141269,f,Fusion of paced and normal beat
+141546,f,Fusion of paced and normal beat
+141833,f,Fusion of paced and normal beat
+142113,f,Fusion of paced and normal beat
+142398,f,Fusion of paced and normal beat
+142695,f,Fusion of paced and normal beat
+143002,f,Fusion of paced and normal beat
+143291,f,Fusion of paced and normal beat
+143562,f,Fusion of paced and normal beat
+143856,f,Fusion of paced and normal beat
+144143,f,Fusion of paced and normal beat
+144433,f,Fusion of paced and normal beat
+144733,f,Fusion of paced and normal beat
+145047,f,Fusion of paced and normal beat
+145347,f,Fusion of paced and normal beat
+145635,f,Fusion of paced and normal beat
+145937,f,Fusion of paced and normal beat
+146197,f,Fusion of paced and normal beat
+146484,f,Fusion of paced and normal beat
+146784,f,Fusion of paced and normal beat
+146935,+,Rhythm change
+147086,/,Paced beat
+147392,/,Paced beat
+147677,/,Paced beat
+147959,/,Paced beat
+148250,/,Paced beat
+148533,/,Paced beat
+148826,/,Paced beat
+149129,/,Paced beat
+149437,/,Paced beat
+149726,/,Paced beat
+150005,/,Paced beat
+150301,/,Paced beat
+150585,/,Paced beat
+150869,/,Paced beat
+151166,/,Paced beat
+151476,/,Paced beat
+151607,+,Rhythm change
+151739,N,Normal beat
+151994,N,Normal beat
+152286,f,Fusion of paced and normal beat
+152576,f,Fusion of paced and normal beat
+152862,f,Fusion of paced and normal beat
+153156,f,Fusion of paced and normal beat
+153456,f,Fusion of paced and normal beat
+153765,f,Fusion of paced and normal beat
+154062,f,Fusion of paced and normal beat
+154348,f,Fusion of paced and normal beat
+154644,f,Fusion of paced and normal beat
+154935,f,Fusion of paced and normal beat
+155201,f,Fusion of paced and normal beat
+155500,f,Fusion of paced and normal beat
+155813,f,Fusion of paced and normal beat
+155963,+,Rhythm change
+156113,/,Paced beat
+156392,/,Paced beat
+156687,/,Paced beat
+156971,/,Paced beat
+157250,/,Paced beat
+157546,/,Paced beat
+157850,/,Paced beat
+158152,/,Paced beat
+158439,/,Paced beat
+158569,+,Rhythm change
+158700,N,Normal beat
+158986,N,Normal beat
+159278,f,Fusion of paced and normal beat
+159587,f,Fusion of paced and normal beat
+159903,f,Fusion of paced and normal beat
+160188,f,Fusion of paced and normal beat
+160478,f,Fusion of paced and normal beat
+160619,+,Rhythm change
+160760,/,Paced beat
+161052,/,Paced beat
+161335,/,Paced beat
+161618,/,Paced beat
+161917,/,Paced beat
+162226,/,Paced beat
+162527,/,Paced beat
+162809,/,Paced beat
+163101,/,Paced beat
+163390,/,Paced beat
+163671,/,Paced beat
+163930,f,Fusion of paced and normal beat
+164223,N,Normal beat
+164538,f,Fusion of paced and normal beat
+164830,f,Fusion of paced and normal beat
+165116,f,Fusion of paced and normal beat
+165413,f,Fusion of paced and normal beat
+165702,f,Fusion of paced and normal beat
+165972,f,Fusion of paced and normal beat
+166271,f,Fusion of paced and normal beat
+166581,f,Fusion of paced and normal beat
+166881,/,Paced beat
+167160,/,Paced beat
+167455,/,Paced beat
+167740,/,Paced beat
+168020,/,Paced beat
+168315,/,Paced beat
+168621,/,Paced beat
+168923,/,Paced beat
+169211,/,Paced beat
+169499,/,Paced beat
+169785,/,Paced beat
+170066,/,Paced beat
+170361,/,Paced beat
+170494,+,Rhythm change
+170628,N,Normal beat
+170911,N,Normal beat
+171215,f,Fusion of paced and normal beat
+171499,f,Fusion of paced and normal beat
+171791,f,Fusion of paced and normal beat
+172071,f,Fusion of paced and normal beat
+172355,f,Fusion of paced and normal beat
+172652,f,Fusion of paced and normal beat
+172962,f,Fusion of paced and normal beat
+173264,f,Fusion of paced and normal beat
+173561,f,Fusion of paced and normal beat
+173855,f,Fusion of paced and normal beat
+174145,f,Fusion of paced and normal beat
+174397,f,Fusion of paced and normal beat
+174544,+,Rhythm change
+174691,/,Paced beat
+174995,/,Paced beat
+175302,/,Paced beat
+175592,/,Paced beat
+175880,/,Paced beat
+176168,/,Paced beat
+176447,/,Paced beat
+176738,/,Paced beat
+177038,/,Paced beat
+177347,/,Paced beat
+177641,/,Paced beat
+177925,/,Paced beat
+178055,+,Rhythm change
+178185,N,Normal beat
+178462,N,Normal beat
+178741,f,Fusion of paced and normal beat
+179042,f,Fusion of paced and normal beat
+179357,f,Fusion of paced and normal beat
+179667,f,Fusion of paced and normal beat
+179955,f,Fusion of paced and normal beat
+180258,f,Fusion of paced and normal beat
+180522,f,Fusion of paced and normal beat
+180799,f,Fusion of paced and normal beat
+180945,+,Rhythm change
+181091,/,Paced beat
+181391,/,Paced beat
+181625,~,Signal quality change
+181696,/,Paced beat
+182017,/,Paced beat
+182278,/,Paced beat
+182565,/,Paced beat
+182844,/,Paced beat
+183131,/,Paced beat
+183430,/,Paced beat
+183740,/,Paced beat
+183873,+,Rhythm change
+184006,N,Normal beat
+184280,N,Normal beat
+184586,f,Fusion of paced and normal beat
+184873,f,Fusion of paced and normal beat
+185159,f,Fusion of paced and normal beat
+185452,f,Fusion of paced and normal beat
+185650,~,Signal quality change
+185770,f,Fusion of paced and normal beat
+186047,f,Fusion of paced and normal beat
+186340,f,Fusion of paced and normal beat
+186487,+,Rhythm change
+186634,/,Paced beat
+186920,/,Paced beat
+187199,/,Paced beat
+187489,/,Paced beat
+187787,/,Paced beat
+188094,/,Paced beat
+188389,/,Paced beat
+188677,/,Paced beat
+188969,/,Paced beat
+189246,/,Paced beat
+189529,/,Paced beat
+189820,f,Fusion of paced and normal beat
+190077,N,Normal beat
+190388,f,Fusion of paced and normal beat
+190692,f,Fusion of paced and normal beat
+190994,f,Fusion of paced and normal beat
+191283,f,Fusion of paced and normal beat
+191567,f,Fusion of paced and normal beat
+191831,f,Fusion of paced and normal beat
+192132,f,Fusion of paced and normal beat
+192440,/,Paced beat
+192734,/,Paced beat
+193025,/,Paced beat
+193317,/,Paced beat
+193592,/,Paced beat
+193879,/,Paced beat
+194177,/,Paced beat
+194487,/,Paced beat
+194784,/,Paced beat
+194916,+,Rhythm change
+195048,N,Normal beat
+195345,N,Normal beat
+195641,f,Fusion of paced and normal beat
+195930,f,Fusion of paced and normal beat
+196202,f,Fusion of paced and normal beat
+196509,f,Fusion of paced and normal beat
+196660,+,Rhythm change
+196811,/,Paced beat
+197103,/,Paced beat
+197400,/,Paced beat
+197685,/,Paced beat
+197962,/,Paced beat
+198251,/,Paced beat
+198549,/,Paced beat
+198856,/,Paced beat
+199154,/,Paced beat
+199415,N,Normal beat
+199710,f,Fusion of paced and normal beat
+200000,f,Fusion of paced and normal beat
+200294,f,Fusion of paced and normal beat
+200598,f,Fusion of paced and normal beat
+200882,f,Fusion of paced and normal beat
+201180,f,Fusion of paced and normal beat
+201471,/,Paced beat
+201771,/,Paced beat
+202052,/,Paced beat
+202325,/,Paced beat
+202613,/,Paced beat
+202918,/,Paced beat
+203222,/,Paced beat
+203515,/,Paced beat
+203814,/,Paced beat
+203946,+,Rhythm change
+204078,N,Normal beat
+204339,N,Normal beat
+204635,f,Fusion of paced and normal beat
+204949,f,Fusion of paced and normal beat
+205260,f,Fusion of paced and normal beat
+205532,f,Fusion of paced and normal beat
+205827,f,Fusion of paced and normal beat
+205974,+,Rhythm change
+206122,/,Paced beat
+206400,/,Paced beat
+206684,/,Paced beat
+206975,/,Paced beat
+207283,/,Paced beat
+207584,/,Paced beat
+207874,/,Paced beat
+208175,/,Paced beat
+208460,/,Paced beat
+208731,/,Paced beat
+208864,+,Rhythm change
+208997,N,Normal beat
+209282,N,Normal beat
+209598,f,Fusion of paced and normal beat
+209899,f,Fusion of paced and normal beat
+210217,f,Fusion of paced and normal beat
+210483,f,Fusion of paced and normal beat
+210760,f,Fusion of paced and normal beat
+210903,+,Rhythm change
+211047,/,Paced beat
+211338,/,Paced beat
+211644,/,Paced beat
+211941,/,Paced beat
+212235,/,Paced beat
+212532,/,Paced beat
+212810,/,Paced beat
+213088,/,Paced beat
+213375,/,Paced beat
+213519,+,Rhythm change
+213664,N,Normal beat
+213951,N,Normal beat
+214268,f,Fusion of paced and normal beat
+214587,f,Fusion of paced and normal beat
+214847,f,Fusion of paced and normal beat
+215122,f,Fusion of paced and normal beat
+215264,+,Rhythm change
+215406,/,Paced beat
+215702,/,Paced beat
+216009,/,Paced beat
+216306,/,Paced beat
+216604,/,Paced beat
+216896,/,Paced beat
+217171,/,Paced beat
+217306,+,Rhythm change
+217442,N,Normal beat
+217713,N,Normal beat
+218046,f,Fusion of paced and normal beat
+218357,f,Fusion of paced and normal beat
+218624,f,Fusion of paced and normal beat
+218776,+,Rhythm change
+218928,/,Paced beat
+219208,/,Paced beat
+219485,/,Paced beat
+219769,/,Paced beat
+220071,/,Paced beat
+220376,/,Paced beat
+220669,/,Paced beat
+220974,/,Paced beat
+221256,f,Fusion of paced and normal beat
+221539,f,Fusion of paced and normal beat
+221840,f,Fusion of paced and normal beat
+222114,f,Fusion of paced and normal beat
+222420,/,Paced beat
+222718,/,Paced beat
+223019,/,Paced beat
+223315,/,Paced beat
+223592,/,Paced beat
+223875,/,Paced beat
+224162,/,Paced beat
+224469,/,Paced beat
+224744,N,Normal beat
+225040,f,Fusion of paced and normal beat
+225360,f,Fusion of paced and normal beat
+225662,f,Fusion of paced and normal beat
+225911,f,Fusion of paced and normal beat
+226197,/,Paced beat
+226496,/,Paced beat
+226798,/,Paced beat
+227094,/,Paced beat
+227400,/,Paced beat
+227689,/,Paced beat
+227967,/,Paced beat
+228249,/,Paced beat
+228537,/,Paced beat
+228681,+,Rhythm change
+228826,N,Normal beat
+229117,N,Normal beat
+229426,f,Fusion of paced and normal beat
+229743,f,Fusion of paced and normal beat
+230004,f,Fusion of paced and normal beat
+230283,f,Fusion of paced and normal beat
+230427,+,Rhythm change
+230572,/,Paced beat
+230876,/,Paced beat
+231177,/,Paced beat
+231472,/,Paced beat
+231778,/,Paced beat
+232062,/,Paced beat
+232333,/,Paced beat
+232615,/,Paced beat
+232912,/,Paced beat
+233054,+,Rhythm change
+233197,N,Normal beat
+233483,N,Normal beat
+233804,f,Fusion of paced and normal beat
+234114,f,Fusion of paced and normal beat
+234371,f,Fusion of paced and normal beat
+234513,+,Rhythm change
+234655,/,Paced beat
+234943,/,Paced beat
+235243,/,Paced beat
+235542,/,Paced beat
+235844,/,Paced beat
+236140,/,Paced beat
+236421,/,Paced beat
+236704,/,Paced beat
+236987,/,Paced beat
+237279,f,Fusion of paced and normal beat
+237584,f,Fusion of paced and normal beat
+237896,f,Fusion of paced and normal beat
+238192,f,Fusion of paced and normal beat
+238480,/,Paced beat
+238752,/,Paced beat
+239035,/,Paced beat
+239332,/,Paced beat
+239630,/,Paced beat
+239925,/,Paced beat
+240236,/,Paced beat
+240530,/,Paced beat
+240798,f,Fusion of paced and normal beat
+241081,f,Fusion of paced and normal beat
+241391,f,Fusion of paced and normal beat
+241669,f,Fusion of paced and normal beat
+241966,/,Paced beat
+242272,/,Paced beat
+242573,/,Paced beat
+242852,/,Paced beat
+243136,/,Paced beat
+243420,/,Paced beat
+243718,/,Paced beat
+244017,/,Paced beat
+244295,N,Normal beat
+244612,f,Fusion of paced and normal beat
+244924,f,Fusion of paced and normal beat
+245176,f,Fusion of paced and normal beat
+245459,/,Paced beat
+245756,/,Paced beat
+246056,/,Paced beat
+246351,/,Paced beat
+246664,/,Paced beat
+246958,/,Paced beat
+247232,/,Paced beat
+247513,/,Paced beat
+247777,N,Normal beat
+248083,f,Fusion of paced and normal beat
+248408,f,Fusion of paced and normal beat
+248684,f,Fusion of paced and normal beat
+248986,/,Paced beat
+249268,/,Paced beat
+249551,/,Paced beat
+249836,/,Paced beat
+250135,/,Paced beat
+250430,/,Paced beat
+250726,/,Paced beat
+251037,/,Paced beat
+251323,f,Fusion of paced and normal beat
+251570,N,Normal beat
+251875,f,Fusion of paced and normal beat
+252153,f,Fusion of paced and normal beat
+252450,f,Fusion of paced and normal beat
+252747,/,Paced beat
+253055,/,Paced beat
+253356,/,Paced beat
+253636,/,Paced beat
+253918,/,Paced beat
+254204,/,Paced beat
+254501,/,Paced beat
+254794,/,Paced beat
+255090,f,Fusion of paced and normal beat
+255407,f,Fusion of paced and normal beat
+255708,f,Fusion of paced and normal beat
+255968,f,Fusion of paced and normal beat
+256253,/,Paced beat
+256545,/,Paced beat
+256840,/,Paced beat
+257136,/,Paced beat
+257449,/,Paced beat
+257743,/,Paced beat
+258018,/,Paced beat
+258296,f,Fusion of paced and normal beat
+258593,f,Fusion of paced and normal beat
+258883,f,Fusion of paced and normal beat
+259180,/,Paced beat
+259492,/,Paced beat
+259790,/,Paced beat
+260072,/,Paced beat
+260353,/,Paced beat
+260634,/,Paced beat
+260931,/,Paced beat
+261225,f,Fusion of paced and normal beat
+261484,N,Normal beat
+261808,/,Paced beat
+262095,/,Paced beat
+262375,/,Paced beat
+262659,/,Paced beat
+262952,/,Paced beat
+263243,/,Paced beat
+263539,/,Paced beat
+263850,f,Fusion of paced and normal beat
+264137,f,Fusion of paced and normal beat
+264434,f,Fusion of paced and normal beat
+264700,f,Fusion of paced and normal beat
+264992,/,Paced beat
+265285,/,Paced beat
+265578,/,Paced beat
+265889,/,Paced beat
+266193,/,Paced beat
+266477,/,Paced beat
+266759,/,Paced beat
+267042,/,Paced beat
+267326,f,Fusion of paced and normal beat
+267619,f,Fusion of paced and normal beat
+267943,f,Fusion of paced and normal beat
+268234,f,Fusion of paced and normal beat
+268521,f,Fusion of paced and normal beat
+268807,/,Paced beat
+269089,/,Paced beat
+269383,/,Paced beat
+269672,/,Paced beat
+269966,/,Paced beat
+270283,/,Paced beat
+270578,/,Paced beat
+270856,/,Paced beat
+271107,N,Normal beat
+271405,f,Fusion of paced and normal beat
+271702,f,Fusion of paced and normal beat
+272007,f,Fusion of paced and normal beat
+272298,f,Fusion of paced and normal beat
+272599,f,Fusion of paced and normal beat
+272887,/,Paced beat
+273169,/,Paced beat
+273450,/,Paced beat
+273742,/,Paced beat
+274035,/,Paced beat
+274338,/,Paced beat
+274646,/,Paced beat
+274937,/,Paced beat
+275200,N,Normal beat
+275490,f,Fusion of paced and normal beat
+275805,f,Fusion of paced and normal beat
+276073,f,Fusion of paced and normal beat
+276368,/,Paced beat
+276681,/,Paced beat
+276977,/,Paced beat
+277258,/,Paced beat
+277540,/,Paced beat
+277829,/,Paced beat
+278117,/,Paced beat
+278405,f,Fusion of paced and normal beat
+278717,f,Fusion of paced and normal beat
+279044,f,Fusion of paced and normal beat
+279309,/,Paced beat
+279595,/,Paced beat
+279878,/,Paced beat
+280165,/,Paced beat
+280453,/,Paced beat
+280756,/,Paced beat
+281064,/,Paced beat
+281356,f,Fusion of paced and normal beat
+281645,f,Fusion of paced and normal beat
+281928,f,Fusion of paced and normal beat
+282221,/,Paced beat
+282508,/,Paced beat
+282799,/,Paced beat
+283116,/,Paced beat
+283416,/,Paced beat
+283695,/,Paced beat
+283978,/,Paced beat
+284268,f,Fusion of paced and normal beat
+284556,f,Fusion of paced and normal beat
+284840,f,Fusion of paced and normal beat
+285157,/,Paced beat
+285461,/,Paced beat
+285751,/,Paced beat
+286035,/,Paced beat
+286318,/,Paced beat
+286606,/,Paced beat
+286891,/,Paced beat
+287191,f,Fusion of paced and normal beat
+287512,f,Fusion of paced and normal beat
+287792,f,Fusion of paced and normal beat
+288084,/,Paced beat
+288367,/,Paced beat
+288655,/,Paced beat
+288940,/,Paced beat
+289232,/,Paced beat
+289547,/,Paced beat
+289846,/,Paced beat
+290119,N,Normal beat
+290407,f,Fusion of paced and normal beat
+290718,f,Fusion of paced and normal beat
+290989,f,Fusion of paced and normal beat
+291275,/,Paced beat
+291589,/,Paced beat
+291894,/,Paced beat
+292180,/,Paced beat
+292463,/,Paced beat
+292747,/,Paced beat
+293033,/,Paced beat
+293292,N,Normal beat
+293608,f,Fusion of paced and normal beat
+293937,f,Fusion of paced and normal beat
+294205,f,Fusion of paced and normal beat
+294501,/,Paced beat
+294783,/,Paced beat
+295072,/,Paced beat
+295353,/,Paced beat
+295643,/,Paced beat
+295956,/,Paced beat
+296253,/,Paced beat
+296521,N,Normal beat
+296822,f,Fusion of paced and normal beat
+297107,f,Fusion of paced and normal beat
+297393,/,Paced beat
+297676,/,Paced beat
+297988,/,Paced beat
+298295,/,Paced beat
+298584,/,Paced beat
+298869,/,Paced beat
+299157,/,Paced beat
+299433,f,Fusion of paced and normal beat
+299730,f,Fusion of paced and normal beat
+300024,f,Fusion of paced and normal beat
+300334,/,Paced beat
+300628,/,Paced beat
+300922,/,Paced beat
+301207,/,Paced beat
+301494,/,Paced beat
+301774,/,Paced beat
+302067,f,Fusion of paced and normal beat
+302382,f,Fusion of paced and normal beat
+302670,f,Fusion of paced and normal beat
+302967,/,Paced beat
+303251,/,Paced beat
+303543,/,Paced beat
+303825,/,Paced beat
+304108,/,Paced beat
+304420,/,Paced beat
+304724,f,Fusion of paced and normal beat
+305037,f,Fusion of paced and normal beat
+305301,/,Paced beat
+305591,/,Paced beat
+305877,/,Paced beat
+306158,/,Paced beat
+306460,/,Paced beat
+306767,/,Paced beat
+307063,f,Fusion of paced and normal beat
+307360,f,Fusion of paced and normal beat
+307638,f,Fusion of paced and normal beat
+307928,/,Paced beat
+308207,/,Paced beat
+308498,/,Paced beat
+308806,/,Paced beat
+309101,/,Paced beat
+309401,/,Paced beat
+309682,f,Fusion of paced and normal beat
+309984,f,Fusion of paced and normal beat
+310261,f,Fusion of paced and normal beat
+310544,/,Paced beat
+310854,/,Paced beat
+311156,/,Paced beat
+311448,/,Paced beat
+311737,/,Paced beat
+312028,/,Paced beat
+312298,N,Normal beat
+312585,f,Fusion of paced and normal beat
+312918,f,Fusion of paced and normal beat
+313198,/,Paced beat
+313492,/,Paced beat
+313791,/,Paced beat
+314078,/,Paced beat
+314365,/,Paced beat
+314643,/,Paced beat
+314934,/,Paced beat
+315234,f,Fusion of paced and normal beat
+315545,f,Fusion of paced and normal beat
+315833,f,Fusion of paced and normal beat
+316125,/,Paced beat
+316417,/,Paced beat
+316695,/,Paced beat
+316975,/,Paced beat
+317286,/,Paced beat
+317587,/,Paced beat
+317872,f,Fusion of paced and normal beat
+318168,f,Fusion of paced and normal beat
+318484,f,Fusion of paced and normal beat
+318748,/,Paced beat
+319027,/,Paced beat
+319326,/,Paced beat
+319631,/,Paced beat
+319927,/,Paced beat
+320221,/,Paced beat
+320510,/,Paced beat
+320804,f,Fusion of paced and normal beat
+321098,f,Fusion of paced and normal beat
+321368,/,Paced beat
+321674,/,Paced beat
+321969,/,Paced beat
+322269,/,Paced beat
+322561,/,Paced beat
+322851,/,Paced beat
+323133,f,Fusion of paced and normal beat
+323426,f,Fusion of paced and normal beat
+323714,/,Paced beat
+324012,/,Paced beat
+324307,/,Paced beat
+324603,/,Paced beat
+324899,/,Paced beat
+325179,/,Paced beat
+325469,f,Fusion of paced and normal beat
+325769,f,Fusion of paced and normal beat
+326059,f,Fusion of paced and normal beat
+326354,/,Paced beat
+326650,/,Paced beat
+326945,/,Paced beat
+327232,/,Paced beat
+327508,/,Paced beat
+327809,f,Fusion of paced and normal beat
+328115,f,Fusion of paced and normal beat
+328397,f,Fusion of paced and normal beat
+328698,/,Paced beat
+328991,/,Paced beat
+329283,/,Paced beat
+329559,/,Paced beat
+329844,/,Paced beat
+330150,f,Fusion of paced and normal beat
+330459,f,Fusion of paced and normal beat
+330740,f,Fusion of paced and normal beat
+331038,/,Paced beat
+331332,/,Paced beat
+331612,/,Paced beat
+331888,/,Paced beat
+332189,/,Paced beat
+332485,f,Fusion of paced and normal beat
+332780,f,Fusion of paced and normal beat
+333075,f,Fusion of paced and normal beat
+333358,V,Premature ventricular contraction
+333655,/,Paced beat
+333933,/,Paced beat
+334228,/,Paced beat
+334525,/,Paced beat
+334812,f,Fusion of paced and normal beat
+335114,f,Fusion of paced and normal beat
+335438,f,Fusion of paced and normal beat
+335708,/,Paced beat
+335986,/,Paced beat
+336269,/,Paced beat
+336568,/,Paced beat
+336862,/,Paced beat
+337162,/,Paced beat
+337453,f,Fusion of paced and normal beat
+337757,f,Fusion of paced and normal beat
+338057,f,Fusion of paced and normal beat
+338315,f,Fusion of paced and normal beat
+338614,/,Paced beat
+338908,/,Paced beat
+339204,/,Paced beat
+339502,/,Paced beat
+339803,/,Paced beat
+340088,/,Paced beat
+340364,f,Fusion of paced and normal beat
+340677,f,Fusion of paced and normal beat
+340957,/,Paced beat
+341253,/,Paced beat
+341554,/,Paced beat
+341854,/,Paced beat
+342145,/,Paced beat
+342422,/,Paced beat
+342709,/,Paced beat
+343001,f,Fusion of paced and normal beat
+343314,f,Fusion of paced and normal beat
+343600,f,Fusion of paced and normal beat
+343900,/,Paced beat
+344200,/,Paced beat
+344479,/,Paced beat
+344755,/,Paced beat
+345056,/,Paced beat
+345351,f,Fusion of paced and normal beat
+345646,f,Fusion of paced and normal beat
+345944,f,Fusion of paced and normal beat
+346247,/,Paced beat
+346530,/,Paced beat
+346806,/,Paced beat
+347102,/,Paced beat
+347395,/,Paced beat
+347689,/,Paced beat
+347994,f,Fusion of paced and normal beat
+348286,f,Fusion of paced and normal beat
+348581,/,Paced beat
+348861,/,Paced beat
+349146,/,Paced beat
+349440,/,Paced beat
+349734,/,Paced beat
+350035,f,Fusion of paced and normal beat
+350336,f,Fusion of paced and normal beat
+350636,f,Fusion of paced and normal beat
+350916,/,Paced beat
+351196,/,Paced beat
+351490,/,Paced beat
+351779,/,Paced beat
+352075,/,Paced beat
+352374,f,Fusion of paced and normal beat
+352676,f,Fusion of paced and normal beat
+352964,f,Fusion of paced and normal beat
+353239,/,Paced beat
+353536,/,Paced beat
+353827,/,Paced beat
+354115,/,Paced beat
+354416,/,Paced beat
+354723,/,Paced beat
+354993,N,Normal beat
+355284,f,Fusion of paced and normal beat
+355571,f,Fusion of paced and normal beat
+355861,/,Paced beat
+356153,/,Paced beat
+356456,/,Paced beat
+356755,/,Paced beat
+357057,/,Paced beat
+357337,/,Paced beat
+357618,f,Fusion of paced and normal beat
+357900,N,Normal beat
+358201,f,Fusion of paced and normal beat
+358525,f,Fusion of paced and normal beat
+358801,/,Paced beat
+359107,/,Paced beat
+359389,/,Paced beat
+359666,/,Paced beat
+359962,/,Paced beat
+360247,/,Paced beat
+360538,/,Paced beat
+360810,N,Normal beat
+361132,f,Fusion of paced and normal beat
+361421,f,Fusion of paced and normal beat
+361699,/,Paced beat
+361992,/,Paced beat
+362281,/,Paced beat
+362566,/,Paced beat
+362866,/,Paced beat
+363169,/,Paced beat
+363461,f,Fusion of paced and normal beat
+363752,f,Fusion of paced and normal beat
+364062,f,Fusion of paced and normal beat
+364326,/,Paced beat
+364613,/,Paced beat
+364913,/,Paced beat
+365215,/,Paced beat
+365525,/,Paced beat
+365813,/,Paced beat
+366089,f,Fusion of paced and normal beat
+366382,f,Fusion of paced and normal beat
+366666,f,Fusion of paced and normal beat
+366953,/,Paced beat
+367257,/,Paced beat
+367564,/,Paced beat
+367857,/,Paced beat
+368137,/,Paced beat
+368431,/,Paced beat
+368720,f,Fusion of paced and normal beat
+368999,f,Fusion of paced and normal beat
+369300,/,Paced beat
+369606,/,Paced beat
+369907,/,Paced beat
+370191,/,Paced beat
+370477,/,Paced beat
+370765,/,Paced beat
+371053,f,Fusion of paced and normal beat
+371347,f,Fusion of paced and normal beat
+371652,/,Paced beat
+371958,/,Paced beat
+372245,/,Paced beat
+372526,/,Paced beat
+372819,/,Paced beat
+373104,/,Paced beat
+373395,f,Fusion of paced and normal beat
+373719,f,Fusion of paced and normal beat
+374005,/,Paced beat
+374298,/,Paced beat
+374576,/,Paced beat
+374873,/,Paced beat
+375158,/,Paced beat
+375439,/,Paced beat
+375724,N,Normal beat
+376043,f,Fusion of paced and normal beat
+376340,f,Fusion of paced and normal beat
+376627,/,Paced beat
+376918,/,Paced beat
+377204,/,Paced beat
+377488,/,Paced beat
+377785,/,Paced beat
+378086,/,Paced beat
+378378,N,Normal beat
+378673,f,Fusion of paced and normal beat
+378981,f,Fusion of paced and normal beat
+379253,/,Paced beat
+379531,/,Paced beat
+379822,/,Paced beat
+380123,/,Paced beat
+380434,/,Paced beat
+380730,/,Paced beat
+381011,/,Paced beat
+381286,N,Normal beat
+381593,f,Fusion of paced and normal beat
+381859,f,Fusion of paced and normal beat
+382156,/,Paced beat
+382466,/,Paced beat
+382766,/,Paced beat
+383049,/,Paced beat
+383343,/,Paced beat
+383628,/,Paced beat
+383891,N,Normal beat
+384194,f,Fusion of paced and normal beat
+384524,f,Fusion of paced and normal beat
+384805,/,Paced beat
+385097,/,Paced beat
+385386,/,Paced beat
+385673,/,Paced beat
+385954,/,Paced beat
+386247,/,Paced beat
+386546,f,Fusion of paced and normal beat
+386861,f,Fusion of paced and normal beat
+387147,f,Fusion of paced and normal beat
+387432,/,Paced beat
+387726,/,Paced beat
+388007,/,Paced beat
+388286,/,Paced beat
+388584,/,Paced beat
+388895,/,Paced beat
+389199,f,Fusion of paced and normal beat
+389480,f,Fusion of paced and normal beat
+389779,/,Paced beat
+390063,/,Paced beat
+390339,/,Paced beat
+390627,/,Paced beat
+390933,/,Paced beat
+391238,f,Fusion of paced and normal beat
+391532,f,Fusion of paced and normal beat
+391820,f,Fusion of paced and normal beat
+392107,/,Paced beat
+392385,/,Paced beat
+392676,/,Paced beat
+392974,/,Paced beat
+393282,/,Paced beat
+393582,f,Fusion of paced and normal beat
+393889,f,Fusion of paced and normal beat
+394160,/,Paced beat
+394439,/,Paced beat
+394723,/,Paced beat
+395017,/,Paced beat
+395331,/,Paced beat
+395629,/,Paced beat
+395911,f,Fusion of paced and normal beat
+396222,f,Fusion of paced and normal beat
+396494,f,Fusion of paced and normal beat
+396769,/,Paced beat
+397061,/,Paced beat
+397367,/,Paced beat
+397670,/,Paced beat
+397964,/,Paced beat
+398262,/,Paced beat
+398549,f,Fusion of paced and normal beat
+398840,f,Fusion of paced and normal beat
+399108,/,Paced beat
+399407,/,Paced beat
+399714,/,Paced beat
+400009,/,Paced beat
+400306,/,Paced beat
+400596,/,Paced beat
+400874,/,Paced beat
+401149,N,Normal beat
+401460,f,Fusion of paced and normal beat
+401764,f,Fusion of paced and normal beat
+402064,/,Paced beat
+402353,/,Paced beat
+402651,/,Paced beat
+402934,/,Paced beat
+403208,/,Paced beat
+403496,/,Paced beat
+403806,/,Paced beat
+404091,N,Normal beat
+404397,f,Fusion of paced and normal beat
+404699,f,Fusion of paced and normal beat
+404985,/,Paced beat
+405259,/,Paced beat
+405545,/,Paced beat
+405843,/,Paced beat
+406147,/,Paced beat
+406442,/,Paced beat
+406741,/,Paced beat
+407030,f,Fusion of paced and normal beat
+407327,f,Fusion of paced and normal beat
+407592,/,Paced beat
+407884,/,Paced beat
+408194,/,Paced beat
+408491,/,Paced beat
+408788,/,Paced beat
+409085,/,Paced beat
+409360,f,Fusion of paced and normal beat
+409637,f,Fusion of paced and normal beat
+409928,f,Fusion of paced and normal beat
+410238,/,Paced beat
+410540,/,Paced beat
+410832,/,Paced beat
+411136,/,Paced beat
+411421,/,Paced beat
+411692,/,Paced beat
+411985,f,Fusion of paced and normal beat
+412302,f,Fusion of paced and normal beat
+412581,/,Paced beat
+412874,/,Paced beat
+413181,/,Paced beat
+413469,/,Paced beat
+413744,/,Paced beat
+414028,/,Paced beat
+414329,f,Fusion of paced and normal beat
+414620,f,Fusion of paced and normal beat
+414920,/,Paced beat
+415220,/,Paced beat
+415514,/,Paced beat
+415793,/,Paced beat
+416077,/,Paced beat
+416369,f,Fusion of paced and normal beat
+416670,f,Fusion of paced and normal beat
+416968,f,Fusion of paced and normal beat
+417265,/,Paced beat
+417570,/,Paced beat
+417852,/,Paced beat
+418127,/,Paced beat
+418412,/,Paced beat
+418707,f,Fusion of paced and normal beat
+419006,f,Fusion of paced and normal beat
+419304,f,Fusion of paced and normal beat
+419617,/,Paced beat
+419906,/,Paced beat
+420179,/,Paced beat
+420459,/,Paced beat
+420755,/,Paced beat
+421055,/,Paced beat
+421334,N,Normal beat
+421658,f,Fusion of paced and normal beat
+421970,f,Fusion of paced and normal beat
+422226,f,Fusion of paced and normal beat
+422511,/,Paced beat
+422794,/,Paced beat
+423095,/,Paced beat
+423396,/,Paced beat
+423695,/,Paced beat
+423997,/,Paced beat
+424261,N,Normal beat
+424558,f,Fusion of paced and normal beat
+424835,f,Fusion of paced and normal beat
+425139,/,Paced beat
+425437,/,Paced beat
+425732,/,Paced beat
+426044,/,Paced beat
+426329,/,Paced beat
+426602,/,Paced beat
+426872,N,Normal beat
+427179,f,Fusion of paced and normal beat
+427473,f,Fusion of paced and normal beat
+427772,/,Paced beat
+428080,f,Fusion of paced and normal beat
+428377,/,Paced beat
+428655,/,Paced beat
+428937,/,Paced beat
+429224,/,Paced beat
+429522,f,Fusion of paced and normal beat
+429821,f,Fusion of paced and normal beat
+430122,f,Fusion of paced and normal beat
+430426,/,Paced beat
+430706,/,Paced beat
+430990,/,Paced beat
+431274,/,Paced beat
+431571,/,Paced beat
+431868,/,Paced beat
+432180,f,Fusion of paced and normal beat
+432474,f,Fusion of paced and normal beat
+432767,/,Paced beat
+433041,/,Paced beat
+433323,/,Paced beat
+433618,/,Paced beat
+433912,/,Paced beat
+434213,f,Fusion of paced and normal beat
+434537,f,Fusion of paced and normal beat
+434818,/,Paced beat
+435095,/,Paced beat
+435375,/,Paced beat
+435661,/,Paced beat
+435956,/,Paced beat
+436252,/,Paced beat
+436569,f,Fusion of paced and normal beat
+436862,f,Fusion of paced and normal beat
+437149,/,Paced beat
+437431,/,Paced beat
+437713,/,Paced beat
+438008,/,Paced beat
+438301,/,Paced beat
+438603,/,Paced beat
+438921,f,Fusion of paced and normal beat
+439196,f,Fusion of paced and normal beat
+439479,/,Paced beat
+439760,/,Paced beat
+440055,/,Paced beat
+440349,/,Paced beat
+440644,/,Paced beat
+440958,f,Fusion of paced and normal beat
+441254,f,Fusion of paced and normal beat
+441528,f,Fusion of paced and normal beat
+441809,/,Paced beat
+442101,/,Paced beat
+442390,/,Paced beat
+442683,/,Paced beat
+442997,/,Paced beat
+443297,/,Paced beat
+443562,N,Normal beat
+443871,f,Fusion of paced and normal beat
+444138,f,Fusion of paced and normal beat
+444431,/,Paced beat
+444724,/,Paced beat
+445030,/,Paced beat
+445336,/,Paced beat
+445626,/,Paced beat
+445911,/,Paced beat
+446179,N,Normal beat
+446484,f,Fusion of paced and normal beat
+446767,f,Fusion of paced and normal beat
+447066,/,Paced beat
+447379,/,Paced beat
+447673,/,Paced beat
+447956,/,Paced beat
+448238,/,Paced beat
+448528,/,Paced beat
+448816,/,Paced beat
+449105,f,Fusion of paced and normal beat
+449441,f,Fusion of paced and normal beat
+449723,f,Fusion of paced and normal beat
+450006,/,Paced beat
+450287,/,Paced beat
+450575,/,Paced beat
+450859,/,Paced beat
+451147,/,Paced beat
+451461,/,Paced beat
+451753,N,Normal beat
+452059,f,Fusion of paced and normal beat
+452339,f,Fusion of paced and normal beat
+452622,/,Paced beat
+452911,/,Paced beat
+453200,/,Paced beat
+453500,/,Paced beat
+453809,/,Paced beat
+454103,/,Paced beat
+454393,f,Fusion of paced and normal beat
+454693,f,Fusion of paced and normal beat
+454966,/,Paced beat
+455249,/,Paced beat
+455542,/,Paced beat
+455858,/,Paced beat
+456154,/,Paced beat
+456440,/,Paced beat
+456724,f,Fusion of paced and normal beat
+457022,f,Fusion of paced and normal beat
+457298,/,Paced beat
+457584,/,Paced beat
+457898,/,Paced beat
+458199,/,Paced beat
+458487,/,Paced beat
+458772,/,Paced beat
+459062,f,Fusion of paced and normal beat
+459358,f,Fusion of paced and normal beat
+459629,/,Paced beat
+459936,/,Paced beat
+460243,/,Paced beat
+460539,/,Paced beat
+460833,/,Paced beat
+461115,/,Paced beat
+461409,f,Fusion of paced and normal beat
+461684,f,Fusion of paced and normal beat
+461978,/,Paced beat
+462293,/,Paced beat
+462590,/,Paced beat
+462879,/,Paced beat
+463164,/,Paced beat
+463456,/,Paced beat
+463738,f,Fusion of paced and normal beat
+464021,f,Fusion of paced and normal beat
+464340,/,Paced beat
+464642,/,Paced beat
+464931,/,Paced beat
+465217,/,Paced beat
+465503,/,Paced beat
+465788,/,Paced beat
+466051,N,Normal beat
+466384,f,Fusion of paced and normal beat
+466675,f,Fusion of paced and normal beat
+466971,/,Paced beat
+467263,/,Paced beat
+467547,/,Paced beat
+467833,/,Paced beat
+468116,/,Paced beat
+468412,/,Paced beat
+468698,N,Normal beat
+469008,f,Fusion of paced and normal beat
+469300,f,Fusion of paced and normal beat
+469587,/,Paced beat
+469878,/,Paced beat
+470159,/,Paced beat
+470443,/,Paced beat
+470755,/,Paced beat
+471054,/,Paced beat
+471342,/,Paced beat
+471610,N,Normal beat
+471927,f,Fusion of paced and normal beat
+472194,f,Fusion of paced and normal beat
+472475,/,Paced beat
+472784,/,Paced beat
+473085,/,Paced beat
+473378,/,Paced beat
+473670,/,Paced beat
+473959,/,Paced beat
+474231,N,Normal beat
+474514,f,Fusion of paced and normal beat
+474816,f,Fusion of paced and normal beat
+475123,/,Paced beat
+475421,/,Paced beat
+475720,/,Paced beat
+476008,/,Paced beat
+476297,/,Paced beat
+476575,/,Paced beat
+476860,f,Fusion of paced and normal beat
+477179,f,Fusion of paced and normal beat
+477466,/,Paced beat
+477764,/,Paced beat
+478055,/,Paced beat
+478347,/,Paced beat
+478627,/,Paced beat
+478905,/,Paced beat
+479214,f,Fusion of paced and normal beat
+479512,f,Fusion of paced and normal beat
+479804,f,Fusion of paced and normal beat
+480102,/,Paced beat
+480396,/,Paced beat
+480676,/,Paced beat
+480954,/,Paced beat
+481257,/,Paced beat
+481557,/,Paced beat
+481862,f,Fusion of paced and normal beat
+482146,f,Fusion of paced and normal beat
+482439,/,Paced beat
+482727,/,Paced beat
+483006,/,Paced beat
+483296,/,Paced beat
+483599,/,Paced beat
+483905,f,Fusion of paced and normal beat
+484208,f,Fusion of paced and normal beat
+484492,f,Fusion of paced and normal beat
+484785,/,Paced beat
+485063,/,Paced beat
+485346,/,Paced beat
+485646,/,Paced beat
+485941,/,Paced beat
+486244,f,Fusion of paced and normal beat
+486534,f,Fusion of paced and normal beat
+486831,/,Paced beat
+487113,/,Paced beat
+487389,/,Paced beat
+487691,/,Paced beat
+487989,/,Paced beat
+488282,/,Paced beat
+488573,f,Fusion of paced and normal beat
+488896,f,Fusion of paced and normal beat
+489165,/,Paced beat
+489443,/,Paced beat
+489738,/,Paced beat
+490035,/,Paced beat
+490332,/,Paced beat
+490633,/,Paced beat
+490904,N,Normal beat
+491211,f,Fusion of paced and normal beat
+491484,f,Fusion of paced and normal beat
+491769,/,Paced beat
+492071,/,Paced beat
+492364,/,Paced beat
+492665,/,Paced beat
+492965,/,Paced beat
+493263,/,Paced beat
+493541,/,Paced beat
+493798,N,Normal beat
+494114,f,Fusion of paced and normal beat
+494405,f,Fusion of paced and normal beat
+494700,/,Paced beat
+494999,/,Paced beat
+495298,/,Paced beat
+495585,/,Paced beat
+495860,/,Paced beat
+496157,/,Paced beat
+496453,/,Paced beat
+496725,N,Normal beat
+497047,f,Fusion of paced and normal beat
+497336,f,Fusion of paced and normal beat
+497629,/,Paced beat
+497909,/,Paced beat
+498194,/,Paced beat
+498486,/,Paced beat
+498780,/,Paced beat
+499083,/,Paced beat
+499375,f,Fusion of paced and normal beat
+499681,f,Fusion of paced and normal beat
+499984,f,Fusion of paced and normal beat
+500241,/,Paced beat
+500537,/,Paced beat
+500828,/,Paced beat
+501123,/,Paced beat
+501426,/,Paced beat
+501730,/,Paced beat
+502012,/,Paced beat
+502292,f,Fusion of paced and normal beat
+502606,f,Fusion of paced and normal beat
+502872,/,Paced beat
+503163,/,Paced beat
+503464,/,Paced beat
+503771,/,Paced beat
+504063,/,Paced beat
+504340,/,Paced beat
+504634,f,Fusion of paced and normal beat
+504939,f,Fusion of paced and normal beat
+505213,/,Paced beat
+505513,/,Paced beat
+505816,/,Paced beat
+506113,/,Paced beat
+506392,/,Paced beat
+506678,/,Paced beat
+506967,f,Fusion of paced and normal beat
+507257,f,Fusion of paced and normal beat
+507558,f,Fusion of paced and normal beat
+507859,/,Paced beat
+508166,/,Paced beat
+508446,/,Paced beat
+508725,/,Paced beat
+509021,/,Paced beat
+509305,/,Paced beat
+509599,f,Fusion of paced and normal beat
+509922,f,Fusion of paced and normal beat
+510208,/,Paced beat
+510495,/,Paced beat
+510773,/,Paced beat
+511069,/,Paced beat
+511353,/,Paced beat
+511640,/,Paced beat
+511938,f,Fusion of paced and normal beat
+512247,f,Fusion of paced and normal beat
+512544,f,Fusion of paced and normal beat
+512826,/,Paced beat
+513116,/,Paced beat
+513406,/,Paced beat
+513690,/,Paced beat
+513988,/,Paced beat
+514292,/,Paced beat
+514573,N,Normal beat
+514880,f,Fusion of paced and normal beat
+515155,/,Paced beat
+515443,/,Paced beat
+515725,/,Paced beat
+516023,/,Paced beat
+516325,/,Paced beat
+516633,/,Paced beat
+516923,/,Paced beat
+517198,f,Fusion of paced and normal beat
+517471,N,Normal beat
+517778,f,Fusion of paced and normal beat
+518048,f,Fusion of paced and normal beat
+518349,/,Paced beat
+518661,/,Paced beat
+518957,/,Paced beat
+519239,/,Paced beat
+519533,/,Paced beat
+519818,/,Paced beat
+520093,f,Fusion of paced and normal beat
+520391,f,Fusion of paced and normal beat
+520723,f,Fusion of paced and normal beat
+521007,f,Fusion of paced and normal beat
+521294,/,Paced beat
+521582,/,Paced beat
+521871,/,Paced beat
+522151,/,Paced beat
+522446,/,Paced beat
+522750,/,Paced beat
+523060,f,Fusion of paced and normal beat
+523370,f,Fusion of paced and normal beat
+523631,/,Paced beat
+523924,/,Paced beat
+524205,/,Paced beat
+524493,/,Paced beat
+524792,/,Paced beat
+525103,/,Paced beat
+525396,f,Fusion of paced and normal beat
+525690,f,Fusion of paced and normal beat
+525974,f,Fusion of paced and normal beat
+526258,/,Paced beat
+526536,/,Paced beat
+526831,/,Paced beat
+527141,/,Paced beat
+527442,/,Paced beat
+527732,f,Fusion of paced and normal beat
+528017,f,Fusion of paced and normal beat
+528334,f,Fusion of paced and normal beat
+528590,/,Paced beat
+528880,/,Paced beat
+529183,/,Paced beat
+529492,/,Paced beat
+529783,/,Paced beat
+530070,/,Paced beat
+530357,f,Fusion of paced and normal beat
+530653,f,Fusion of paced and normal beat
+530926,/,Paced beat
+531227,/,Paced beat
+531534,/,Paced beat
+531828,/,Paced beat
+532119,/,Paced beat
+532409,/,Paced beat
+532681,f,Fusion of paced and normal beat
+532969,f,Fusion of paced and normal beat
+533264,f,Fusion of paced and normal beat
+533578,/,Paced beat
+533876,/,Paced beat
+534162,/,Paced beat
+534458,/,Paced beat
+534741,/,Paced beat
+535017,/,Paced beat
+535288,N,Normal beat
+535624,f,Fusion of paced and normal beat
+535912,f,Fusion of paced and normal beat
+536204,/,Paced beat
+536503,/,Paced beat
+536788,/,Paced beat
+537065,/,Paced beat
+537350,/,Paced beat
+537649,/,Paced beat
+537927,N,Normal beat
+538240,f,Fusion of paced and normal beat
+538521,f,Fusion of paced and normal beat
+538815,/,Paced beat
+539093,/,Paced beat
+539378,/,Paced beat
+539673,/,Paced beat
+539981,/,Paced beat
+540278,/,Paced beat
+540416,+,Rhythm change
+540554,N,Normal beat
+540851,N,Normal beat
+541153,f,Fusion of paced and normal beat
+541417,f,Fusion of paced and normal beat
+541560,+,Rhythm change
+541704,/,Paced beat
+542011,/,Paced beat
+542315,/,Paced beat
+542607,/,Paced beat
+542911,/,Paced beat
+543195,/,Paced beat
+543458,N,Normal beat
+543763,f,Fusion of paced and normal beat
+544053,f,Fusion of paced and normal beat
+544360,/,Paced beat
+544656,/,Paced beat
+544957,/,Paced beat
+545246,/,Paced beat
+545521,/,Paced beat
+545806,/,Paced beat
+546095,f,Fusion of paced and normal beat
+546422,f,Fusion of paced and normal beat
+546700,/,Paced beat
+546998,/,Paced beat
+547294,/,Paced beat
+547571,/,Paced beat
+547854,/,Paced beat
+548145,/,Paced beat
+548463,f,Fusion of paced and normal beat
+548769,f,Fusion of paced and normal beat
+549044,/,Paced beat
+549348,/,Paced beat
+549631,/,Paced beat
+549906,/,Paced beat
+550188,/,Paced beat
+550491,/,Paced beat
+550808,f,Fusion of paced and normal beat
+551087,f,Fusion of paced and normal beat
+551397,/,Paced beat
+551688,/,Paced beat
+551961,/,Paced beat
+552243,/,Paced beat
+552538,/,Paced beat
+552842,f,Fusion of paced and normal beat
+553157,f,Fusion of paced and normal beat
+553442,/,Paced beat
+553736,/,Paced beat
+554014,/,Paced beat
+554298,/,Paced beat
+554583,/,Paced beat
+554887,/,Paced beat
+555183,f,Fusion of paced and normal beat
+555504,f,Fusion of paced and normal beat
+555787,/,Paced beat
+556067,/,Paced beat
+556347,/,Paced beat
+556631,/,Paced beat
+556932,/,Paced beat
+557231,/,Paced beat
+557513,N,Normal beat
+557840,f,Fusion of paced and normal beat
+558122,/,Paced beat
+558397,/,Paced beat
+558675,/,Paced beat
+558971,/,Paced beat
+559275,/,Paced beat
+559570,/,Paced beat
+559879,/,Paced beat
+560153,N,Normal beat
+560449,f,Fusion of paced and normal beat
+560720,f,Fusion of paced and normal beat
+561008,/,Paced beat
+561304,/,Paced beat
+561602,/,Paced beat
+561907,/,Paced beat
+562205,/,Paced beat
+562486,/,Paced beat
+562771,/,Paced beat
+563029,N,Normal beat
+563341,f,Fusion of paced and normal beat
+563632,f,Fusion of paced and normal beat
+563930,/,Paced beat
+564239,/,Paced beat
+564527,/,Paced beat
+564806,/,Paced beat
+565088,/,Paced beat
+565384,/,Paced beat
+565678,/,Paced beat
+565951,N,Normal beat
+566289,f,Fusion of paced and normal beat
+566573,f,Fusion of paced and normal beat
+566848,/,Paced beat
+567127,/,Paced beat
+567419,/,Paced beat
+567713,/,Paced beat
+568006,/,Paced beat
+568318,/,Paced beat
+568620,f,Fusion of paced and normal beat
+568905,f,Fusion of paced and normal beat
+569181,f,Fusion of paced and normal beat
+569466,/,Paced beat
+569756,/,Paced beat
+570049,/,Paced beat
+570355,/,Paced beat
+570658,/,Paced beat
+570946,/,Paced beat
+571226,f,Fusion of paced and normal beat
+571517,f,Fusion of paced and normal beat
+571806,f,Fusion of paced and normal beat
+572100,/,Paced beat
+572397,/,Paced beat
+572710,/,Paced beat
+573002,/,Paced beat
+573282,/,Paced beat
+573564,/,Paced beat
+573856,f,Fusion of paced and normal beat
+574171,f,Fusion of paced and normal beat
+574441,/,Paced beat
+574757,/,Paced beat
+575054,/,Paced beat
+575334,/,Paced beat
+575616,/,Paced beat
+575903,/,Paced beat
+576191,f,Fusion of paced and normal beat
+576499,f,Fusion of paced and normal beat
+576793,f,Fusion of paced and normal beat
+577099,/,Paced beat
+577385,/,Paced beat
+577670,/,Paced beat
+577954,/,Paced beat
+578242,/,Paced beat
+578521,f,Fusion of paced and normal beat
+578827,f,Fusion of paced and normal beat
+579142,f,Fusion of paced and normal beat
+579437,/,Paced beat
+579727,/,Paced beat
+580009,/,Paced beat
+580302,/,Paced beat
+580588,/,Paced beat
+580879,/,Paced beat
+581181,N,Normal beat
+581490,f,Fusion of paced and normal beat
+581793,f,Fusion of paced and normal beat
+582056,f,Fusion of paced and normal beat
+582350,/,Paced beat
+582634,/,Paced beat
+582923,/,Paced beat
+583241,/,Paced beat
+583543,/,Paced beat
+583830,/,Paced beat
+584087,N,Normal beat
+584381,f,Fusion of paced and normal beat
+584666,f,Fusion of paced and normal beat
+584953,/,Paced beat
+585259,/,Paced beat
+585566,/,Paced beat
+585859,/,Paced beat
+586149,/,Paced beat
+586433,/,Paced beat
+586721,/,Paced beat
+586986,N,Normal beat
+587287,f,Fusion of paced and normal beat
+587624,f,Fusion of paced and normal beat
+587899,f,Fusion of paced and normal beat
+588192,/,Paced beat
+588476,/,Paced beat
+588768,/,Paced beat
+589051,/,Paced beat
+589336,/,Paced beat
+589651,/,Paced beat
+589793,+,Rhythm change
+589936,N,Normal beat
+590218,N,Normal beat
+590538,f,Fusion of paced and normal beat
+590805,f,Fusion of paced and normal beat
+590947,+,Rhythm change
+591089,/,Paced beat
+591371,/,Paced beat
+591684,/,Paced beat
+591986,/,Paced beat
+592276,/,Paced beat
+592566,/,Paced beat
+592849,f,Fusion of paced and normal beat
+593153,f,Fusion of paced and normal beat
+593416,f,Fusion of paced and normal beat
+593718,/,Paced beat
+594026,/,Paced beat
+594323,/,Paced beat
+594619,/,Paced beat
+594903,/,Paced beat
+595192,/,Paced beat
+595474,f,Fusion of paced and normal beat
+595784,f,Fusion of paced and normal beat
+596071,/,Paced beat
+596368,/,Paced beat
+596666,/,Paced beat
+596953,/,Paced beat
+597244,/,Paced beat
+597523,/,Paced beat
+597801,f,Fusion of paced and normal beat
+598121,f,Fusion of paced and normal beat
+598415,f,Fusion of paced and normal beat
+598707,/,Paced beat
+599000,/,Paced beat
+599294,/,Paced beat
+599574,/,Paced beat
+599853,/,Paced beat
+600160,/,Paced beat
+600460,f,Fusion of paced and normal beat
+600779,f,Fusion of paced and normal beat
+601047,/,Paced beat
+601337,/,Paced beat
+601623,/,Paced beat
+601903,/,Paced beat
+602198,/,Paced beat
+602503,/,Paced beat
+602797,f,Fusion of paced and normal beat
+603096,f,Fusion of paced and normal beat
+603411,f,Fusion of paced and normal beat
+603681,f,Fusion of paced and normal beat
+603959,/,Paced beat
+604246,/,Paced beat
+604549,/,Paced beat
+604844,/,Paced beat
+605145,/,Paced beat
+605439,/,Paced beat
+605714,N,Normal beat
+606008,f,Fusion of paced and normal beat
+606283,f,Fusion of paced and normal beat
+606588,/,Paced beat
+606886,/,Paced beat
+607182,/,Paced beat
+607480,/,Paced beat
+607778,/,Paced beat
+608059,/,Paced beat
+608336,/,Paced beat
+608632,f,Fusion of paced and normal beat
+608936,f,Fusion of paced and normal beat
+609254,f,Fusion of paced and normal beat
+609527,/,Paced beat
+609824,/,Paced beat
+610112,/,Paced beat
+610389,/,Paced beat
+610679,/,Paced beat
+610981,/,Paced beat
+611278,/,Paced beat
+611580,/,Paced beat
+611869,f,Fusion of paced and normal beat
+612169,f,Fusion of paced and normal beat
+612467,f,Fusion of paced and normal beat
+612729,/,Paced beat
+613028,/,Paced beat
+613321,/,Paced beat
+613622,/,Paced beat
+613922,/,Paced beat
+614219,/,Paced beat
+614499,/,Paced beat
+614768,f,Fusion of paced and normal beat
+615074,f,Fusion of paced and normal beat
+615370,f,Fusion of paced and normal beat
+615666,/,Paced beat
+615965,/,Paced beat
+616267,/,Paced beat
+616552,/,Paced beat
+616828,/,Paced beat
+617125,/,Paced beat
+617418,/,Paced beat
+617713,f,Fusion of paced and normal beat
+618028,f,Fusion of paced and normal beat
+618311,/,Paced beat
+618604,/,Paced beat
+618882,/,Paced beat
+619170,/,Paced beat
+619465,/,Paced beat
+619758,/,Paced beat
+620057,f,Fusion of paced and normal beat
+620348,f,Fusion of paced and normal beat
+620673,f,Fusion of paced and normal beat
+620933,/,Paced beat
+621216,/,Paced beat
+621507,/,Paced beat
+621794,/,Paced beat
+622100,/,Paced beat
+622402,/,Paced beat
+622700,f,Fusion of paced and normal beat
+622979,f,Fusion of paced and normal beat
+623262,f,Fusion of paced and normal beat
+623558,/,Paced beat
+623847,/,Paced beat
+624142,/,Paced beat
+624444,/,Paced beat
+624753,/,Paced beat
+625040,/,Paced beat
+625303,N,Normal beat
+625600,f,Fusion of paced and normal beat
+625923,f,Fusion of paced and normal beat
+626186,/,Paced beat
+626486,/,Paced beat
+626794,/,Paced beat
+627088,/,Paced beat
+627365,/,Paced beat
+627657,/,Paced beat
+627947,/,Paced beat
+628226,f,Fusion of paced and normal beat
+628533,f,Fusion of paced and normal beat
+628862,f,Fusion of paced and normal beat
+629134,/,Paced beat
+629414,/,Paced beat
+629701,/,Paced beat
+629989,/,Paced beat
+630273,/,Paced beat
+630576,/,Paced beat
+630877,/,Paced beat
+631173,f,Fusion of paced and normal beat
+631459,N,Normal beat
+631758,f,Fusion of paced and normal beat
+632039,f,Fusion of paced and normal beat
+632323,/,Paced beat
+632614,/,Paced beat
+632916,/,Paced beat
+633227,/,Paced beat
+633520,/,Paced beat
+633799,/,Paced beat
+634095,/,Paced beat
+634366,N,Normal beat
+634649,f,Fusion of paced and normal beat
+634973,f,Fusion of paced and normal beat
+635265,f,Fusion of paced and normal beat
+635566,/,Paced beat
+635850,/,Paced beat
+636141,/,Paced beat
+636426,/,Paced beat
+636707,/,Paced beat
+637003,/,Paced beat
+637303,f,Fusion of paced and normal beat
+637612,f,Fusion of paced and normal beat
+637925,f,Fusion of paced and normal beat
+638188,/,Paced beat
+638476,/,Paced beat
+638757,/,Paced beat
+639054,/,Paced beat
+639357,/,Paced beat
+639665,/,Paced beat
+639957,/,Paced beat
+640243,f,Fusion of paced and normal beat
+640555,f,Fusion of paced and normal beat
+640813,/,Paced beat
+641097,/,Paced beat
+641396,/,Paced beat
+641710,/,Paced beat
+642005,/,Paced beat
+642290,/,Paced beat
+642586,f,Fusion of paced and normal beat
+642866,f,Fusion of paced and normal beat
+643147,f,Fusion of paced and normal beat
+643443,/,Paced beat
+643751,/,Paced beat
+644052,/,Paced beat
+644340,/,Paced beat
+644634,/,Paced beat
+644919,/,Paced beat
+645197,f,Fusion of paced and normal beat
+645495,f,Fusion of paced and normal beat
+645788,f,Fusion of paced and normal beat
+646097,/,Paced beat
+646391,/,Paced beat
+646682,/,Paced beat
+646970,/,Paced beat
+647247,/,Paced beat
+647539,/,Paced beat
+647836,f,Fusion of paced and normal beat
+648169,f,Fusion of paced and normal beat
+648442,/,Paced beat
+648730,/,Paced beat
+649022,/,Paced beat
+649300,/,Paced beat
+649580,/,Paced beat
+649876,/,Paced beat

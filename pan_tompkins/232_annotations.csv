@@ -1,0 +1,1817 @@
+sample,symbol,description
+76,+,Rhythm change
+491,R,Right bundle branch block
+737,A,Atrial premature beat
+1000,A,Atrial premature beat
+1659,R,Right bundle branch block
+1903,A,Atrial premature beat
+2156,A,Atrial premature beat
+2550,~,Signal quality change
+2829,R,Right bundle branch block
+3066,A,Atrial premature beat
+3667,R,Right bundle branch block
+3909,A,Atrial premature beat
+4511,R,Right bundle branch block
+4751,A,Atrial premature beat
+5341,R,Right bundle branch block
+5584,A,Atrial premature beat
+5855,A,Atrial premature beat
+6482,R,Right bundle branch block
+6721,A,Atrial premature beat
+6982,A,Atrial premature beat
+7232,A,Atrial premature beat
+7493,A,Atrial premature beat
+7754,A,Atrial premature beat
+8003,A,Atrial premature beat
+8255,A,Atrial premature beat
+8941,R,Right bundle branch block
+9890,R,Right bundle branch block
+10295,R,Right bundle branch block
+10540,A,Atrial premature beat
+10796,A,Atrial premature beat
+11462,R,Right bundle branch block
+11704,A,Atrial premature beat
+11974,A,Atrial premature beat
+12237,A,Atrial premature beat
+12492,A,Atrial premature beat
+12747,A,Atrial premature beat
+13003,A,Atrial premature beat
+13264,A,Atrial premature beat
+13526,A,Atrial premature beat
+13792,A,Atrial premature beat
+14058,A,Atrial premature beat
+14318,A,Atrial premature beat
+15317,R,Right bundle branch block
+15727,R,Right bundle branch block
+15966,A,Atrial premature beat
+16225,A,Atrial premature beat
+16918,R,Right bundle branch block
+17162,A,Atrial premature beat
+17422,A,Atrial premature beat
+17684,A,Atrial premature beat
+18403,R,Right bundle branch block
+18892,R,Right bundle branch block
+19130,A,Atrial premature beat
+19391,A,Atrial premature beat
+19651,A,Atrial premature beat
+19905,A,Atrial premature beat
+20167,A,Atrial premature beat
+21128,R,Right bundle branch block
+21560,R,Right bundle branch block
+21805,A,Atrial premature beat
+22066,A,Atrial premature beat
+22726,R,Right bundle branch block
+22965,A,Atrial premature beat
+23230,A,Atrial premature beat
+23887,R,Right bundle branch block
+24126,A,Atrial premature beat
+24384,A,Atrial premature beat
+24640,A,Atrial premature beat
+25352,R,Right bundle branch block
+25657,~,Signal quality change
+26100,R,Right bundle branch block
+26810,R,Right bundle branch block
+27049,A,Atrial premature beat
+27306,A,Atrial premature beat
+27559,A,Atrial premature beat
+27821,A,Atrial premature beat
+28082,A,Atrial premature beat
+28337,A,Atrial premature beat
+28591,A,Atrial premature beat
+28851,A,Atrial premature beat
+29114,A,Atrial premature beat
+29374,A,Atrial premature beat
+30009,R,Right bundle branch block
+30155,~,Signal quality change
+30257,A,Atrial premature beat
+30519,A,Atrial premature beat
+30779,A,Atrial premature beat
+31294,R,Right bundle branch block
+31535,A,Atrial premature beat
+31794,A,Atrial premature beat
+32412,~,Signal quality change
+32478,R,Right bundle branch block
+32728,A,Atrial premature beat
+32993,A,Atrial premature beat
+33252,A,Atrial premature beat
+33511,A,Atrial premature beat
+33769,A,Atrial premature beat
+34305,R,Right bundle branch block
+34556,A,Atrial premature beat
+34825,A,Atrial premature beat
+35511,R,Right bundle branch block
+35750,A,Atrial premature beat
+36020,A,Atrial premature beat
+36284,A,Atrial premature beat
+36971,R,Right bundle branch block
+37211,A,Atrial premature beat
+37486,A,Atrial premature beat
+38193,R,Right bundle branch block
+38436,A,Atrial premature beat
+38701,A,Atrial premature beat
+38961,A,Atrial premature beat
+39667,R,Right bundle branch block
+39909,A,Atrial premature beat
+40167,A,Atrial premature beat
+40873,R,Right bundle branch block
+41125,A,Atrial premature beat
+41383,A,Atrial premature beat
+42068,R,Right bundle branch block
+42314,A,Atrial premature beat
+42577,A,Atrial premature beat
+43249,R,Right bundle branch block
+43496,A,Atrial premature beat
+43766,A,Atrial premature beat
+44441,R,Right bundle branch block
+44684,A,Atrial premature beat
+44945,A,Atrial premature beat
+45199,A,Atrial premature beat
+45460,A,Atrial premature beat
+45718,A,Atrial premature beat
+46394,R,Right bundle branch block
+46639,A,Atrial premature beat
+46908,A,Atrial premature beat
+47175,A,Atrial premature beat
+47439,A,Atrial premature beat
+47697,A,Atrial premature beat
+47955,A,Atrial premature beat
+48214,A,Atrial premature beat
+48476,A,Atrial premature beat
+48739,A,Atrial premature beat
+49007,A,Atrial premature beat
+49871,R,Right bundle branch block
+50368,R,Right bundle branch block
+50616,A,Atrial premature beat
+50880,A,Atrial premature beat
+51134,A,Atrial premature beat
+51398,A,Atrial premature beat
+52006,R,Right bundle branch block
+52261,A,Atrial premature beat
+52524,A,Atrial premature beat
+53180,R,Right bundle branch block
+53433,A,Atrial premature beat
+53692,A,Atrial premature beat
+54360,R,Right bundle branch block
+54605,A,Atrial premature beat
+54863,A,Atrial premature beat
+55550,R,Right bundle branch block
+55798,A,Atrial premature beat
+56062,A,Atrial premature beat
+56747,R,Right bundle branch block
+56991,A,Atrial premature beat
+57248,A,Atrial premature beat
+57506,A,Atrial premature beat
+57768,A,Atrial premature beat
+58027,A,Atrial premature beat
+58938,R,Right bundle branch block
+59455,R,Right bundle branch block
+59699,A,Atrial premature beat
+59959,A,Atrial premature beat
+60638,R,Right bundle branch block
+60891,A,Atrial premature beat
+61155,A,Atrial premature beat
+61419,A,Atrial premature beat
+61683,A,Atrial premature beat
+61943,A,Atrial premature beat
+62626,R,Right bundle branch block
+62872,A,Atrial premature beat
+63494,R,Right bundle branch block
+63732,A,Atrial premature beat
+64329,R,Right bundle branch block
+64574,A,Atrial premature beat
+65169,R,Right bundle branch block
+65413,A,Atrial premature beat
+65672,A,Atrial premature beat
+66323,R,Right bundle branch block
+66571,A,Atrial premature beat
+66827,A,Atrial premature beat
+67463,R,Right bundle branch block
+67709,A,Atrial premature beat
+67972,A,Atrial premature beat
+68610,R,Right bundle branch block
+68845,A,Atrial premature beat
+69441,R,Right bundle branch block
+69688,A,Atrial premature beat
+69944,A,Atrial premature beat
+70586,R,Right bundle branch block
+70829,A,Atrial premature beat
+71095,A,Atrial premature beat
+71354,A,Atrial premature beat
+72002,R,Right bundle branch block
+72245,A,Atrial premature beat
+72863,R,Right bundle branch block
+73095,A,Atrial premature beat
+73351,A,Atrial premature beat
+73604,A,Atrial premature beat
+73863,A,Atrial premature beat
+74516,R,Right bundle branch block
+75212,R,Right bundle branch block
+75456,A,Atrial premature beat
+75716,A,Atrial premature beat
+76388,R,Right bundle branch block
+76624,A,Atrial premature beat
+76888,A,Atrial premature beat
+77562,R,Right bundle branch block
+77800,A,Atrial premature beat
+78060,A,Atrial premature beat
+78727,R,Right bundle branch block
+78976,A,Atrial premature beat
+79240,A,Atrial premature beat
+79488,A,Atrial premature beat
+79740,A,Atrial premature beat
+79997,A,Atrial premature beat
+80691,R,Right bundle branch block
+80933,A,Atrial premature beat
+81192,A,Atrial premature beat
+81335,~,Signal quality change
+81446,A,Atrial premature beat
+81705,A,Atrial premature beat
+81971,A,Atrial premature beat
+82228,A,Atrial premature beat
+82496,A,Atrial premature beat
+82755,A,Atrial premature beat
+83018,A,Atrial premature beat
+83281,A,Atrial premature beat
+83548,A,Atrial premature beat
+83811,A,Atrial premature beat
+84079,A,Atrial premature beat
+84343,A,Atrial premature beat
+84601,A,Atrial premature beat
+85176,R,Right bundle branch block
+85427,A,Atrial premature beat
+85700,A,Atrial premature beat
+85962,A,Atrial premature beat
+86225,A,Atrial premature beat
+87235,R,Right bundle branch block
+87470,~,Signal quality change
+87709,R,Right bundle branch block
+87955,A,Atrial premature beat
+88223,A,Atrial premature beat
+88485,A,Atrial premature beat
+88746,A,Atrial premature beat
+88997,A,Atrial premature beat
+89260,A,Atrial premature beat
+89528,A,Atrial premature beat
+89790,A,Atrial premature beat
+90514,R,Right bundle branch block
+90767,A,Atrial premature beat
+91033,A,Atrial premature beat
+91731,R,Right bundle branch block
+91982,A,Atrial premature beat
+92610,R,Right bundle branch block
+92854,A,Atrial premature beat
+93122,A,Atrial premature beat
+93384,A,Atrial premature beat
+93646,A,Atrial premature beat
+94262,R,Right bundle branch block
+94514,A,Atrial premature beat
+94789,A,Atrial premature beat
+95482,R,Right bundle branch block
+95725,A,Atrial premature beat
+95988,A,Atrial premature beat
+96255,A,Atrial premature beat
+96523,A,Atrial premature beat
+96786,A,Atrial premature beat
+96933,~,Signal quality change
+97500,R,Right bundle branch block
+97749,A,Atrial premature beat
+98406,R,Right bundle branch block
+98653,A,Atrial premature beat
+98922,A,Atrial premature beat
+99180,A,Atrial premature beat
+99238,~,Signal quality change
+99449,A,Atrial premature beat
+99599,~,Signal quality change
+100074,R,Right bundle branch block
+100321,A,Atrial premature beat
+100583,A,Atrial premature beat
+101161,~,Signal quality change
+101262,R,Right bundle branch block
+101508,A,Atrial premature beat
+101768,A,Atrial premature beat
+102024,A,Atrial premature beat
+102981,R,Right bundle branch block
+103388,R,Right bundle branch block
+103636,A,Atrial premature beat
+103902,A,Atrial premature beat
+104595,R,Right bundle branch block
+104832,A,Atrial premature beat
+105095,A,Atrial premature beat
+105813,R,Right bundle branch block
+106335,R,Right bundle branch block
+106581,A,Atrial premature beat
+106840,A,Atrial premature beat
+107102,A,Atrial premature beat
+107369,A,Atrial premature beat
+107632,A,Atrial premature beat
+107895,A,Atrial premature beat
+108161,A,Atrial premature beat
+108842,R,Right bundle branch block
+109352,R,Right bundle branch block
+109596,A,Atrial premature beat
+109862,A,Atrial premature beat
+110122,A,Atrial premature beat
+110387,A,Atrial premature beat
+111069,R,Right bundle branch block
+111311,A,Atrial premature beat
+111577,A,Atrial premature beat
+111840,A,Atrial premature beat
+112108,A,Atrial premature beat
+112375,A,Atrial premature beat
+113376,R,Right bundle branch block
+113878,R,Right bundle branch block
+114122,A,Atrial premature beat
+114725,R,Right bundle branch block
+114962,A,Atrial premature beat
+115225,A,Atrial premature beat
+115486,A,Atrial premature beat
+115745,A,Atrial premature beat
+115999,A,Atrial premature beat
+116257,A,Atrial premature beat
+116517,A,Atrial premature beat
+116787,A,Atrial premature beat
+117455,R,Right bundle branch block
+117698,A,Atrial premature beat
+118330,R,Right bundle branch block
+118580,A,Atrial premature beat
+118849,A,Atrial premature beat
+119501,R,Right bundle branch block
+119744,A,Atrial premature beat
+120013,A,Atrial premature beat
+120266,A,Atrial premature beat
+120532,A,Atrial premature beat
+120790,A,Atrial premature beat
+121455,R,Right bundle branch block
+121702,A,Atrial premature beat
+121970,A,Atrial premature beat
+122229,A,Atrial premature beat
+122278,~,Signal quality change
+122389,~,Signal quality change
+122495,A,Atrial premature beat
+123090,R,Right bundle branch block
+123331,A,Atrial premature beat
+123590,A,Atrial premature beat
+123846,A,Atrial premature beat
+124104,A,Atrial premature beat
+124681,R,Right bundle branch block
+124923,A,Atrial premature beat
+125189,A,Atrial premature beat
+125443,A,Atrial premature beat
+125704,A,Atrial premature beat
+125861,~,Signal quality change
+126413,R,Right bundle branch block
+126661,A,Atrial premature beat
+126925,A,Atrial premature beat
+127625,R,Right bundle branch block
+128547,R,Right bundle branch block
+129047,R,Right bundle branch block
+129294,A,Atrial premature beat
+129431,~,Signal quality change
+129567,A,Atrial premature beat
+129830,A,Atrial premature beat
+130096,A,Atrial premature beat
+130352,A,Atrial premature beat
+130614,A,Atrial premature beat
+130880,A,Atrial premature beat
+131874,R,Right bundle branch block
+132336,R,Right bundle branch block
+132583,A,Atrial premature beat
+132850,A,Atrial premature beat
+133108,A,Atrial premature beat
+133367,A,Atrial premature beat
+133968,R,Right bundle branch block
+134217,A,Atrial premature beat
+134385,~,Signal quality change
+134488,A,Atrial premature beat
+135169,R,Right bundle branch block
+135413,A,Atrial premature beat
+135681,A,Atrial premature beat
+135950,A,Atrial premature beat
+136208,A,Atrial premature beat
+136466,A,Atrial premature beat
+136600,~,Signal quality change
+136725,A,Atrial premature beat
+137697,R,Right bundle branch block
+137954,~,Signal quality change
+138177,R,Right bundle branch block
+138420,A,Atrial premature beat
+138684,A,Atrial premature beat
+138950,A,Atrial premature beat
+139213,A,Atrial premature beat
+139475,A,Atrial premature beat
+139729,A,Atrial premature beat
+139864,~,Signal quality change
+140271,~,Signal quality change
+140311,R,Right bundle branch block
+140558,A,Atrial premature beat
+140827,A,Atrial premature beat
+141098,A,Atrial premature beat
+141231,~,Signal quality change
+141362,A,Atrial premature beat
+141623,A,Atrial premature beat
+141887,A,Atrial premature beat
+142158,A,Atrial premature beat
+143183,R,Right bundle branch block
+143592,R,Right bundle branch block
+143844,A,Atrial premature beat
+144108,A,Atrial premature beat
+144368,A,Atrial premature beat
+145059,R,Right bundle branch block
+145310,A,Atrial premature beat
+145579,A,Atrial premature beat
+146231,R,Right bundle branch block
+146472,A,Atrial premature beat
+146735,A,Atrial premature beat
+147003,A,Atrial premature beat
+147278,A,Atrial premature beat
+147329,~,Signal quality change
+147539,A,Atrial premature beat
+147803,A,Atrial premature beat
+148063,A,Atrial premature beat
+148235,~,Signal quality change
+148330,A,Atrial premature beat
+148601,A,Atrial premature beat
+148866,A,Atrial premature beat
+149556,R,Right bundle branch block
+149802,A,Atrial premature beat
+150066,A,Atrial premature beat
+150783,R,Right bundle branch block
+151028,A,Atrial premature beat
+151293,A,Atrial premature beat
+151563,A,Atrial premature beat
+151833,A,Atrial premature beat
+152095,A,Atrial premature beat
+153029,R,Right bundle branch block
+153472,R,Right bundle branch block
+153722,A,Atrial premature beat
+153982,A,Atrial premature beat
+154652,R,Right bundle branch block
+154908,A,Atrial premature beat
+155175,A,Atrial premature beat
+155435,A,Atrial premature beat
+155697,A,Atrial premature beat
+156364,R,Right bundle branch block
+156613,A,Atrial premature beat
+156883,A,Atrial premature beat
+157545,R,Right bundle branch block
+157788,A,Atrial premature beat
+158055,A,Atrial premature beat
+158317,A,Atrial premature beat
+158579,A,Atrial premature beat
+158839,A,Atrial premature beat
+159099,A,Atrial premature beat
+159632,R,Right bundle branch block
+159884,A,Atrial premature beat
+160156,A,Atrial premature beat
+160419,A,Atrial premature beat
+160679,A,Atrial premature beat
+160944,A,Atrial premature beat
+161692,R,Right bundle branch block
+161931,A,Atrial premature beat
+162197,A,Atrial premature beat
+162461,A,Atrial premature beat
+162725,A,Atrial premature beat
+163357,R,Right bundle branch block
+163607,A,Atrial premature beat
+163868,A,Atrial premature beat
+164133,A,Atrial premature beat
+164408,A,Atrial premature beat
+164673,A,Atrial premature beat
+164939,A,Atrial premature beat
+165583,R,Right bundle branch block
+165827,A,Atrial premature beat
+166102,A,Atrial premature beat
+166369,A,Atrial premature beat
+167348,R,Right bundle branch block
+167828,R,Right bundle branch block
+168079,A,Atrial premature beat
+168339,A,Atrial premature beat
+169003,R,Right bundle branch block
+169256,A,Atrial premature beat
+169531,A,Atrial premature beat
+170193,R,Right bundle branch block
+170442,A,Atrial premature beat
+170713,A,Atrial premature beat
+170972,A,Atrial premature beat
+171589,R,Right bundle branch block
+171832,A,Atrial premature beat
+172096,A,Atrial premature beat
+172359,A,Atrial premature beat
+173083,R,Right bundle branch block
+173328,A,Atrial premature beat
+173596,A,Atrial premature beat
+173866,A,Atrial premature beat
+174132,A,Atrial premature beat
+174391,A,Atrial premature beat
+175093,R,Right bundle branch block
+175328,A,Atrial premature beat
+175597,A,Atrial premature beat
+175860,A,Atrial premature beat
+176122,A,Atrial premature beat
+176385,A,Atrial premature beat
+176642,A,Atrial premature beat
+177302,R,Right bundle branch block
+177544,A,Atrial premature beat
+177795,A,Atrial premature beat
+178451,R,Right bundle branch block
+178697,A,Atrial premature beat
+178964,A,Atrial premature beat
+179217,A,Atrial premature beat
+179476,A,Atrial premature beat
+179728,A,Atrial premature beat
+179990,A,Atrial premature beat
+180255,A,Atrial premature beat
+180516,A,Atrial premature beat
+181221,R,Right bundle branch block
+181469,A,Atrial premature beat
+181726,A,Atrial premature beat
+181988,A,Atrial premature beat
+182261,A,Atrial premature beat
+182520,A,Atrial premature beat
+182780,A,Atrial premature beat
+183041,A,Atrial premature beat
+183636,R,Right bundle branch block
+183887,A,Atrial premature beat
+184152,A,Atrial premature beat
+184412,A,Atrial premature beat
+184678,A,Atrial premature beat
+185329,R,Right bundle branch block
+185573,A,Atrial premature beat
+185843,A,Atrial premature beat
+186551,R,Right bundle branch block
+186796,A,Atrial premature beat
+187435,R,Right bundle branch block
+187688,A,Atrial premature beat
+187950,A,Atrial premature beat
+188213,A,Atrial premature beat
+188481,A,Atrial premature beat
+188743,A,Atrial premature beat
+189005,A,Atrial premature beat
+189552,R,Right bundle branch block
+189802,A,Atrial premature beat
+190073,A,Atrial premature beat
+190751,R,Right bundle branch block
+190998,A,Atrial premature beat
+191614,R,Right bundle branch block
+191863,A,Atrial premature beat
+192128,A,Atrial premature beat
+192381,A,Atrial premature beat
+192644,A,Atrial premature beat
+192912,A,Atrial premature beat
+193171,A,Atrial premature beat
+193704,R,Right bundle branch block
+193945,A,Atrial premature beat
+194210,A,Atrial premature beat
+194875,R,Right bundle branch block
+195122,A,Atrial premature beat
+195390,A,Atrial premature beat
+196094,R,Right bundle branch block
+196344,A,Atrial premature beat
+196609,A,Atrial premature beat
+196870,A,Atrial premature beat
+197131,A,Atrial premature beat
+197773,R,Right bundle branch block
+198031,A,Atrial premature beat
+198298,A,Atrial premature beat
+198562,A,Atrial premature beat
+198826,A,Atrial premature beat
+199488,R,Right bundle branch block
+199742,A,Atrial premature beat
+200005,A,Atrial premature beat
+200265,A,Atrial premature beat
+200806,R,Right bundle branch block
+201050,A,Atrial premature beat
+201319,A,Atrial premature beat
+201584,A,Atrial premature beat
+201843,A,Atrial premature beat
+202107,A,Atrial premature beat
+202878,R,Right bundle branch block
+203124,A,Atrial premature beat
+203395,A,Atrial premature beat
+203664,A,Atrial premature beat
+203931,A,Atrial premature beat
+204197,A,Atrial premature beat
+204906,R,Right bundle branch block
+205150,A,Atrial premature beat
+205423,A,Atrial premature beat
+206132,R,Right bundle branch block
+206383,A,Atrial premature beat
+206650,A,Atrial premature beat
+206911,A,Atrial premature beat
+207177,A,Atrial premature beat
+207851,R,Right bundle branch block
+208100,R,Right bundle branch block
+208371,A,Atrial premature beat
+208637,A,Atrial premature beat
+209198,R,Right bundle branch block
+209438,A,Atrial premature beat
+209710,A,Atrial premature beat
+209975,A,Atrial premature beat
+210664,R,Right bundle branch block
+210913,A,Atrial premature beat
+211183,A,Atrial premature beat
+211439,A,Atrial premature beat
+211707,A,Atrial premature beat
+211978,A,Atrial premature beat
+212245,A,Atrial premature beat
+212517,A,Atrial premature beat
+212788,A,Atrial premature beat
+213060,A,Atrial premature beat
+213329,A,Atrial premature beat
+214056,R,Right bundle branch block
+214307,A,Atrial premature beat
+214578,A,Atrial premature beat
+214847,A,Atrial premature beat
+215127,A,Atrial premature beat
+215791,R,Right bundle branch block
+216051,A,Atrial premature beat
+216331,A,Atrial premature beat
+216597,A,Atrial premature beat
+217164,R,Right bundle branch block
+217411,A,Atrial premature beat
+217684,A,Atrial premature beat
+217954,A,Atrial premature beat
+218227,A,Atrial premature beat
+218782,R,Right bundle branch block
+219026,A,Atrial premature beat
+219303,A,Atrial premature beat
+219573,A,Atrial premature beat
+219846,A,Atrial premature beat
+220528,R,Right bundle branch block
+220783,A,Atrial premature beat
+221058,A,Atrial premature beat
+221331,A,Atrial premature beat
+221900,R,Right bundle branch block
+222147,A,Atrial premature beat
+222421,A,Atrial premature beat
+222694,A,Atrial premature beat
+222963,A,Atrial premature beat
+223234,A,Atrial premature beat
+223512,A,Atrial premature beat
+224261,R,Right bundle branch block
+224522,A,Atrial premature beat
+224798,A,Atrial premature beat
+225486,R,Right bundle branch block
+225739,A,Atrial premature beat
+226007,A,Atrial premature beat
+226697,R,Right bundle branch block
+226941,A,Atrial premature beat
+227202,A,Atrial premature beat
+227885,R,Right bundle branch block
+228131,A,Atrial premature beat
+228397,A,Atrial premature beat
+228657,A,Atrial premature beat
+228928,A,Atrial premature beat
+230038,R,Right bundle branch block
+230540,R,Right bundle branch block
+230800,A,Atrial premature beat
+231076,A,Atrial premature beat
+231348,A,Atrial premature beat
+231613,A,Atrial premature beat
+231885,A,Atrial premature beat
+232159,A,Atrial premature beat
+232430,A,Atrial premature beat
+233542,R,Right bundle branch block
+234031,R,Right bundle branch block
+234285,A,Atrial premature beat
+234557,A,Atrial premature beat
+235243,R,Right bundle branch block
+235490,A,Atrial premature beat
+235765,A,Atrial premature beat
+236037,A,Atrial premature beat
+236301,A,Atrial premature beat
+236936,R,Right bundle branch block
+237196,A,Atrial premature beat
+237473,A,Atrial premature beat
+237741,A,Atrial premature beat
+238277,R,Right bundle branch block
+238528,A,Atrial premature beat
+238803,A,Atrial premature beat
+239074,A,Atrial premature beat
+239342,A,Atrial premature beat
+239994,R,Right bundle branch block
+240250,A,Atrial premature beat
+240527,A,Atrial premature beat
+240791,A,Atrial premature beat
+241054,A,Atrial premature beat
+241693,R,Right bundle branch block
+241953,A,Atrial premature beat
+242230,A,Atrial premature beat
+242499,A,Atrial premature beat
+242770,A,Atrial premature beat
+243036,A,Atrial premature beat
+243307,A,Atrial premature beat
+243583,A,Atrial premature beat
+243896,~,Signal quality change
+244261,R,Right bundle branch block
+244508,A,Atrial premature beat
+244782,A,Atrial premature beat
+245040,A,Atrial premature beat
+245308,A,Atrial premature beat
+245572,A,Atrial premature beat
+245833,A,Atrial premature beat
+246099,A,Atrial premature beat
+246360,A,Atrial premature beat
+246638,A,Atrial premature beat
+246898,A,Atrial premature beat
+247177,A,Atrial premature beat
+247420,A,Atrial premature beat
+247683,A,Atrial premature beat
+247947,A,Atrial premature beat
+248205,A,Atrial premature beat
+248465,A,Atrial premature beat
+248729,A,Atrial premature beat
+248905,~,Signal quality change
+248981,A,Atrial premature beat
+249236,A,Atrial premature beat
+249498,A,Atrial premature beat
+249773,A,Atrial premature beat
+250045,A,Atrial premature beat
+250309,A,Atrial premature beat
+250569,A,Atrial premature beat
+250831,A,Atrial premature beat
+251099,A,Atrial premature beat
+251362,A,Atrial premature beat
+251628,A,Atrial premature beat
+251901,A,Atrial premature beat
+252171,A,Atrial premature beat
+252439,A,Atrial premature beat
+252568,~,Signal quality change
+252707,A,Atrial premature beat
+252983,A,Atrial premature beat
+253255,A,Atrial premature beat
+253526,A,Atrial premature beat
+253793,A,Atrial premature beat
+254383,R,Right bundle branch block
+254492,~,Signal quality change
+254631,A,Atrial premature beat
+255200,R,Right bundle branch block
+255447,A,Atrial premature beat
+255715,A,Atrial premature beat
+255980,A,Atrial premature beat
+256132,~,Signal quality change
+256253,A,Atrial premature beat
+256515,A,Atrial premature beat
+256782,A,Atrial premature beat
+257419,R,Right bundle branch block
+257659,A,Atrial premature beat
+257930,A,Atrial premature beat
+258198,A,Atrial premature beat
+258461,A,Atrial premature beat
+258731,A,Atrial premature beat
+258994,A,Atrial premature beat
+259265,A,Atrial premature beat
+259543,A,Atrial premature beat
+259812,A,Atrial premature beat
+260082,A,Atrial premature beat
+260348,A,Atrial premature beat
+260623,A,Atrial premature beat
+261270,R,Right bundle branch block
+261514,A,Atrial premature beat
+261777,A,Atrial premature beat
+262418,R,Right bundle branch block
+262675,A,Atrial premature beat
+262943,A,Atrial premature beat
+263203,A,Atrial premature beat
+263860,R,Right bundle branch block
+263913,~,Signal quality change
+264100,A,Atrial premature beat
+264367,A,Atrial premature beat
+264636,A,Atrial premature beat
+264898,A,Atrial premature beat
+265164,A,Atrial premature beat
+265429,A,Atrial premature beat
+266080,R,Right bundle branch block
+266327,A,Atrial premature beat
+266594,A,Atrial premature beat
+267216,R,Right bundle branch block
+267466,A,Atrial premature beat
+268107,R,Right bundle branch block
+268355,A,Atrial premature beat
+268556,~,Signal quality change
+268623,A,Atrial premature beat
+269283,R,Right bundle branch block
+269525,A,Atrial premature beat
+269787,A,Atrial premature beat
+270451,R,Right bundle branch block
+270699,A,Atrial premature beat
+270972,A,Atrial premature beat
+271228,A,Atrial premature beat
+271487,A,Atrial premature beat
+272198,R,Right bundle branch block
+272440,A,Atrial premature beat
+272703,A,Atrial premature beat
+272962,A,Atrial premature beat
+273221,A,Atrial premature beat
+273481,A,Atrial premature beat
+273748,A,Atrial premature beat
+274019,A,Atrial premature beat
+274279,A,Atrial premature beat
+274964,R,Right bundle branch block
+275217,A,Atrial premature beat
+275486,A,Atrial premature beat
+276145,R,Right bundle branch block
+276396,A,Atrial premature beat
+276660,A,Atrial premature beat
+276927,A,Atrial premature beat
+277700,R,Right bundle branch block
+277946,A,Atrial premature beat
+278215,A,Atrial premature beat
+278866,R,Right bundle branch block
+279104,A,Atrial premature beat
+279371,A,Atrial premature beat
+280031,R,Right bundle branch block
+280279,A,Atrial premature beat
+280547,A,Atrial premature beat
+281224,R,Right bundle branch block
+281474,A,Atrial premature beat
+281747,A,Atrial premature beat
+282013,A,Atrial premature beat
+282696,R,Right bundle branch block
+282941,A,Atrial premature beat
+283212,A,Atrial premature beat
+283870,R,Right bundle branch block
+284112,A,Atrial premature beat
+284371,A,Atrial premature beat
+285051,R,Right bundle branch block
+285296,A,Atrial premature beat
+285562,A,Atrial premature beat
+286230,R,Right bundle branch block
+286478,A,Atrial premature beat
+286746,A,Atrial premature beat
+287003,A,Atrial premature beat
+287260,A,Atrial premature beat
+287520,A,Atrial premature beat
+287788,A,Atrial premature beat
+288058,A,Atrial premature beat
+288325,A,Atrial premature beat
+288585,A,Atrial premature beat
+288851,A,Atrial premature beat
+289122,A,Atrial premature beat
+289389,A,Atrial premature beat
+289656,A,Atrial premature beat
+289932,A,Atrial premature beat
+290615,R,Right bundle branch block
+290869,A,Atrial premature beat
+291147,A,Atrial premature beat
+291413,A,Atrial premature beat
+291679,A,Atrial premature beat
+292350,R,Right bundle branch block
+292600,A,Atrial premature beat
+292872,A,Atrial premature beat
+293603,R,Right bundle branch block
+293849,A,Atrial premature beat
+294126,A,Atrial premature beat
+294840,R,Right bundle branch block
+295090,A,Atrial premature beat
+295362,A,Atrial premature beat
+296051,R,Right bundle branch block
+296298,A,Atrial premature beat
+296565,A,Atrial premature beat
+297243,R,Right bundle branch block
+297501,A,Atrial premature beat
+297769,A,Atrial premature beat
+298028,A,Atrial premature beat
+298840,R,Right bundle branch block
+299087,A,Atrial premature beat
+299360,A,Atrial premature beat
+300042,R,Right bundle branch block
+300287,A,Atrial premature beat
+300560,A,Atrial premature beat
+301235,R,Right bundle branch block
+301481,A,Atrial premature beat
+301744,A,Atrial premature beat
+302001,A,Atrial premature beat
+302652,R,Right bundle branch block
+302900,A,Atrial premature beat
+303166,A,Atrial premature beat
+303838,R,Right bundle branch block
+304080,A,Atrial premature beat
+304345,A,Atrial premature beat
+305051,R,Right bundle branch block
+305295,A,Atrial premature beat
+305562,A,Atrial premature beat
+305827,A,Atrial premature beat
+306088,A,Atrial premature beat
+306746,R,Right bundle branch block
+306995,A,Atrial premature beat
+307267,A,Atrial premature beat
+307531,A,Atrial premature beat
+307793,A,Atrial premature beat
+308059,A,Atrial premature beat
+308320,A,Atrial premature beat
+308590,A,Atrial premature beat
+309091,R,Right bundle branch block
+309334,A,Atrial premature beat
+309599,A,Atrial premature beat
+310276,R,Right bundle branch block
+310528,A,Atrial premature beat
+311193,R,Right bundle branch block
+311440,A,Atrial premature beat
+311713,A,Atrial premature beat
+312411,R,Right bundle branch block
+312656,A,Atrial premature beat
+312921,A,Atrial premature beat
+313190,A,Atrial premature beat
+313455,A,Atrial premature beat
+313719,A,Atrial premature beat
+313975,A,Atrial premature beat
+314706,R,Right bundle branch block
+315684,R,Right bundle branch block
+316084,R,Right bundle branch block
+316208,~,Signal quality change
+316342,A,Atrial premature beat
+316551,A,Atrial premature beat
+316852,A,Atrial premature beat
+316968,~,Signal quality change
+317105,A,Atrial premature beat
+317364,A,Atrial premature beat
+318060,R,Right bundle branch block
+318307,A,Atrial premature beat
+318568,A,Atrial premature beat
+318826,A,Atrial premature beat
+319722,R,Right bundle branch block
+320210,R,Right bundle branch block
+320460,A,Atrial premature beat
+320727,A,Atrial premature beat
+320985,A,Atrial premature beat
+321251,A,Atrial premature beat
+321521,A,Atrial premature beat
+321784,A,Atrial premature beat
+322049,A,Atrial premature beat
+322309,A,Atrial premature beat
+322580,A,Atrial premature beat
+323717,R,Right bundle branch block
+324161,R,Right bundle branch block
+324418,A,Atrial premature beat
+324692,A,Atrial premature beat
+324954,A,Atrial premature beat
+325217,A,Atrial premature beat
+325481,A,Atrial premature beat
+325750,A,Atrial premature beat
+326380,R,Right bundle branch block
+326620,A,Atrial premature beat
+326888,A,Atrial premature beat
+327584,R,Right bundle branch block
+327841,A,Atrial premature beat
+328110,A,Atrial premature beat
+328375,A,Atrial premature beat
+329343,R,Right bundle branch block
+329863,R,Right bundle branch block
+330111,A,Atrial premature beat
+330378,A,Atrial premature beat
+330643,A,Atrial premature beat
+330906,A,Atrial premature beat
+331170,A,Atrial premature beat
+331433,A,Atrial premature beat
+332112,R,Right bundle branch block
+332362,A,Atrial premature beat
+332630,A,Atrial premature beat
+333321,R,Right bundle branch block
+333565,A,Atrial premature beat
+333834,A,Atrial premature beat
+334103,A,Atrial premature beat
+334363,A,Atrial premature beat
+334628,A,Atrial premature beat
+335292,R,Right bundle branch block
+335547,A,Atrial premature beat
+335821,A,Atrial premature beat
+336083,A,Atrial premature beat
+336346,A,Atrial premature beat
+336617,A,Atrial premature beat
+336883,A,Atrial premature beat
+337470,R,Right bundle branch block
+337715,A,Atrial premature beat
+337981,A,Atrial premature beat
+338248,A,Atrial premature beat
+339212,R,Right bundle branch block
+339630,R,Right bundle branch block
+339882,A,Atrial premature beat
+340151,A,Atrial premature beat
+340847,R,Right bundle branch block
+341091,A,Atrial premature beat
+341358,A,Atrial premature beat
+341632,A,Atrial premature beat
+341904,A,Atrial premature beat
+342170,A,Atrial premature beat
+342433,A,Atrial premature beat
+342699,A,Atrial premature beat
+342970,A,Atrial premature beat
+344483,R,Right bundle branch block
+344941,R,Right bundle branch block
+345188,A,Atrial premature beat
+345456,A,Atrial premature beat
+345718,A,Atrial premature beat
+345983,A,Atrial premature beat
+346249,A,Atrial premature beat
+346520,A,Atrial premature beat
+346792,A,Atrial premature beat
+347906,R,Right bundle branch block
+348357,R,Right bundle branch block
+348608,A,Atrial premature beat
+348870,A,Atrial premature beat
+349575,R,Right bundle branch block
+349825,A,Atrial premature beat
+350096,A,Atrial premature beat
+350361,A,Atrial premature beat
+350630,A,Atrial premature beat
+350902,A,Atrial premature beat
+351176,A,Atrial premature beat
+351447,A,Atrial premature beat
+351715,A,Atrial premature beat
+352500,R,Right bundle branch block
+353976,R,Right bundle branch block
+354423,R,Right bundle branch block
+354675,A,Atrial premature beat
+354938,A,Atrial premature beat
+355198,A,Atrial premature beat
+355467,A,Atrial premature beat
+355730,A,Atrial premature beat
+355997,A,Atrial premature beat
+356266,A,Atrial premature beat
+356534,A,Atrial premature beat
+356799,A,Atrial premature beat
+357060,A,Atrial premature beat
+358242,R,Right bundle branch block
+358690,R,Right bundle branch block
+358938,A,Atrial premature beat
+359208,A,Atrial premature beat
+359864,R,Right bundle branch block
+360106,A,Atrial premature beat
+360371,A,Atrial premature beat
+360639,A,Atrial premature beat
+360902,A,Atrial premature beat
+361165,A,Atrial premature beat
+361425,A,Atrial premature beat
+362058,R,Right bundle branch block
+362309,A,Atrial premature beat
+362578,A,Atrial premature beat
+362847,A,Atrial premature beat
+363117,A,Atrial premature beat
+363877,R,Right bundle branch block
+364404,R,Right bundle branch block
+364647,A,Atrial premature beat
+364919,A,Atrial premature beat
+365183,A,Atrial premature beat
+365447,A,Atrial premature beat
+365716,A,Atrial premature beat
+365983,A,Atrial premature beat
+367024,R,Right bundle branch block
+367436,R,Right bundle branch block
+367690,A,Atrial premature beat
+367957,A,Atrial premature beat
+368227,A,Atrial premature beat
+368491,A,Atrial premature beat
+368760,A,Atrial premature beat
+369034,A,Atrial premature beat
+369298,A,Atrial premature beat
+370164,R,Right bundle branch block
+371137,R,Right bundle branch block
+371596,R,Right bundle branch block
+371851,A,Atrial premature beat
+372125,A,Atrial premature beat
+372385,A,Atrial premature beat
+372651,A,Atrial premature beat
+372912,A,Atrial premature beat
+373180,A,Atrial premature beat
+373717,R,Right bundle branch block
+373961,A,Atrial premature beat
+374227,A,Atrial premature beat
+374880,R,Right bundle branch block
+375132,A,Atrial premature beat
+375405,A,Atrial premature beat
+375665,A,Atrial premature beat
+376348,R,Right bundle branch block
+376602,A,Atrial premature beat
+376874,A,Atrial premature beat
+377137,A,Atrial premature beat
+377402,A,Atrial premature beat
+377672,A,Atrial premature beat
+377934,A,Atrial premature beat
+378206,A,Atrial premature beat
+378481,A,Atrial premature beat
+380595,R,Right bundle branch block
+381024,R,Right bundle branch block
+381283,A,Atrial premature beat
+381559,A,Atrial premature beat
+381821,A,Atrial premature beat
+382088,A,Atrial premature beat
+382348,A,Atrial premature beat
+382620,A,Atrial premature beat
+382896,A,Atrial premature beat
+383161,A,Atrial premature beat
+383426,A,Atrial premature beat
+383694,A,Atrial premature beat
+383963,A,Atrial premature beat
+384959,R,Right bundle branch block
+385498,R,Right bundle branch block
+385753,A,Atrial premature beat
+386026,A,Atrial premature beat
+386293,A,Atrial premature beat
+386560,A,Atrial premature beat
+386819,A,Atrial premature beat
+387080,A,Atrial premature beat
+387347,A,Atrial premature beat
+387619,A,Atrial premature beat
+388337,R,Right bundle branch block
+388849,R,Right bundle branch block
+389102,A,Atrial premature beat
+389372,A,Atrial premature beat
+389640,A,Atrial premature beat
+390342,R,Right bundle branch block
+390588,A,Atrial premature beat
+390858,A,Atrial premature beat
+391545,R,Right bundle branch block
+391794,A,Atrial premature beat
+392065,A,Atrial premature beat
+392337,A,Atrial premature beat
+392602,A,Atrial premature beat
+392869,A,Atrial premature beat
+393136,A,Atrial premature beat
+394055,R,Right bundle branch block
+395011,R,Right bundle branch block
+395429,R,Right bundle branch block
+395682,A,Atrial premature beat
+395948,A,Atrial premature beat
+396206,A,Atrial premature beat
+396468,A,Atrial premature beat
+398056,R,Right bundle branch block
+398494,R,Right bundle branch block
+398759,A,Atrial premature beat
+399025,A,Atrial premature beat
+399290,A,Atrial premature beat
+399555,A,Atrial premature beat
+399820,A,Atrial premature beat
+400078,A,Atrial premature beat
+400351,A,Atrial premature beat
+400620,A,Atrial premature beat
+400888,A,Atrial premature beat
+401679,R,Right bundle branch block
+402682,R,Right bundle branch block
+403124,R,Right bundle branch block
+403372,A,Atrial premature beat
+403640,A,Atrial premature beat
+403904,A,Atrial premature beat
+404164,A,Atrial premature beat
+404422,A,Atrial premature beat
+404687,A,Atrial premature beat
+404956,A,Atrial premature beat
+405222,A,Atrial premature beat
+405899,R,Right bundle branch block
+406148,A,Atrial premature beat
+406408,A,Atrial premature beat
+406674,A,Atrial premature beat
+406947,A,Atrial premature beat
+407209,A,Atrial premature beat
+408462,R,Right bundle branch block
+408953,R,Right bundle branch block
+409197,A,Atrial premature beat
+409461,A,Atrial premature beat
+409724,A,Atrial premature beat
+409986,A,Atrial premature beat
+410245,A,Atrial premature beat
+410509,A,Atrial premature beat
+410768,A,Atrial premature beat
+411029,A,Atrial premature beat
+411300,A,Atrial premature beat
+411564,A,Atrial premature beat
+411831,A,Atrial premature beat
+412809,R,Right bundle branch block
+413535,R,Right bundle branch block
+413784,A,Atrial premature beat
+414048,A,Atrial premature beat
+414316,A,Atrial premature beat
+414585,A,Atrial premature beat
+414852,A,Atrial premature beat
+415115,A,Atrial premature beat
+415381,A,Atrial premature beat
+416130,R,Right bundle branch block
+417576,R,Right bundle branch block
+418009,R,Right bundle branch block
+418255,A,Atrial premature beat
+418523,A,Atrial premature beat
+418790,A,Atrial premature beat
+419053,A,Atrial premature beat
+419322,A,Atrial premature beat
+419596,A,Atrial premature beat
+419864,A,Atrial premature beat
+420136,A,Atrial premature beat
+420405,A,Atrial premature beat
+420679,A,Atrial premature beat
+420955,A,Atrial premature beat
+421952,R,Right bundle branch block
+422393,R,Right bundle branch block
+422652,A,Atrial premature beat
+422924,A,Atrial premature beat
+423188,A,Atrial premature beat
+423451,A,Atrial premature beat
+423723,A,Atrial premature beat
+424003,A,Atrial premature beat
+424275,A,Atrial premature beat
+424544,A,Atrial premature beat
+425617,R,Right bundle branch block
+426051,R,Right bundle branch block
+426304,A,Atrial premature beat
+426567,A,Atrial premature beat
+426835,A,Atrial premature beat
+427111,A,Atrial premature beat
+427375,A,Atrial premature beat
+427643,A,Atrial premature beat
+428804,R,Right bundle branch block
+429258,R,Right bundle branch block
+429510,A,Atrial premature beat
+429771,A,Atrial premature beat
+430043,A,Atrial premature beat
+430319,A,Atrial premature beat
+430586,A,Atrial premature beat
+430852,A,Atrial premature beat
+431123,A,Atrial premature beat
+431390,A,Atrial premature beat
+431658,A,Atrial premature beat
+432788,R,Right bundle branch block
+433365,R,Right bundle branch block
+433617,A,Atrial premature beat
+433895,A,Atrial premature beat
+434154,A,Atrial premature beat
+434422,A,Atrial premature beat
+434692,A,Atrial premature beat
+434960,A,Atrial premature beat
+435232,A,Atrial premature beat
+435509,A,Atrial premature beat
+435778,A,Atrial premature beat
+436858,R,Right bundle branch block
+437400,R,Right bundle branch block
+437648,A,Atrial premature beat
+437921,A,Atrial premature beat
+438192,A,Atrial premature beat
+438460,A,Atrial premature beat
+438728,A,Atrial premature beat
+438997,A,Atrial premature beat
+439261,A,Atrial premature beat
+439530,A,Atrial premature beat
+439812,A,Atrial premature beat
+440080,A,Atrial premature beat
+440716,R,Right bundle branch block
+440974,A,Atrial premature beat
+441239,A,Atrial premature beat
+441913,R,Right bundle branch block
+442163,A,Atrial premature beat
+442427,A,Atrial premature beat
+442693,A,Atrial premature beat
+442969,A,Atrial premature beat
+443234,A,Atrial premature beat
+443506,A,Atrial premature beat
+443779,A,Atrial premature beat
+444533,R,Right bundle branch block
+446025,R,Right bundle branch block
+446331,A,Atrial premature beat
+446513,A,Atrial premature beat
+446678,A,Atrial premature beat
+446882,A,Atrial premature beat
+447109,A,Atrial premature beat
+447374,A,Atrial premature beat
+447598,A,Atrial premature beat
+447831,A,Atrial premature beat
+448076,A,Atrial premature beat
+448848,R,Right bundle branch block
+449256,R,Right bundle branch block
+449505,A,Atrial premature beat
+449776,A,Atrial premature beat
+450038,A,Atrial premature beat
+450302,A,Atrial premature beat
+452324,j,Nodal escape beat
+452796,R,Right bundle branch block
+453045,A,Atrial premature beat
+453306,A,Atrial premature beat
+453572,A,Atrial premature beat
+453829,A,Atrial premature beat
+454098,A,Atrial premature beat
+454370,A,Atrial premature beat
+454630,A,Atrial premature beat
+454891,A,Atrial premature beat
+455152,A,Atrial premature beat
+455420,A,Atrial premature beat
+456353,R,Right bundle branch block
+456790,R,Right bundle branch block
+457033,A,Atrial premature beat
+457302,A,Atrial premature beat
+457564,A,Atrial premature beat
+457822,A,Atrial premature beat
+458086,A,Atrial premature beat
+458349,A,Atrial premature beat
+458621,A,Atrial premature beat
+458892,A,Atrial premature beat
+459161,A,Atrial premature beat
+459425,A,Atrial premature beat
+460545,R,Right bundle branch block
+461368,R,Right bundle branch block
+462304,R,Right bundle branch block
+463206,R,Right bundle branch block
+463737,R,Right bundle branch block
+463979,A,Atrial premature beat
+464242,A,Atrial premature beat
+464491,A,Atrial premature beat
+464748,A,Atrial premature beat
+465009,A,Atrial premature beat
+465270,A,Atrial premature beat
+465530,A,Atrial premature beat
+465790,A,Atrial premature beat
+467366,R,Right bundle branch block
+467784,R,Right bundle branch block
+468038,A,Atrial premature beat
+468306,A,Atrial premature beat
+468568,A,Atrial premature beat
+468818,A,Atrial premature beat
+469075,A,Atrial premature beat
+469334,A,Atrial premature beat
+469588,A,Atrial premature beat
+469850,A,Atrial premature beat
+470116,A,Atrial premature beat
+470376,A,Atrial premature beat
+471075,R,Right bundle branch block
+471623,R,Right bundle branch block
+471871,A,Atrial premature beat
+472134,A,Atrial premature beat
+472396,A,Atrial premature beat
+472661,A,Atrial premature beat
+472928,A,Atrial premature beat
+473192,A,Atrial premature beat
+474686,R,Right bundle branch block
+475087,R,Right bundle branch block
+475334,A,Atrial premature beat
+475595,A,Atrial premature beat
+475852,A,Atrial premature beat
+476116,A,Atrial premature beat
+476376,A,Atrial premature beat
+476637,A,Atrial premature beat
+476897,A,Atrial premature beat
+477155,A,Atrial premature beat
+477419,A,Atrial premature beat
+477691,A,Atrial premature beat
+477950,A,Atrial premature beat
+478218,A,Atrial premature beat
+478480,A,Atrial premature beat
+479736,~,Signal quality change
+480081,R,Right bundle branch block
+480435,~,Signal quality change
+480482,R,Right bundle branch block
+480734,A,Atrial premature beat
+481004,A,Atrial premature beat
+481270,A,Atrial premature beat
+481527,A,Atrial premature beat
+481784,A,Atrial premature beat
+482046,A,Atrial premature beat
+482303,A,Atrial premature beat
+482565,A,Atrial premature beat
+483278,R,Right bundle branch block
+483704,~,Signal quality change
+483807,R,Right bundle branch block
+484057,A,Atrial premature beat
+484702,R,Right bundle branch block
+484956,A,Atrial premature beat
+485026,~,Signal quality change
+485227,A,Atrial premature beat
+485907,R,Right bundle branch block
+486151,A,Atrial premature beat
+486420,A,Atrial premature beat
+486678,A,Atrial premature beat
+486941,A,Atrial premature beat
+487219,A,Atrial premature beat
+487481,A,Atrial premature beat
+487747,A,Atrial premature beat
+488511,R,Right bundle branch block
+490008,R,Right bundle branch block
+490453,R,Right bundle branch block
+490699,A,Atrial premature beat
+490956,A,Atrial premature beat
+491211,A,Atrial premature beat
+491478,A,Atrial premature beat
+491739,A,Atrial premature beat
+492005,A,Atrial premature beat
+492277,A,Atrial premature beat
+492539,A,Atrial premature beat
+492801,A,Atrial premature beat
+493858,R,Right bundle branch block
+494765,R,Right bundle branch block
+495663,R,Right bundle branch block
+496167,R,Right bundle branch block
+496417,A,Atrial premature beat
+496687,A,Atrial premature beat
+496947,A,Atrial premature beat
+497207,A,Atrial premature beat
+497469,A,Atrial premature beat
+497728,A,Atrial premature beat
+497985,A,Atrial premature beat
+498252,A,Atrial premature beat
+498518,A,Atrial premature beat
+498781,A,Atrial premature beat
+499473,R,Right bundle branch block
+500401,R,Right bundle branch block
+500924,R,Right bundle branch block
+501166,A,Atrial premature beat
+501433,A,Atrial premature beat
+501703,A,Atrial premature beat
+501961,A,Atrial premature beat
+502219,A,Atrial premature beat
+502475,A,Atrial premature beat
+502740,A,Atrial premature beat
+503008,A,Atrial premature beat
+503269,A,Atrial premature beat
+503531,A,Atrial premature beat
+503791,A,Atrial premature beat
+504055,A,Atrial premature beat
+504315,A,Atrial premature beat
+504581,A,Atrial premature beat
+504850,A,Atrial premature beat
+505712,R,Right bundle branch block
+507151,R,Right bundle branch block
+507561,R,Right bundle branch block
+507813,A,Atrial premature beat
+508079,A,Atrial premature beat
+508336,A,Atrial premature beat
+508596,A,Atrial premature beat
+508859,A,Atrial premature beat
+509121,A,Atrial premature beat
+509385,A,Atrial premature beat
+509653,A,Atrial premature beat
+509912,A,Atrial premature beat
+510176,A,Atrial premature beat
+510445,A,Atrial premature beat
+512495,R,Right bundle branch block
+512918,R,Right bundle branch block
+513164,A,Atrial premature beat
+513423,A,Atrial premature beat
+513681,A,Atrial premature beat
+513942,A,Atrial premature beat
+514203,A,Atrial premature beat
+514469,A,Atrial premature beat
+514736,A,Atrial premature beat
+514994,A,Atrial premature beat
+516048,R,Right bundle branch block
+516886,R,Right bundle branch block
+517810,R,Right bundle branch block
+518716,R,Right bundle branch block
+519616,R,Right bundle branch block
+520122,R,Right bundle branch block
+520368,A,Atrial premature beat
+520632,A,Atrial premature beat
+520893,A,Atrial premature beat
+521150,A,Atrial premature beat
+521404,A,Atrial premature beat
+521663,A,Atrial premature beat
+521926,A,Atrial premature beat
+522181,A,Atrial premature beat
+522439,A,Atrial premature beat
+522693,A,Atrial premature beat
+522946,A,Atrial premature beat
+523647,R,Right bundle branch block
+524153,R,Right bundle branch block
+524400,A,Atrial premature beat
+524664,A,Atrial premature beat
+524926,A,Atrial premature beat
+525194,A,Atrial premature beat
+525452,A,Atrial premature beat
+525710,A,Atrial premature beat
+525970,A,Atrial premature beat
+526238,A,Atrial premature beat
+526497,A,Atrial premature beat
+526765,A,Atrial premature beat
+527036,A,Atrial premature beat
+527295,A,Atrial premature beat
+528058,R,Right bundle branch block
+528577,R,Right bundle branch block
+528818,A,Atrial premature beat
+529084,A,Atrial premature beat
+529345,A,Atrial premature beat
+529600,A,Atrial premature beat
+529864,A,Atrial premature beat
+530129,A,Atrial premature beat
+530389,A,Atrial premature beat
+530648,A,Atrial premature beat
+530909,A,Atrial premature beat
+531177,A,Atrial premature beat
+531446,A,Atrial premature beat
+531716,A,Atrial premature beat
+532341,R,Right bundle branch block
+532592,A,Atrial premature beat
+532867,A,Atrial premature beat
+533133,A,Atrial premature beat
+533406,A,Atrial premature beat
+534956,R,Right bundle branch block
+535400,R,Right bundle branch block
+535655,A,Atrial premature beat
+535920,A,Atrial premature beat
+536191,A,Atrial premature beat
+536464,A,Atrial premature beat
+536727,A,Atrial premature beat
+536989,A,Atrial premature beat
+537252,A,Atrial premature beat
+537530,A,Atrial premature beat
+537802,A,Atrial premature beat
+538070,A,Atrial premature beat
+539172,R,Right bundle branch block
+539605,R,Right bundle branch block
+539852,A,Atrial premature beat
+540121,A,Atrial premature beat
+540385,A,Atrial premature beat
+540657,A,Atrial premature beat
+540931,A,Atrial premature beat
+541192,A,Atrial premature beat
+542179,R,Right bundle branch block
+542750,R,Right bundle branch block
+542992,A,Atrial premature beat
+543255,A,Atrial premature beat
+543510,A,Atrial premature beat
+543775,A,Atrial premature beat
+544043,A,Atrial premature beat
+544305,A,Atrial premature beat
+544568,A,Atrial premature beat
+544841,A,Atrial premature beat
+545114,A,Atrial premature beat
+545850,R,Right bundle branch block
+546837,R,Right bundle branch block
+547323,R,Right bundle branch block
+547574,A,Atrial premature beat
+547836,A,Atrial premature beat
+548102,A,Atrial premature beat
+548370,A,Atrial premature beat
+548638,A,Atrial premature beat
+548906,A,Atrial premature beat
+549177,A,Atrial premature beat
+549445,A,Atrial premature beat
+549708,A,Atrial premature beat
+549978,A,Atrial premature beat
+550255,A,Atrial premature beat
+550524,A,Atrial premature beat
+550797,A,Atrial premature beat
+551945,R,Right bundle branch block
+552401,R,Right bundle branch block
+552653,A,Atrial premature beat
+552917,A,Atrial premature beat
+553183,A,Atrial premature beat
+553457,A,Atrial premature beat
+553719,A,Atrial premature beat
+553981,A,Atrial premature beat
+554242,A,Atrial premature beat
+554511,A,Atrial premature beat
+554774,A,Atrial premature beat
+555051,A,Atrial premature beat
+556003,R,Right bundle branch block
+556534,R,Right bundle branch block
+556791,A,Atrial premature beat
+557065,A,Atrial premature beat
+557326,A,Atrial premature beat
+557594,A,Atrial premature beat
+557866,A,Atrial premature beat
+558136,A,Atrial premature beat
+558410,A,Atrial premature beat
+558681,A,Atrial premature beat
+558948,A,Atrial premature beat
+559212,A,Atrial premature beat
+559481,A,Atrial premature beat
+559761,A,Atrial premature beat
+560859,R,Right bundle branch block
+561305,R,Right bundle branch block
+561559,A,Atrial premature beat
+561832,A,Atrial premature beat
+562105,A,Atrial premature beat
+562369,A,Atrial premature beat
+562640,A,Atrial premature beat
+562918,A,Atrial premature beat
+563184,A,Atrial premature beat
+563458,A,Atrial premature beat
+563730,A,Atrial premature beat
+564003,A,Atrial premature beat
+564271,A,Atrial premature beat
+564969,R,Right bundle branch block
+565474,R,Right bundle branch block
+565724,A,Atrial premature beat
+566005,A,Atrial premature beat
+566277,A,Atrial premature beat
+566553,A,Atrial premature beat
+566819,A,Atrial premature beat
+567088,A,Atrial premature beat
+567362,A,Atrial premature beat
+567637,A,Atrial premature beat
+567919,A,Atrial premature beat
+568198,A,Atrial premature beat
+568476,A,Atrial premature beat
+568750,A,Atrial premature beat
+569035,A,Atrial premature beat
+569923,R,Right bundle branch block
+570474,R,Right bundle branch block
+570731,A,Atrial premature beat
+571009,A,Atrial premature beat
+571284,A,Atrial premature beat
+571559,A,Atrial premature beat
+571828,A,Atrial premature beat
+572105,A,Atrial premature beat
+573382,R,Right bundle branch block
+573986,R,Right bundle branch block
+574239,A,Atrial premature beat
+574513,A,Atrial premature beat
+574784,A,Atrial premature beat
+575052,A,Atrial premature beat
+575324,A,Atrial premature beat
+575606,A,Atrial premature beat
+575876,A,Atrial premature beat
+576145,A,Atrial premature beat
+576417,A,Atrial premature beat
+577530,R,Right bundle branch block
+577977,R,Right bundle branch block
+578229,A,Atrial premature beat
+578510,A,Atrial premature beat
+578788,A,Atrial premature beat
+579060,A,Atrial premature beat
+579332,A,Atrial premature beat
+579601,A,Atrial premature beat
+579877,A,Atrial premature beat
+580147,A,Atrial premature beat
+580428,A,Atrial premature beat
+580708,A,Atrial premature beat
+580978,A,Atrial premature beat
+581945,R,Right bundle branch block
+582338,R,Right bundle branch block
+582588,A,Atrial premature beat
+582857,A,Atrial premature beat
+583126,A,Atrial premature beat
+583397,A,Atrial premature beat
+583669,A,Atrial premature beat
+583944,A,Atrial premature beat
+584646,R,Right bundle branch block
+585651,R,Right bundle branch block
+586067,R,Right bundle branch block
+586317,A,Atrial premature beat
+586589,A,Atrial premature beat
+586852,A,Atrial premature beat
+587114,A,Atrial premature beat
+587377,A,Atrial premature beat
+587636,A,Atrial premature beat
+588442,R,Right bundle branch block
+588941,R,Right bundle branch block
+589191,A,Atrial premature beat
+589463,A,Atrial premature beat
+589734,A,Atrial premature beat
+590008,A,Atrial premature beat
+590272,A,Atrial premature beat
+590544,A,Atrial premature beat
+590813,A,Atrial premature beat
+591091,A,Atrial premature beat
+591371,A,Atrial premature beat
+591642,A,Atrial premature beat
+592521,R,Right bundle branch block
+593066,R,Right bundle branch block
+593325,A,Atrial premature beat
+593597,A,Atrial premature beat
+593861,A,Atrial premature beat
+594133,A,Atrial premature beat
+594411,A,Atrial premature beat
+594682,A,Atrial premature beat
+594953,A,Atrial premature beat
+595218,A,Atrial premature beat
+595484,A,Atrial premature beat
+595758,A,Atrial premature beat
+596035,A,Atrial premature beat
+597198,R,Right bundle branch block
+598164,R,Right bundle branch block
+598703,R,Right bundle branch block
+598949,A,Atrial premature beat
+599220,A,Atrial premature beat
+599489,A,Atrial premature beat
+599751,A,Atrial premature beat
+600020,A,Atrial premature beat
+600279,A,Atrial premature beat
+600549,A,Atrial premature beat
+600824,A,Atrial premature beat
+601091,A,Atrial premature beat
+601354,A,Atrial premature beat
+601619,A,Atrial premature beat
+601890,A,Atrial premature beat
+602155,A,Atrial premature beat
+603036,R,Right bundle branch block
+603520,R,Right bundle branch block
+603772,A,Atrial premature beat
+604044,A,Atrial premature beat
+604310,A,Atrial premature beat
+604571,A,Atrial premature beat
+604835,A,Atrial premature beat
+605105,A,Atrial premature beat
+605780,R,Right bundle branch block
+606711,R,Right bundle branch block
+607163,R,Right bundle branch block
+607412,A,Atrial premature beat
+607672,A,Atrial premature beat
+607932,A,Atrial premature beat
+608195,A,Atrial premature beat
+608453,A,Atrial premature beat
+608719,A,Atrial premature beat
+608981,A,Atrial premature beat
+609243,A,Atrial premature beat
+609507,A,Atrial premature beat
+609766,A,Atrial premature beat
+610037,A,Atrial premature beat
+610677,R,Right bundle branch block
+610924,A,Atrial premature beat
+611202,A,Atrial premature beat
+611477,A,Atrial premature beat
+611750,A,Atrial premature beat
+613352,R,Right bundle branch block
+613782,R,Right bundle branch block
+614039,A,Atrial premature beat
+614335,A,Atrial premature beat
+614619,A,Atrial premature beat
+615344,R,Right bundle branch block
+616249,R,Right bundle branch block
+617119,R,Right bundle branch block
+617963,R,Right bundle branch block
+618801,R,Right bundle branch block
+619634,R,Right bundle branch block
+619880,A,Atrial premature beat
+620136,A,Atrial premature beat
+620382,A,Atrial premature beat
+620636,A,Atrial premature beat
+620894,A,Atrial premature beat
+621145,A,Atrial premature beat
+621408,A,Atrial premature beat
+621672,A,Atrial premature beat
+621924,A,Atrial premature beat
+622184,A,Atrial premature beat
+622441,A,Atrial premature beat
+622709,A,Atrial premature beat
+622977,A,Atrial premature beat
+623241,A,Atrial premature beat
+623886,R,Right bundle branch block
+624380,R,Right bundle branch block
+624628,A,Atrial premature beat
+624901,A,Atrial premature beat
+625157,A,Atrial premature beat
+625414,A,Atrial premature beat
+625680,A,Atrial premature beat
+625952,A,Atrial premature beat
+626214,A,Atrial premature beat
+626481,A,Atrial premature beat
+626748,A,Atrial premature beat
+627012,A,Atrial premature beat
+627277,A,Atrial premature beat
+627542,A,Atrial premature beat
+627811,A,Atrial premature beat
+628079,A,Atrial premature beat
+628345,A,Atrial premature beat
+629048,R,Right bundle branch block
+629972,R,Right bundle branch block
+630475,R,Right bundle branch block
+630724,A,Atrial premature beat
+630989,A,Atrial premature beat
+631248,A,Atrial premature beat
+631507,A,Atrial premature beat
+631765,A,Atrial premature beat
+632024,A,Atrial premature beat
+632297,A,Atrial premature beat
+632569,A,Atrial premature beat
+632838,A,Atrial premature beat
+633564,R,Right bundle branch block
+634619,R,Right bundle branch block
+635055,R,Right bundle branch block
+635311,A,Atrial premature beat
+635585,A,Atrial premature beat
+635850,A,Atrial premature beat
+636112,A,Atrial premature beat
+636373,A,Atrial premature beat
+636643,A,Atrial premature beat
+636914,A,Atrial premature beat
+637182,A,Atrial premature beat
+637453,A,Atrial premature beat
+637724,A,Atrial premature beat
+637991,A,Atrial premature beat
+638940,R,Right bundle branch block
+639444,R,Right bundle branch block
+639702,A,Atrial premature beat
+639974,A,Atrial premature beat
+640243,A,Atrial premature beat
+640515,A,Atrial premature beat
+640781,A,Atrial premature beat
+641049,A,Atrial premature beat
+641315,A,Atrial premature beat
+641589,A,Atrial premature beat
+641869,A,Atrial premature beat
+642141,A,Atrial premature beat
+643260,R,Right bundle branch block
+643833,R,Right bundle branch block
+644084,A,Atrial premature beat
+644350,A,Atrial premature beat
+644622,A,Atrial premature beat
+644895,A,Atrial premature beat
+645170,A,Atrial premature beat
+645442,A,Atrial premature beat
+645709,A,Atrial premature beat
+645975,A,Atrial premature beat
+646243,A,Atrial premature beat
+646518,A,Atrial premature beat
+647159,R,Right bundle branch block
+647410,A,Atrial premature beat
+647680,A,Atrial premature beat
+647955,A,Atrial premature beat
+648228,A,Atrial premature beat
+648845,R,Right bundle branch block
+649097,A,Atrial premature beat
+649366,A,Atrial premature beat
