@@ -13,3 +13,6 @@ PyQt5_sip==12.18.0
 python-dateutil==2.9.0.post0
 scipy==1.15.3
 six==1.17.0
+wfdb>=4.1.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
